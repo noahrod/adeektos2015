@@ -5,7 +5,7 @@ author: Noé Rodríguez
 slug: apple-empezara-la-produccion-del-siguiente-iphone-en-este-trimestre
 ---
 
-[![image](http://adeektos.com/blog/wp-content/uploads/2013/04/IPHONE-5S-2.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/04/IPHONE-5S-2.jpg)
+[![image](../img/IPHONE-5S-2.jpg)](../img/IPHONE-5S-2.jpg)
 
 De acuerdo al Wall Street Journal, el teléfono **será igual que el iPhone 5 en su diseño exterior**, con algunas mejoras en las especificaciones, como cualquier "S" de la familia de los iPhones. Los amigos de The Journal también dicen que Apple está trabajando en** iPhones más económicos**, hechos de un material diferente al del actual iPhone.
 

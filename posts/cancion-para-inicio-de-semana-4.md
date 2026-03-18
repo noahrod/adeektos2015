@@ -5,7 +5,7 @@ author: Roberto Amador
 slug: cancion-para-inicio-de-semana-4
 ---
 
-![image: Absofacto_Header2](http://adeektos.com/blog/wp-content/uploads/2013/08/Absofacto_Header2.jpg)
+![image: Absofacto_Header2](../img/Absofacto_Header2.jpg)
 
 Para iniciar bien la semana los dejo con una canción que me gustaba desde hace un montón pero siempre se me olvidaba ponerla. La canción es **80844264@81 (Love Song)** de **Absofacto**. 
 

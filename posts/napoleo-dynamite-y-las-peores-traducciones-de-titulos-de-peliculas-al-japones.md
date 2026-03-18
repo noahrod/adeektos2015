@@ -22,7 +22,7 @@ Nada parecida, ni en lo más minimo a *Napoleon Dynamite.* Sin embargo, este hec
 Ya sea una táctica publicitaria o una muestra del sentido del humor por parte de Fox, [*Rocket News *](http://en.rocketnews24.com/2013/08/04/20th-century-fox-to-officially-apologize-for-napoleon-dynamites-crappy-japanese-title/)decidió celebrar el hecho mostrando algunos de los candidatos a la peor traducción del título de una película:
 **Jason Z (Shredder)**
 Buen título si fuera una secuela de *Viernes 13....* pero no lo es, Jason ni siquiera aparece....
-[![image](http://adeektos.com/blog/wp-content/uploads/2013/08/jasonz.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/08/jasonz.jpg)
+[![image](../img/jasonz.jpg)](../img/jasonz.jpg)
 **Die Hard: Last Day (A Good Day to Die Hard)**
 Sinceramente, no los culpo...yo también pensé que ya era la úlima...
 [![image](http://adeektos.com/blog/wp-content/uploads/2013/08/diehardlastday.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/08/diehardlastday.jpg)
@@ -33,7 +33,7 @@ En su defensa diré que el título en inglés también está un poco raro, sonab
 [Babel Fish](http://www.babelfish.com/)????
 [![image](http://adeektos.com/blog/wp-content/uploads/2013/08/goats.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/08/goats.jpg)**96 hours (Taken)**
 Esperen a ver el nombre de la secuela...
-[![image](http://adeektos.com/blog/wp-content/uploads/2013/08/96hours.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/08/96hours.jpg)
+[![image](../img/96hours.jpg)](../img/96hours.jpg)
 **96 Hours Revenge (Taken 2)**
 Se los dije...
 [![image](http://adeektos.com/blog/wp-content/uploads/2013/08/96hoursrevenge.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/08/96hoursrevenge.jpg)
@@ -42,10 +42,10 @@ No confundir con la bebida refrescante... o a lo mejor quisieron decir santería
 [![image](http://adeektos.com/blog/wp-content/uploads/2013/08/sangria.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/08/sangria.jpg)
 **Batallian (The Return of the Living Dead)**
 Aquí si no tengo idea de qué estaban pensando...
-[![image](http://adeektos.com/blog/wp-content/uploads/2013/08/batarion.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/08/batarion.jpg)
+[![image](../img/batarion.jpg)](../img/batarion.jpg)
 **Angel Wars (Sucker Punch)**
 Bueno... qué se puede esperar de una película que son chicas en calzones y balazos...
-[![image](http://adeektos.com/blog/wp-content/uploads/2013/08/angel.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/08/angel.jpg)
+[![image](../img/angel.jpg)](../img/angel.jpg)
 **Syriana (Syriana)**
 Aquí todo suena muy bien... hasta que lo pronuncias en Japonés "*Shiriana" *y te das cuenta que *shiri *significa trasero y *ana *agujero...
 [![image](http://adeektos.com/blog/wp-content/uploads/2013/08/siriana.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/08/siriana.jpg)

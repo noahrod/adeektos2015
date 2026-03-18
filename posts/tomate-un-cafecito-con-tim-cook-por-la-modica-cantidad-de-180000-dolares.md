@@ -5,7 +5,7 @@ author: Noé Rodríguez
 slug: tomate-un-cafecito-con-tim-cook-por-la-modica-cantidad-de-180000-dolares
 ---
 
-[![image: tech_tim_cook_1-e1348841749223](http://adeektos.com/blog/wp-content/uploads/2013/04/tech_tim_cook_1-e1348841749223.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/04/tech_tim_cook_1-e1348841749223.jpg)
+[![image: tech_tim_cook_1-e1348841749223](../img/tech_tim_cook_1-e1348841749223.jpg)](../img/tech_tim_cook_1-e1348841749223.jpg)
 
 Si eres uno de los que tiene iPod, iPhone, iPad, Macbook, iMac y hasta Apple tv, esta noticia te llamara mucho la atención puesto que el CEO de Apple se ha puesto en modo subasta, para recaudar fondos y apoyar al [Centro Robert Kennedy para la justicia y los derechos humanos](http://rfkcenter.org/).
 

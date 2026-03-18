@@ -5,7 +5,7 @@ author: Noé Rodríguez
 slug: gifs-animados-en-una-apple-ii
 ---
 
-![image: vader](http://adeektos.com/blog/wp-content/uploads/2013/07/vader.gif)
+![image: vader](../img/vader.gif)
 
 Antes de que existiera el Internet, los geeks también necesitaban ver esos gifs de gatitos que tanto disfrutamos hoy en día. Desafortunadamente el poder de procesamiento de computo en los 80's no era para nada cercano al que tenemos hoy y por lo tanto ver gifs era algo imposible. 
 

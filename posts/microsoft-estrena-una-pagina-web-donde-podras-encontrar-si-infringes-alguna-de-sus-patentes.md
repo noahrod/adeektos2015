@@ -5,7 +5,7 @@ author: Noé Rodríguez
 slug: microsoft-estrena-una-pagina-web-donde-podras-encontrar-si-infringes-alguna-de-sus-patentes
 ---
 
-[![image](http://adeektos.com/blog/wp-content/uploads/2013/03/mspatent.png)](http://adeektos.com/blog/wp-content/uploads/2013/03/mspatent.png)
+[![image](../img/mspatent.png)](../img/mspatent.png)
 
 Mientras que los amigos de Google nos indican que no tendrán problema alguno con las aplicaciones de código abierto que usen sus patentes, los chicos de la casa de las ventanas estrenan una flamante web donde cualquier desarrollador o fabricante puede hacer una búsqueda para saber si está utilizando algunas patentes de Microsoft.
 

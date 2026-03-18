@@ -11,7 +11,7 @@ Ser padre no es cosa fácil y menos en estos tiempos. Gracias a las redes móvil
 
 **1. [Securus eZoom](http://www.securusgps.com/eZoom.aspx)**
 
-![image: Securus-eZoom-2](http://adeektos.com/blog/wp-content/uploads/2013/07/Securus-eZoom-2.jpg)
+![image: Securus-eZoom-2](../img/Securus-eZoom-2.jpg)
 
 El eZoom es un pequeño dispositivo que puede ser puesto en la mochila del niño o puede ser instalado de forma permanente en su carro (en caso de ser adolescente). Con la ayuda de una PC o un smartphone puedes revisar a detalle su ubicación. Puedes también delimitar zonas seguras, en caso de que se salga de ellas el dispositivo te notificara para que te puedas poner las pilas.
 
@@ -29,7 +29,7 @@ Este es el que más me gusta, porque además de tener Apps para el iOS y el Andr
 
 **4. Aplicaciones para el celular**
 
-![image: Life360](http://adeektos.com/blog/wp-content/uploads/2013/07/Life360.jpg)
+![image: Life360](../img/Life360.jpg)
 
 Si tu hijo ya está en edad y ya le compraste un Smartphone, instálale una app y empieza a rastrearlo. Hay infinidad de aplicaciones disponibles, te dejamos por ejemplo: [GPS Location Tracker](http://www.followmee.com/) , [Life360](http://www.life360.com/) y las que no necesitan app instalada como: [Ubicacel de Iusacell](http://ubicacelfamiliar.iusacell3g.com.mx/UbicacelFamiliar/).
 ---

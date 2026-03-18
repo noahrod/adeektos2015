@@ -5,7 +5,7 @@ author: Noé Rodríguez
 slug: no-todos-deberian-poder-viajar
 ---
 
-![image: jim-carrey-00-660x330](http://adeektos.com/blog/wp-content/uploads/2013/10/jim-carrey-00-660x330.jpg)
+![image: jim-carrey-00-660x330](../img/jim-carrey-00-660x330.jpg)
 
 Si en tu vida Godínez tienes vacaciones y vas a viajar a un lugar desconocido, no te olvides que **viajar significa experimentar**, hacer todo lo que no haces en tu día de oficina.
 

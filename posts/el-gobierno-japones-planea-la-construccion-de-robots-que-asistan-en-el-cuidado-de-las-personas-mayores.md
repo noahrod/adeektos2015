@@ -9,7 +9,7 @@ slug: el-gobierno-japones-planea-la-construccion-de-robots-que-asistan-en-el-cui
 
 No podemos negar que ya nos encontramos en el futuro. Durante los 80's y 90's tanto la televisión como el cine, junto con algún otro cómic y libro, nos prometieron que a partir del año 20XX contaríamos con carros y patinetas voladoras, ropa que se seca sola, comida deshidratada en forma de píldoras, hacer viajes a la luna sería algo común y que además, todos contaríamos con nuestro robot asistente.
 
-[caption id="" align="aligncenter" width="400"]![image](http://img571.imageshack.us/img571/3593/hoverboard.jpg) Vamos Científicos, aún les quedan dos años[/caption]
+[caption id="" align="aligncenter" width="400"]![image](../img/hoverboard.jpg) Vamos Científicos, aún les quedan dos años[/caption]
 
  
 
@@ -21,7 +21,7 @@ De acuerdo al reportaje, se planea que los robots sean capaces de asistir a los 
 
 Al parecer aún estamos lejos de tener nuestros traductores como C3PO o aventureros intrépidos como R2D2, pero pronto seremos capaces de tener a un acompañante cibernético que nos recordará que debemos comer menos grasa porque tenemos el colesterol alto o que organice fiestas cuando no estamos.
 
-[caption id="" align="aligncenter" width="500"]![image](http://lolzombie.com/wp-content/uploads/2011/08/tumblr_lefg4xungv1qzd56wo1_500.jpg) R2 si que sabe organizar una buena fiesta[/caption]
+[caption id="" align="aligncenter" width="500"]![image](../img/tumblr_lefg4xungv1qzd56wo1_500.jpg) R2 si que sabe organizar una buena fiesta[/caption]
 
 ¿Qué opinan sobre esto? Creen que los japoneses serán capaces de llevarnos a una nueva era donde los hombres y los robots convivan o sólo estamos inciando la revolución de las máquinas que acabará con nosotros??? No olviden dejarnos sus comentarios.
 ---

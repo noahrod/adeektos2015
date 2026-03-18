@@ -5,7 +5,7 @@ author: Roberto Amador
 slug: cancion-para-inicio-de-semana-ft-twin-forks
 ---
 
-![image](http://adeektos.com/blog/wp-content/uploads/2013/10/twin-forks-1024x576.jpg)
+![image](../img/twin-forks-1024x576.jpg)
 
 **Twin Forks** es una banda de Folk Rock de Boca Raton, Florida que empezo en el 2011 por Chris Carrabba. La banda actualmente esta formada por:
 

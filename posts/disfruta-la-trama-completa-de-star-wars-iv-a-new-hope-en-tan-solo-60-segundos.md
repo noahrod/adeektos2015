@@ -5,7 +5,7 @@ author: Noé Rodríguez
 slug: disfruta-la-trama-completa-de-star-wars-iv-a-new-hope-en-tan-solo-60-segundos
 ---
 
-[![image](http://adeektos.com/blog/wp-content/uploads/2013/04/star-wars.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/04/star-wars.jpg)
+[![image](../img/star-wars.jpg)](../img/star-wars.jpg)
 
 Es un hecho que los tiempos han cambiado y que ahora queremos hacerlo todo muy rápido. En caso de que seas una de esas pocas personas que no han visto el episodio IV de la saga de Star Wars aquí te compartimos toda la trama en tan solo 60 segundos:
 

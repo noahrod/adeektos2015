@@ -5,7 +5,7 @@ author: Roberto Amador
 slug: cancion-para-fin-de-semana-ft-max-frost
 ---
 
-![image](http://adeektos.com/blog/wp-content/uploads/2013/12/maxfrostbanner-1024x576.jpg)
+![image](../img/maxfrostbanner-1024x576.jpg)
 
 **Max Frost** es un músico de Austin, Texas que toca un genero combinado de hip-hop, soul y funk. Max empezó a tocar desde los 8 años de edad y empezó a salir en shows a los 12 años con varios artistas como *Bob Schneider y Kydd*. Su música esta influenciada por *Erykah Badu y D’Angelo* y comenzó a agregar hip-hop en su música tratando de combinar un poco de blues. Espero les guste, dejen sus comentarios o recomendaciones en la parte de abajo.
 

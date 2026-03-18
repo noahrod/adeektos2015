@@ -5,7 +5,7 @@ author: Noé Rodríguez
 slug: preparandose-para-el-corona-capital-2013-capital-cities
 ---
 
-![image: 473864](http://adeektos.com/blog/wp-content/uploads/2013/09/473864.jpg)
+![image: 473864](../img/473864.jpg)
 
 **Capital Cities** es un dúo estadounidense de **indie pop** oriundo de **Los Ángeles, California**. Está integrado por Ryan Merchant y Sebu Simonian. Su EP debut fue lanzado de manera independiente el 7 de junio de 2011, siendo "**Safe and Sound**" el primer sencillo y el más exitoso de la banda.
 

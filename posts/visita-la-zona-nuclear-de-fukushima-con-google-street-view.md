@@ -5,7 +5,7 @@ author: Noé Rodríguez
 slug: visita-la-zona-nuclear-de-fukushima-con-google-street-view
 ---
 
-[![image](http://adeektos.com/blog/wp-content/uploads/2013/03/jnz-1024x637.png)](http://adeektos.com/blog/wp-content/uploads/2013/03/jnz.png)
+[![image](../img/jnz-1024x637.png)](http://adeektos.com/blog/wp-content/uploads/2013/03/jnz.png)
 
 Dos años después de la devastadora** crisis nuclear** en la planta de energía japonesa **en Fukushima Daiichi**, Google Street View nos pone al alcance el explorar una de las ciudades contaminadas por la radiación.
 

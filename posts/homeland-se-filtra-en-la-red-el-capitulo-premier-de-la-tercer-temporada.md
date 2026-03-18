@@ -5,7 +5,7 @@ author: Noé Rodríguez
 slug: homeland-se-filtra-en-la-red-el-capitulo-premier-de-la-tercer-temporada
 ---
 
-![image: homeland](http://adeektos.com/blog/wp-content/uploads/2013/09/homeland.jpg)
+![image: homeland](../img/homeland.jpg)
 
 Si eres fan de Homeland de seguro estarás maravillado de que se haya filtrado el primer capítulo de la tercera temporada en la red. Tu ansiosa espera al 29 de septiembre queda en la historia pues en este link encontraras lo que buscabas:
 

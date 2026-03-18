@@ -5,7 +5,7 @@ author: Roberto Amador
 slug: preparandose-para-el-corona-capital-2013-phoenix
 ---
 
-![image](http://adeektos.com/blog/wp-content/uploads/2013/09/TopMusicaBlog_PhoenixLiveinSydney.jpg)
+![image](../img/TopMusicaBlog_PhoenixLiveinSydney.jpg)
 
 **Phoenix** es un grupo francés de rock alternativo formado a finales de los años 90 en Versalles, Francia.
 

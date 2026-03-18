@@ -5,7 +5,7 @@ author: Noé Rodríguez
 slug: last-fm-ahora-con-spotify-para-ofrecer-musica-on-demand
 ---
 
-![image: last.fm_](http://adeektos.com/blog/wp-content/uploads/2014/01/last.fm_.jpg)
+![image: last.fm_](../img/last.fm_.jpg)
 
 **Last.fm** es uno de los servicios musicales más viejos que existen actualmente. Personalmente llevo años *scrobbleando* lo que escucho y me encanta poder ver en números claramente cual banda escucho más y que canciones son mis preferidas. Lleva años ya ofreciendo música en streaming pero sin ser on demand (salvo las que regalan los propios artistas) y siempre mediante emisoras de radio personalizadas.
 

@@ -5,7 +5,7 @@ author: Noé Rodríguez
 slug: lo-siento-dominos-pero-llegas-tarde
 ---
 
-![image: DominosDrone2](http://adeektos.com/blog/wp-content/uploads/2013/06/DominosDrone2.jpg)
+![image: DominosDrone2](../img/DominosDrone2.jpg)
 
 Pareciera una idea innovadora y revolucionaria. Un drone que te lleve la pizza hasta la puerta de tu casa. El famoso "**DomiCopter**”, un drone creado y operado por la compañía [AeroSight](http://www.aerosight.co.uk/). 
 

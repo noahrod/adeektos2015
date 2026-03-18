@@ -5,7 +5,7 @@ author: Roberto Amador
 slug: cancion-para-inicio-de-semana-ft-emmy-the-great
 ---
 
-[![image](http://adeektos.com/blog/wp-content/uploads/2013/11/emmythegreatbanner.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/11/emmythegreatbanner.jpg)
+[![image](../img/emmythegreatbanner.jpg)](../img/emmythegreatbanner.jpg)
 
 *Emma-Lee Moss*, conocida por su nombre teatral como **Emmy the Great**, es una cantante/escritora londinense. Ella ha lanzado dos albums First Love y Virtue. Ella ha interpretado junto con *Lightspeed Champion* y *Noah and the Whale* y también ha escrito artículos para *Vice* y *The Observer UK*. Espero les guste, dejen sus comentarios o recomendaciones en la parte de abajo.
 

@@ -7,7 +7,7 @@ slug: esto-es-realmente-util-un-refrigerador-portatil-para-sandias
 
 Bueno, bueno tal vez estoy exagerando un poco.... Todos necesitamos una buena hielera, son muy útiles para poder llevar unas cervezas a esa carne asada con los amigos, o mantener fresca la comida para ese día de campo con la chica de tus sueños en Chapultepec, justo antes de llevarla a las lanchas. Sin embargo, la compañía japonesa[ Joybond](http://joybond.co.jp/index.php) ha llevado este concepto a otro nivel al traernos a Tama-chan, un pequeño refrigerador y calentador portátil, con todo y sus rueditas para que lo lleves a todos lados contigo.
 
-![image](http://sociorocketnewsen.files.wordpress.com/2013/04/tamachan-1.jpg?w=580&h=468)
+![image](../img/tamachan-1.jpg)
 
 Sin embargo, lo que ha sorprendido a todos, inclusive al público japonés, es que la compañía lo anuncia como la mejor opción para poder transportar tu sandía y mantenerla fresca, debido a su peculiar forma, e inclusive viene con su propia red para sandías. Probablemente, la compañía decidió dar este enfoque a su producto debido a que en Japón la sandia es muy popular (muy probablemente, porque se considera algo especial como para celebraciones o algo similar, la fruta aquí es muy cara). Inclusive, existe un juego llamado suikawari, en el que los participantes tratan de romper la sandía con los ojos vendados, similar a tratar de romper una piñata, algo muy típico para los viajes a la playa o en festivales o días de campo, como nos muestra el siguiente video:
 

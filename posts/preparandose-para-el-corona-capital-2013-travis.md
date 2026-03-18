@@ -5,7 +5,7 @@ author: Roberto Amador
 slug: preparandose-para-el-corona-capital-2013-travis
 ---
 
-![image](http://adeektos.com/blog/wp-content/uploads/2013/09/Travis-band.jpg)
+![image](../img/Travis-band.jpg)
 
 Travis es una banda escocesa de rock alternativo. El grupo fue formado en Glasgow en el año de 1990 y esta formada por Fran Healy, Dougie Payne, Andy Dunlop y Neil Primrose.
 

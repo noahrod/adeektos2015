@@ -13,15 +13,15 @@ Aquí te dejamos con unas impactantes fotografías de lo que está pasando en el
 
 Minnesota a **-45 grados Celsius**. Eso es tan frío que si expusieras tu piel por tan solo 5 minutos, esta sufriría de quemaduras. 
 
-![image: minnesota](http://adeektos.com/blog/wp-content/uploads/2014/01/minnesota.jpg)
+![image: minnesota](../img/minnesota.jpg)
 
 El lago Michigan a **-26 grados Celsius**.
 
-![image: chicago](http://adeektos.com/blog/wp-content/uploads/2014/01/chicago.jpg)
+![image: chicago](../img/chicago.jpg)
 
 ¿Te imaginas caminar a tu trabajo en este clima? Así le hacen en NY.
 
-![image: NY](http://adeektos.com/blog/wp-content/uploads/2014/01/NY.jpg)
+![image: NY](../img/NY.jpg)
 
 Lo mismo pasa en Detroit.
 

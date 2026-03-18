@@ -5,7 +5,7 @@ author: Roberto Amador
 slug: preparandose-para-el-corona-capital-2013-quadron
 ---
 
-![image](http://adeektos.com/blog/wp-content/uploads/2013/08/quadron_cover_rgb-300x300.jpg)
+![image](../img/quadron_cover_rgb-300x300.jpg)
 
 Bueno ya se acerca el Corona Capital 2013 y en honor a eso vamos a poner 14 bandas (2 por semana). La primer banda es Quadron, la cual esta compuesta por el duo Danés de Coco O y Robin Hannibal. El grupo denomina su música como electro soul. Espero les guste y dejen sus comentarios o recomendaciones abajo.
 

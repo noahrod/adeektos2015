@@ -9,7 +9,7 @@ slug: dominos-pizza-japon-se-une-a-la-locura-por-hatsune-miku
 
 Esta aplicación no sólo te permite ordenar una pizza sin la tediosa y molesta tarea de hablar por teléfono con alguien, sino que, sus usuarios recibirán su pizza en una de las dos cajas especiales en las que figura Miku, y si tienen la suficiente suerte, puede ser entregada en una de las motos que ha sido decoradas para la ocasión:
 
-[![image](http://adeektos.com/blog/wp-content/uploads/2013/08/dp-6.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/08/dp-6.jpg)
+[![image](../img/dp-6.jpg)](../img/dp-6.jpg)
 
 [![image](http://adeektos.com/blog/wp-content/uploads/2013/08/mb-2.png)](http://adeektos.com/blog/wp-content/uploads/2013/08/mb-2.png)
 
@@ -17,7 +17,7 @@ Esta aplicación no sólo te permite ordenar una pizza sin la tediosa y molesta 
 
 Pero esto no es todo. La aplicación utiliza un software de realidad aumentada, el cual permite poner imágenes generadas por computadora sobre objetos reales, para poder dar a los usuarios la experiencia de un show privado en vivo protagonizado por Miku:
 
-[![image](http://adeektos.com/blog/wp-content/uploads/2013/08/dominos-pizza-stage.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/08/dominos-pizza-stage.jpg)
+[![image](../img/dominos-pizza-stage.jpg)](../img/dominos-pizza-stage.jpg)
 
 [![image](http://adeektos.com/blog/wp-content/uploads/2013/08/dp-8.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/08/dp-8.jpg)
 

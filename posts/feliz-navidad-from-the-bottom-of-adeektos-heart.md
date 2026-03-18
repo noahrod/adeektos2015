@@ -5,7 +5,7 @@ author: Noé Rodríguez
 slug: feliz-navidad-from-the-bottom-of-adeektos-heart
 ---
 
-![image: Merry_Christmas](http://adeektos.com/blog/wp-content/uploads/2013/12/Merry_Christmas.jpg)
+![image: Merry_Christmas](../img/Merry_Christmas.jpg)
 
 Aquí en Adeektos estamos muy felices de cumplir nuestra primera navidad como Blog. El espíritu navideño se siente por todos lados y **José Feliciano** suena en todas partes. Por lo cual aquí en Adeektos nos pusimos a buscar **los mejores covers de** su máximo éxito: **Feliz Navidad**. 
 

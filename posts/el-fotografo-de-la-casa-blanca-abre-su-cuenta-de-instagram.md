@@ -5,7 +5,7 @@ author: Noé Rodríguez
 slug: el-fotografo-de-la-casa-blanca-abre-su-cuenta-de-instagram
 ---
 
-![image: 6513f3fcf54411e2890322000a9e48f1_7](http://adeektos.com/blog/wp-content/uploads/2013/07/6513f3fcf54411e2890322000a9e48f1_7.jpg)
+![image: 6513f3fcf54411e2890322000a9e48f1_7](../img/6513f3fcf54411e2890322000a9e48f1_7.jpg)
 
 Pete Souza, el fotógrafo oficial de la casa blanca abrió su cuenta de Instagram, lo cual significara el acceso a muchas fotografías "detrás de cámara" de la presidencia, tal cual lo indica en la descripción de su primera imagen de Instagram.
 

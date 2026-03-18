@@ -27,7 +27,7 @@ Entonces, qué pasa con Kitty? Bueno, en la opinión de Sanrio, un equivalente d
 
 Finalmente, el punto de este artículo era traer un poco de paz al caos que desató la noticia. Los fans pueden descansar a gusto, Kitty no es humana, es una versión antropomórfica de un gato. Todo fue un gran malentendido, como cuando medios en español estaban diciendo que la moda en Japón era ponerse [panties en la cabeza](http://adeektos.com/blog/desmintiendo-internet-kaopan-y-hentai-kamen/). Dicho sea de paso, los chicos de Rocket News aprovecharon también para preguntar ¿porqué Kitty no tiene boca? A lo que la gente  de Sanrio respondió: Claro que la tiene!!! sólo que no la dibujamos.  Aunque en esto también hay un poco de debate, ya que en el [FAQ de Sanrio](http://www.sanrio.com/faqs/#27) dice que Kitty habla desde el corazón, y al ser la embajadora de Sanrio para el mundo, no tiene boca para simbolizar que no está atada a un idioma en particular, sino a todos. Ambas respuestas son satisfactorias; otro misterio que finalmente ha sido resuelto.
 
-[caption id="" align="aligncenter" width="253"]![image: ](https://sociorocketnewsen.files.wordpress.com/2014/08/kitty-2.gif?w=450&h=331) Kitty no sólo tiene boca, sino que es gandalla.[/caption]
+[caption id="" align="aligncenter" width="253"]![image: ](../img/kitty-2.gif) Kitty no sólo tiene boca, sino que es gandalla.[/caption]
 
 Para finalizar, les dejamos unos datos curiosos sobre este famoso personaje: su altura es 5 manzanas, tiene una hermana gemela llamada Mimmy; su apellido es White y es británica. Tiene habilidad para el inglés y la música, su sueño es ser pianista o poeta.  Esperamos que con esto, finalmente puedan dormir y abandonen las ideas de tomar las armas con tal de traer orden al mundo.
 

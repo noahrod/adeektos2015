@@ -5,7 +5,7 @@ author: Noé Rodríguez
 slug: 19-de-octubre-kashmir-regresa-a-mexico
 ---
 
-![image: kashmirgdl](http://adeektos.com/blog/wp-content/uploads/2013/05/kashmirgdl.jpg)
+![image: kashmirgdl](../img/kashmirgdl.jpg)
 
 Kashmir es un cuarteto de rock alternativo originario de Dinamarca que regresará a México para dar conciertos en el D.F. y en Guadalajara. 
 

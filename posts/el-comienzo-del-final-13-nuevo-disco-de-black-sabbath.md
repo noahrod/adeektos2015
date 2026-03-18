@@ -5,7 +5,7 @@ author: Luis Antonio Arias Romo
 slug: el-comienzo-del-final-13-nuevo-disco-de-black-sabbath
 ---
 
-![image: Black-Sabbath](http://adeektos.com/blog/wp-content/uploads/2013/06/Black-Sabbath.jpg)
+![image: Black-Sabbath](../img/Black-Sabbath.jpg)
 
 Haciendo un regreso después de más 30 años sin un disco de estudio con Ozzy Osbourne, varias peleas entre Ozzy y Tony Iommi, una breve reunión en el 2006 y por supuesto el lamentable deceso de una de las más grandes leyendas del Metal: Ronnie James Dio, Black Sabbath estrena el pasado jueves 13 de Junio nuevo disco de estudio: "13".
 

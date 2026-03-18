@@ -5,7 +5,7 @@ author: Roberto Amador
 slug: cancion-para-inicio-de-semana-ft-mother-falcon
 ---
 
-![image](http://adeektos.com/blog/wp-content/uploads/2014/01/motherbanner.png)
+![image](../img/motherbanner.png)
 
 **Mother falcon** es un grupo de Austin, TX que toca una combinación de música *clásica y folk* con la estética y mentalidad del indie. Han ganado bastante fama pero aún siento que les falta para que realmente les hagan justicia.
 

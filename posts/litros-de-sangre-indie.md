@@ -5,7 +5,7 @@ author: Alan Luna
 slug: litros-de-sangre-indie
 ---
 
-[![image](http://adeektos.com/blog/wp-content/uploads/2013/07/tumblr_morpt8vse31r19ay9o1_500-212x300.png)](http://adeektos.com/blog/wp-content/uploads/2013/07/tumblr_morpt8vse31r19ay9o1_500.png)
+[![image](../img/tumblr_morpt8vse31r19ay9o1_500-212x300.png)](http://adeektos.com/blog/wp-content/uploads/2013/07/tumblr_morpt8vse31r19ay9o1_500.png)
 
 Este viernes 12 de julio se estrenó en USA la película de horror independiente V/H/S 2 la cual, siguiendo la línea de su antecesora, recurre a la temática "found footage" (tan socorrido en la última década) para mostrarnos la historia de dos investigadores privados que, en medio de la búsqueda de un estudiante perdido, se hacen de la colección de unos vídeos en formato VHS que ocultan truculentas grabaciones llenas de sangre, gritos, majaderías y todas esas obscenidades que tanto nos gustan.
 

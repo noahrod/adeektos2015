@@ -5,7 +5,7 @@ author: Noé Rodríguez
 slug: msn-messenger-ya-es-historia
 ---
 
-[![image](http://adeektos.com/blog/wp-content/uploads/2013/04/msn-skype.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/04/msn-skype.jpg)
+[![image](../img/msn-skype.jpg)](../img/msn-skype.jpg)
 
 Uno se puede poner medio nostálgico con esta noticia. Me recuerdo perfectamente instalando la versión 1.0 de Messenger en mi flamante PC con Windows 98, 64 mb de ram y un procesador Celeron de 400mhz. **Mudarse de ICQ a Messenger como lo más cool en aquellos momentos.**
 

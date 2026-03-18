@@ -5,7 +5,7 @@ author: Noé Rodríguez
 slug: liberator-la-pistola-imprimible-de-plastico
 ---
 
-![image: liberator_2](http://adeektos.com/blog/wp-content/uploads/2013/05/liberator_2.jpg)
+![image: liberator_2](../img/liberator_2.jpg)
 
 Conseguir una pistola hoy en día para alguien como yo pareciera algo muy complicado, sobretodo en México. No tengo interés en obtener una licencia para portar armas ni tengo contactos en los barrios bajos que me ayuden en esta tarea. Aquí es donde Liberator aparece, una pistola que se puede reproducir completamente con una impresora 3D. 
 

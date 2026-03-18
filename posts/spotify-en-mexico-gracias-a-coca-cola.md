@@ -5,7 +5,7 @@ author: Noé Rodríguez
 slug: spotify-en-mexico-gracias-a-coca-cola
 ---
 
-[![image](http://adeektos.com/blog/wp-content/uploads/2013/04/Spotify-Coca-Cola.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/04/Spotify-Coca-Cola.jpg)
+[![image](../img/Spotify-Coca-Cola.jpg)](../img/Spotify-Coca-Cola.jpg)
 
 Para los amantes de la música esta es una gran noticia, después de muchos rumores sin confirmar hoy se dio a conocer la fecha de lanzamiento para **[Spotify ](http://es.wikipedia.org/wiki/Spotify)en México: ****15 de abril.**
 

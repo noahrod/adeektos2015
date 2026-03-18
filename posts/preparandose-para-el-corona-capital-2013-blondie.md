@@ -5,7 +5,7 @@ author: Roberto Amador
 slug: preparandose-para-el-corona-capital-2013-blondie
 ---
 
-![image](http://adeektos.com/blog/wp-content/uploads/2013/09/blondie.jpg)
+![image](../img/blondie.jpg)
 
 **Blondie** es una popular, influyente e importante banda norteamericana de rock de los años setenta, parte integrante de la llamada Nueva Ola, y referente estético y musical del pop de los ochenta.
 

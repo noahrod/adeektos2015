@@ -11,9 +11,9 @@ Finalmente, es momento de continuar con nuestra muestra sobre las 10 casas que s
 
 Como su nombre lo dice, esta casa está diseñada para parecer una gota de agua. Lo más increíble de esta casa es que sólo ocupa tres metros de ancho, siendo una de las más grandes obras del diseño de arquitectura urbana en la ciudad.
 
-[![image](http://adeektos.com/blog/wp-content/uploads/2013/10/luckydrop1.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/10/luckydrop1.jpg)
+[![image](../img/luckydrop1.jpg)](../img/luckydrop1.jpg)
 
-[![image](http://adeektos.com/blog/wp-content/uploads/2013/10/lucky-drops-2.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/10/lucky-drops-2.jpg)
+[![image](../img/lucky-drops-2.jpg)](../img/lucky-drops-2.jpg)
 
  
 
@@ -21,13 +21,13 @@ Como su nombre lo dice, esta casa está diseñada para parecer una gota de agua.
 
 ****Esta casa también es un ejemplo de la genialidad en el diseño. Posee una entrada angosta por el frente y el resto de la casa, un poco más espaciosa, se encuentra en la parte trasera; ambas partes unidas por un pequeño jardín. De esta forma, el diseño aprovecha un pedazo de tierra en forma de L y utiliza de manera eficiente terreno que antes era inutilizable.
 
-[![image](http://adeektos.com/blog/wp-content/uploads/2013/10/near-house.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/10/near-house.jpg)
+[![image](../img/near-house.jpg)](../img/near-house.jpg)
 
-[![image](http://adeektos.com/blog/wp-content/uploads/2013/10/near-house-2.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/10/near-house-2.jpg)
+[![image](../img/near-house-2.jpg)](../img/near-house-2.jpg)
 
-[![image](http://adeektos.com/blog/wp-content/uploads/2013/10/near-house-extra.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/10/near-house-extra.jpg)
+[![image](../img/near-house-extra.jpg)](../img/near-house-extra.jpg)
 
-[![image](http://adeektos.com/blog/wp-content/uploads/2013/10/near-house-extra-3.gif)](http://adeektos.com/blog/wp-content/uploads/2013/10/near-house-extra-3.gif)
+[![image](../img/near-house-extra-3.gif)](../img/near-house-extra-3.gif)
 
  
 
@@ -37,9 +37,9 @@ Ocupando un espacio de treinta metros cuadrados, esta casa resalta por el hueco 
 
 [![image](http://adeektos.com/blog/wp-content/uploads/2013/10/house-with-a-gap-model.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/10/house-with-a-gap-model.jpg)
 
-[![image](http://adeektos.com/blog/wp-content/uploads/2013/10/house-with-a-gap.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/10/house-with-a-gap.jpg)
+[![image](../img/house-with-a-gap.jpg)](../img/house-with-a-gap.jpg)
 
-[![image](http://adeektos.com/blog/wp-content/uploads/2013/10/house-with-a-gap-2.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/10/house-with-a-gap-2.jpg)
+[![image](../img/house-with-a-gap-2.jpg)](../img/house-with-a-gap-2.jpg)
 
 [![image](http://adeektos.com/blog/wp-content/uploads/2013/10/split-extra.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/10/split-extra.jpg)
 
@@ -49,13 +49,13 @@ Ocupando un espacio de treinta metros cuadrados, esta casa resalta por el hueco 
 
 Esta casa cuenta con un diseño muy estilizado y moderno. Consiste en varios niveles interconectados, con una fachada de cristal. La idea es que aunque la casa sea pequeña, ésta tenga una gran vista.
 
-[![image](http://adeektos.com/blog/wp-content/uploads/2013/10/show-machi-1.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/10/show-machi-1.jpg)
+[![image](../img/show-machi-1.jpg)](../img/show-machi-1.jpg)
 
 [![image](http://adeektos.com/blog/wp-content/uploads/2013/10/showa-machi-3.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/10/showa-machi-3.jpg)
 
-[![image](http://adeektos.com/blog/wp-content/uploads/2013/10/showamachi.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/10/showamachi.jpg)
+[![image](../img/showamachi.jpg)](../img/showamachi.jpg)
 
-[![image](http://adeektos.com/blog/wp-content/uploads/2013/10/showacho-extra.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/10/showacho-extra.jpg)
+[![image](../img/showacho-extra.jpg)](../img/showacho-extra.jpg)
 
  
 
@@ -63,7 +63,7 @@ Esta casa cuenta con un diseño muy estilizado y moderno. Consiste en varios niv
 
 Esta pequeña casa de estilo escandinavo recibe su nombre debido a que, auque a simple vista no lo parezca, se encuentra dividida en dos. Justo en medio de la casa se existe un jardín que separa las partes delantera y trasera, ambas son reflejo de la una a la otra y se encuentran unidas por medio de un pequeño puente de madera. El poner el jardín en medio permite que la luz natural pueda penetrar en todos los cuartos de la casa, haciendo más agradable el vivir ahí.
 
-[![image](http://adeektos.com/blog/wp-content/uploads/2013/10/split-1.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/10/split-1.jpg) [![image](http://adeektos.com/blog/wp-content/uploads/2013/10/split-3.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/10/split-3.jpg)
+[![image](../img/split-1.jpg)](../img/split-1.jpg) [![image](../img/split-3.jpg)](../img/split-3.jpg)
 
 [![image](http://adeektos.com/blog/wp-content/uploads/2013/10/split-house-extra.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/10/split-house-extra.jpg)
 

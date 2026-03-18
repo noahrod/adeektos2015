@@ -5,7 +5,7 @@ author: Roberto Amador
 slug: cancion-para-fin-de-semana-ft-dresses
 ---
 
-![image](http://adeektos.com/blog/wp-content/uploads/2013/11/dressesbanner.jpg)
+![image](../img/dressesbanner.jpg)
 
 **Dresses** es una banda de *Portland, Oregon* formada por *Timothy Heller y Jared Ryan Maldonado*. Ellos han tocado como teloneros para *Kate Nash* y estan firmados por *SideOneDummy Records*. Espero les guste, dejen sus comentarios o recomendaciones en la parte de abajo.
 

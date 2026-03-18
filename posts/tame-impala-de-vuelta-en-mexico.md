@@ -5,7 +5,7 @@ author: Noé Rodríguez
 slug: tame-impala-de-vuelta-en-mexico
 ---
 
-![image: poster_tame_impala_large](http://adeektos.com/blog/wp-content/uploads/2013/07/poster_tame_impala_large.jpg)
+![image: poster_tame_impala_large](../img/poster_tame_impala_large.jpg)
 
 Aquí en Adeektos te traemos una buena noticia, Tame Impala regresa desde Australia a México después de su aparición en él Vive Latino 2013. En esta ocasión lo harán con motivo del sexto aniversario de [8106](http://8106.tv) el próximo 24 de octubre en el José Cuervo Salón.
 

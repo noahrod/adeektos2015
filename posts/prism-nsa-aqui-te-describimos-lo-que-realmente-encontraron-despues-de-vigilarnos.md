@@ -11,17 +11,17 @@ slug: prism-nsa-aqui-te-describimos-lo-que-realmente-encontraron-despues-de-vigi
 
 La mayoría de las personas se la pasan publicando tonterías en las redes sociales y en los correos electrónicos, es por eso que yo digo que la NSA después de un arduo análisis y muchos millones de dólares se encontró con esto:  
 
-![image: Grumpy-Cat](http://adeektos.com/blog/wp-content/uploads/2013/06/Grumpy-Cat.jpg)
+![image: Grumpy-Cat](../img/Grumpy-Cat.jpg)
 
 ![image: ec82_horse_head_mask](http://adeektos.com/blog/wp-content/uploads/2013/06/ec82_horse_head_mask.jpg)
 
 ![image: Harlem](http://adeektos.com/blog/wp-content/uploads/2013/06/Harlem.jpg)
 
-![image: xl_2874_food-photography-tp](http://adeektos.com/blog/wp-content/uploads/2013/06/xl_2874_food-photography-tp.jpg)
+![image: xl_2874_food-photography-tp](../img/xl_2874_food-photography-tp.jpg)
 
 ![image: yolo_large](http://adeektos.com/blog/wp-content/uploads/2013/06/yolo_large.jpg)
 
-![image: 9gag_logo](http://adeektos.com/blog/wp-content/uploads/2013/06/9gag_logo.png)
+![image: 9gag_logo](../img/9gag_logo.png)
 ---
 
 **Note about images**: This post originally contained images that are no longer available and will be replaced with similar images based on the context.

@@ -5,7 +5,7 @@ author: Noé Rodríguez
 slug: momentos-incomodos-que-tendremos-con-google-glass
 ---
 
-![image: google-glass-model](http://adeektos.com/blog/wp-content/uploads/2013/12/google-glass-model.jpg)
+![image: google-glass-model](../img/google-glass-model.jpg)
 
 **Google Glass** sin duda es una maravilla, aquí en los HQ de Adeektos **soñamos** con que Google México **nos preste** uno para hacer pruebas. Por otra parte, parece ser uno de los dispositivos más difíciles de utilizar en público. 
 

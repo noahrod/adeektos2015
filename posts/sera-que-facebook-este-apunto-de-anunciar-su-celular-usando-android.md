@@ -5,7 +5,7 @@ author: Noé Rodríguez
 slug: sera-que-facebook-este-apunto-de-anunciar-su-celular-usando-android
 ---
 
-[![image](http://adeektos.com/blog/wp-content/uploads/2013/03/Facebook-New-Home-on-Android.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/03/Facebook-New-Home-on-Android.jpg)
+[![image](../img/Facebook-New-Home-on-Android.jpg)](../img/Facebook-New-Home-on-Android.jpg)
 
 Facebook acaba de invitar a la prensa a un evento en sus oficinas centrales el **4 de abril** y todo lo que nos dice es **"Ven a conocer nuestro nuevo hogar en Android"**. Enigmático lema que ha desatado muchas especulaciones.
 

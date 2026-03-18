@@ -5,7 +5,7 @@ author: Noé Rodríguez
 slug: asistentes-del-corona-capital-50-solo-va-por-convivir
 ---
 
-![image: busted-logo](http://adeektos.com/blog/wp-content/uploads/2013/10/busted-logo.jpg)
+![image: busted-logo](../img/busted-logo.jpg)
 
 Seguir a una banda no es cosa fácil, estas cotorreando en la web (navegando por youtube, 8tracks, soundcloud, last.fm) y de pronto encuentras una canción nueva que se conecta con tu estado de ánimo. Empiezas a buscar más sobre la banda y vas memorizando un sin fin de cosas, **nombres** de los integrantes, instrumentos, **letras** de las canciones, **melodías**. Es sin duda un trabajo de tiempo completo. 
 

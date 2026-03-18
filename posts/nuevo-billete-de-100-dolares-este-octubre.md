@@ -5,7 +5,7 @@ author: Noé Rodríguez
 slug: nuevo-billete-de-100-dolares-este-octubre
 ---
 
-[![image: new100](http://adeektos.com/blog/wp-content/uploads/2013/04/new100.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/04/new100.jpg)
+[![image: new100](../img/new100.jpg)](../img/new100.jpg)
 
 Para los que traemos entre 5 a 10 billetes de esta denominación todos los días en nuestras carteras, esto definitivamente es una buena noticia. ¡Ja!
 

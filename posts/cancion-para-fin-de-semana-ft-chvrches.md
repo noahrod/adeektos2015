@@ -5,7 +5,7 @@ author: Roberto Amador
 slug: cancion-para-fin-de-semana-ft-chvrches
 ---
 
-![image](http://adeektos.com/blog/wp-content/uploads/2014/01/chvrchesbanner.jpg)
+![image](../img/chvrchesbanner.jpg)
 
 **Chvrches** (se pronuncia como la palabra en ingles *"churches"*) es una banda escocesa de synthpop formada el 2011 en Glasgow. La banda esta formada por *Lauren Mayberry (vocales), Iain Cook (sintetizadores, guitarra, bajo, vocales), y Martin Doherty (sintetizadores, sampleos, vocales)*.
 

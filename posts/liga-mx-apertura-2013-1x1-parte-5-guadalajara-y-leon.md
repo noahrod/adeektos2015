@@ -6,7 +6,7 @@ slug: liga-mx-apertura-2013-1x1-parte-5-guadalajara-y-leon
 ---
 
 Quinta entrega del análisis previo al próximo torneo de liga en México acá por Adeektos.
-![image](http://adeektos.com/blog/wp-content/uploads/2013/07/CFMonterrey2012_LargeVector.svg_-206x300.png)
+![image](../img/CFMonterrey2012_LargeVector.svg_-206x300.png)
 **Monterrey**
 
 Altas: Dorlán Pabón, Lucas Silva, Efraín Juárez.

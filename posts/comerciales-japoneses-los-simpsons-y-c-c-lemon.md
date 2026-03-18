@@ -11,7 +11,7 @@ Saludos a todos los Adeektos desde la Tierra del Sol Naciente!!!
 
 En esta ocasión, para continuar con nuestra larga lista sobre celebridades occidentales que han aparecido en comerciales en Japón, por varios miles de millones de yenes, obviamente, hemos decidido recurrir a la familia más famosa de la animación durante los 90's: Los Simpson.
 
-[![image](http://adeektos.com/blog/wp-content/uploads/2013/07/C._C._Lemon.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/07/C._C._Lemon.jpg)
+[![image](../img/C._C._Lemon.jpg)](../img/C._C._Lemon.jpg)
 
 [![image](http://adeektos.com/blog/wp-content/uploads/2013/07/hqdefault.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/07/hqdefault.jpg)
 

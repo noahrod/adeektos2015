@@ -7,7 +7,7 @@ slug: liga-mx-apertura-2013-1x1-parte-4-guadalajara-y-leon
 
 Cuarta entrega del análisis previo al Apertura 2013 acá en Adeektos.
 
-![image](http://adeektos.com/blog/wp-content/uploads/2013/07/Club_Guadalajara_crest.svg_-255x300.png)
+![image](../img/Club_Guadalajara_crest.svg_-255x300.png)
 
 **Guadalajara**
 
@@ -18,7 +18,7 @@ Altas: Néstor Vidrio, Aldo de Nigris
 Bajas: Luis Pérez, Sergio Pérez, Adrián Cortés.
 
 A diferencia del torneo pasado, las chivas han comenzado con una buena planificación, continuidad en directiva y cuerpo técnico, dos refuerzos de peso en la defensa y delantera, una adecuada pretemporada y regresan jugadores que habían salido a préstamo. ¿Ventajas? Después de terminar en el penúltimo lugar en el Clausura 2013 peor no podrán estar; y el trabajo, tal vez sea un equipo con talento a cuenta gotas, pero el trabajo y la continuidad los llevarán al repunte. De Nigris es sinónimo de gol. Mi pronóstico, pelearán la liguilla entre el 5 y el 8.
-![image](http://adeektos.com/blog/wp-content/uploads/2013/07/Club-Leon-196x300.png)
+![image](../img/Club-Leon-196x300.png)
 **León**
 
 ¿Se les habrá olvidado jugar bonito? he aquí los principales movimientos.

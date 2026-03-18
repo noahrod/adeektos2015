@@ -5,7 +5,7 @@ author: Noé Rodríguez
 slug: la-bahia-de-la-libertad
 ---
 
-[![image](http://adeektos.com/blog/wp-content/uploads/2013/04/366c234bfa5726141a073503a598780920caf9a0.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/04/366c234bfa5726141a073503a598780920caf9a0.jpg)
+[![image](../img/366c234bfa5726141a073503a598780920caf9a0.jpg)](../img/366c234bfa5726141a073503a598780920caf9a0.jpg)
 
 Creo que una de las páginas que más visito es [thepiratebay.se](http://thepiratebay.se/),  todos los días algo me hace entrar a ella. Tengo cuenta de Netflix, Spotify y Hulu además de que tengo licencias originales de Office, Windows y Adobe Photoshop CS6; pareciera que no necesito entrar a páginas de torrents, pero no es así. Siempre hay algún archivo, serie, película, programa, canción, disco, discografía que te manda directito a torrentear y sin duda, ninguna página es tan buena como [thepiratebay.se](http://thepiratebay.se/).
 

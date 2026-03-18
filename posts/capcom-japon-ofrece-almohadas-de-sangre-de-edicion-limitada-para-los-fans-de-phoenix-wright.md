@@ -5,13 +5,13 @@ author: Edgar Pelaez
 slug: capcom-japon-ofrece-almohadas-de-sangre-de-edicion-limitada-para-los-fans-de-phoenix-wright
 ---
 
-[![image](http://adeektos.com/blog/wp-content/uploads/2013/07/Ace-Attorney-5-Logo.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/07/Ace-Attorney-5-Logo.jpg)
+[![image](../img/Ace-Attorney-5-Logo.jpg)](../img/Ace-Attorney-5-Logo.jpg)
 
 Este jueves se estrenará en Japón el juego para el Nintendo 3DS *Gyakuten Saiban 5*, mejor conocido en occidente como *Phoenix Wright: Dual Destinies. *Con este motivo, la companía desarrolladora del juego, CAPCOM, decidió despertar de nuevo el instinto de detective de los fans del juego al pedirle a las personas que visiten la [página oficial de *Phoenix Wright *](http://www.capcom.co.jp/gyakutensaiban/5/cam_pillow.html#caution)que resuelvan un crimen. Aquéllos que puedan resolver el acertijo entrarán en el sorteo de 50 "almohadas de sangre" de edición limitada para que cuando los jugadores vayan a dormir, puedan aparentar ser una de las víctimas del juego.
 
 La situación del crimen es la siguiente:
 
-[![image](http://adeektos.com/blog/wp-content/uploads/2013/07/phoenix-wright-inset.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/07/phoenix-wright-inset.jpg)
+[![image](../img/phoenix-wright-inset.jpg)](../img/phoenix-wright-inset.jpg)
 
 Una tarde, el famoso escritor "A-san" fue hallado muerto, colgado en un cuarto del tercer piso de su casa. Al parecer fue un suicidio; sin embargo, algo no está bien...
 

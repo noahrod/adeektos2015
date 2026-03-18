@@ -5,7 +5,7 @@ author: Noé Rodríguez
 slug: la-mitad-de-los-usuarios-de-instagram-utilizan-android
 ---
 
-[![image](http://adeektos.com/blog/wp-content/uploads/2013/04/instagram-android-2-1024x639.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/04/instagram-android-2.jpg)
+[![image](../img/instagram-android-2-1024x639.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/04/instagram-android-2.jpg)
 
 Hace ya **un año** que Instagram decidió aparecer **en Android**. Una de las aplicaciones que iniciaron en el iPhone y que se quisiera tener en todas las plataformas móviles. El éxito en Android fue instantáneo, en **menos de un día** consiguió el **millón de descargas** y hoy en día, la mitad de los usuarios lo utilizan con Android.
 

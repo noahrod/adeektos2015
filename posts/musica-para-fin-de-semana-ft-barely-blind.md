@@ -23,7 +23,7 @@ https://www.youtube.com/watch?v=XUZPvG4HBuY
 
 808
 
-[![image](http://adeektos.com/blog/wp-content/uploads/2014/02/bbgif.gif)](http://adeektos.com/blog/wp-content/uploads/2014/02/bbgif.gif)
+[![image](../img/bbgif.gif)](../img/bbgif.gif)
 ---
 
 **Note about images**: This post originally contained images that are no longer available and will be replaced with similar images based on the context.

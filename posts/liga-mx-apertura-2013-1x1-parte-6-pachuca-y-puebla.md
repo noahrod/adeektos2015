@@ -6,7 +6,7 @@ slug: liga-mx-apertura-2013-1x1-parte-6-pachuca-y-puebla
 ---
 
 Continuamos con el sexto capítulo del previo al Apertura 2013 en México.
-![image](http://adeektos.com/blog/wp-content/uploads/2013/07/500px-Pachuca_Tuzos_logo.svg_-188x300.png)
+![image](../img/500px-Pachuca_Tuzos_logo.svg_-188x300.png)
 **Pachuca**
 
 Altas: Duvier Riascos, Iván Estrada, Óscar Pérez, Walter Ayoví.
@@ -16,7 +16,7 @@ Bajas: Héctor Herrera, Paulo da Silva, Néstor Vidrio
 Con tantos movimientos en el último año parece ser que el Pachuca de Gabriel Caballero es un equipo en construcción, el problema es que el cuerpo técnico se está tardando en hacerlos jugar como equipo. En el papel es un equipo sólido, con figuradas probadas en el torneo Mexicano (Ludueña, Riascos, Ayoví) e interesantes prospectos juveniles (Marco Bueno, Pizarro, "Momia" Gómez) pero que no han podido ser regulares.
 
 Este Pachuca aún está lejos de aquel equipo que era recurrente en liguillas y protagonista en torneos internacionales. Pronóstico: entre el lugar 9-12 de la general.
-![image](http://adeektos.com/blog/wp-content/uploads/2013/07/PueblaFC2009-300x300.png)
+![image](../img/PueblaFC2009-300x300.png)
 **Puebla**
 
 Altas: Jorge Villalpando, Óscar Rojas, Alfredo Moreno, Leandro Augusto

@@ -19,7 +19,7 @@ Sus refuerzos (si así les podemos llamar) son jugadores que eran suplentes en s
 
 Creo que una vez más seguirán peleando entre los lugares 16 y 18 del próximo torneo.
 
-![image](http://adeektos.com/blog/wp-content/uploads/2013/07/500px-Club_Atlas_de_Guadalajara_logo.svg_-267x300.png)**Atlas**
+![image](../img/500px-Club_Atlas_de_Guadalajara_logo.svg_-267x300.png)**Atlas**
 
 El principal enemigo del Atlas es su propia directiva. Torneo tras torneo su directiva demuestra el por qué los rojinegros llevan más de 50 años sin ganar un campeonato.
 

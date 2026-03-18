@@ -5,7 +5,7 @@ author: Noé Rodríguez
 slug: saved-io-una-propuesta-muy-sencilla-para-guardar-tus-favoritos
 ---
 
-![image: savedio](http://adeektos.com/blog/wp-content/uploads/2014/01/savedio.png)
+![image: savedio](../img/savedio.png)
 
 He visto un montón de alternativas para la gestión de los favoritos pero ninguna tan simple como [saved.io](http://saved.io/).
 

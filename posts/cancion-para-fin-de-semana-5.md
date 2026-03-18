@@ -5,7 +5,7 @@ author: Roberto Amador
 slug: cancion-para-fin-de-semana-5
 ---
 
-![image: abandonkansas](http://adeektos.com/blog/wp-content/uploads/2013/08/abandonkansas.jpg)
+![image: abandonkansas](../img/abandonkansas.jpg)
 
 **Abandon Kansas** es un grupo de rock alternativo originario de Wichita. Hoy los dejo con su canción **You + Me + The Radio**. Deja tus comentarios abajo y dime que opinas o deja tus recomendaciones.
 

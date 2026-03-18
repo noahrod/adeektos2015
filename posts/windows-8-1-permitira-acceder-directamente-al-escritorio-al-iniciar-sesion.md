@@ -5,7 +5,7 @@ author: Noé Rodríguez
 slug: windows-8-1-permitira-acceder-directamente-al-escritorio-al-iniciar-sesion
 ---
 
-[![image: metro-modern-ui-style](http://adeektos.com/blog/wp-content/uploads/2013/04/metro-modern-ui-style.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/04/metro-modern-ui-style.jpg)
+[![image: metro-modern-ui-style](../img/metro-modern-ui-style.jpg)](../img/metro-modern-ui-style.jpg)
 
 Sin duda a mucha gente no le gusto la nueva interfaz de inicio de Windows 8, el famoso Modern UI, en lo personal a mí no me desagrada pero la verdad es que nunca lo uso, quizás porque soy desarrollador y tengo otras necesidades de computo que una interfaz de celular no me puede entregar.
 

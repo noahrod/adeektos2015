@@ -5,7 +5,7 @@ author: Noé Rodríguez
 slug: la-vida-desde-el-futuro
 ---
 
-![image: lvdef](http://adeektos.com/blog/wp-content/uploads/2013/05/lvdef.png)
+![image: lvdef](../img/lvdef.png)
 
 Queremos darle la bienvenida al blog de [Edgar Pelaez](https://twitter.com/YamiNoOokami) (aka Dr Brown) que decidió mudarse para formar parte de la familia de **adeektos**.
 

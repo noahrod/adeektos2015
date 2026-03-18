@@ -5,7 +5,7 @@ author: Roberto Amador
 slug: cancion-para-inicio-de-semana-2
 ---
 
-![image: smallpools](http://adeektos.com/blog/wp-content/uploads/2013/07/smallpools1.jpg)
+![image: smallpools](../img/smallpools1.jpg)
 
 Hoy les dejo **Dreaming** de **Smallpools**. El grupo esta compuesto por Sean Scanlon (vocalista), Mike Kamerman (guitarra), Joe Intile (bajo) y Beau Kuther (batería). Les veo un futuro, me late que va a pasar el efecto fun. otra vez.
 

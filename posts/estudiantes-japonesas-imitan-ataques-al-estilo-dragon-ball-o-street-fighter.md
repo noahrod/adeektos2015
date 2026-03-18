@@ -11,23 +11,23 @@ Aquí les dejo unas cuantas fotografías:
 
 [![image](http://adeektos.com/blog/wp-content/uploads/2013/03/ku-xlarge-3.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/03/ku-xlarge-3.jpg)
 
-[![image](http://adeektos.com/blog/wp-content/uploads/2013/03/ku-xlarge-2.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/03/ku-xlarge-2.jpg)
+[![image](../img/ku-xlarge-2.jpg)](../img/ku-xlarge-2.jpg)
 
-[![image](http://adeektos.com/blog/wp-content/uploads/2013/03/ku-xlarge-7.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/03/ku-xlarge-7.jpg) [![image](http://adeektos.com/blog/wp-content/uploads/2013/03/ku-xlarge-6.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/03/ku-xlarge-6.jpg)
+[![image](../img/ku-xlarge-7.jpg)](../img/ku-xlarge-7.jpg) [![image](http://adeektos.com/blog/wp-content/uploads/2013/03/ku-xlarge-6.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/03/ku-xlarge-6.jpg)
 
 [![image](http://adeektos.com/blog/wp-content/uploads/2013/03/ku-xlarge-5.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/03/ku-xlarge-5.jpg)
 
-[![image](http://adeektos.com/blog/wp-content/uploads/2013/03/ku-xlarge-4.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/03/ku-xlarge-4.jpg)
+[![image](../img/ku-xlarge-4.jpg)](../img/ku-xlarge-4.jpg)
 
-[![image](http://adeektos.com/blog/wp-content/uploads/2013/03/ku-xlarge-12.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/03/ku-xlarge-12.jpg)
+[![image](../img/ku-xlarge-12.jpg)](../img/ku-xlarge-12.jpg)
 
-[![image](http://adeektos.com/blog/wp-content/uploads/2013/03/ku-xlarge-13.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/03/ku-xlarge-13.jpg) [![image](http://adeektos.com/blog/wp-content/uploads/2013/03/ku-xlarge-11.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/03/ku-xlarge-11.jpg)
+[![image](http://adeektos.com/blog/wp-content/uploads/2013/03/ku-xlarge-13.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/03/ku-xlarge-13.jpg) [![image](../img/ku-xlarge-11.jpg)](../img/ku-xlarge-11.jpg)
 
-[![image](http://adeektos.com/blog/wp-content/uploads/2013/03/ku-xlarge.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/03/ku-xlarge.jpg)
+[![image](../img/ku-xlarge.jpg)](../img/ku-xlarge.jpg)
 
-[![image](http://adeektos.com/blog/wp-content/uploads/2013/03/ku-xlarge-10.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/03/ku-xlarge-10.jpg)
+[![image](../img/ku-xlarge-10.jpg)](../img/ku-xlarge-10.jpg)
 
-[![image](http://adeektos.com/blog/wp-content/uploads/2013/03/ku-xlarge-9.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/03/ku-xlarge-9.jpg)
+[![image](../img/ku-xlarge-9.jpg)](../img/ku-xlarge-9.jpg)
 
 [![image](http://adeektos.com/blog/wp-content/uploads/2013/03/ku-xlarge-8.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/03/ku-xlarge-8.jpg)
 
@@ -35,7 +35,7 @@ Al parecer, esta tendencia que ha poco a poco se ha propagado en las redes socia
 
 [![image](http://adeektos.com/blog/wp-content/uploads/2013/03/ku-xlarge-14.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/03/ku-xlarge-14.jpg)
 
-[![image](http://adeektos.com/blog/wp-content/uploads/2013/03/ku-xlarge-15.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/03/ku-xlarge-15.jpg)
+[![image](../img/ku-xlarge-15.jpg)](../img/ku-xlarge-15.jpg)
 
  
 

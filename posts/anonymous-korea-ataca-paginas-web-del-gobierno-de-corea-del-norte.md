@@ -5,7 +5,7 @@ author: Noé Rodríguez
 slug: anonymous-korea-ataca-paginas-web-del-gobierno-de-corea-del-norte
 ---
 
-[![image](http://adeektos.com/blog/wp-content/uploads/2013/03/anonymous-korea1.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/03/anonymous-korea1.jpg)
+[![image](../img/anonymous-korea1.jpg)](../img/anonymous-korea1.jpg)
 
 Uno se da cuenta de que las cosas están serias cuando nuestros amigos de Anonymous aparecen en la historia. El grupo conocido como “Anonymous Korea” afirma haber tirado muchas páginas web del gobierno de Corea del Norte el pasado sábado, horas después de que se declaró un estado de guerra con Corea del Sur.
 

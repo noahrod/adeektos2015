@@ -11,8 +11,8 @@ http://www.youtube.com/watch?feature=player_embedded&v=A3IOJIk0Jeg
 
 Ante las dudas sobre si realmente funcionaba o no, los reporteros de [Rocket News](http://en.rocketnews24.com/2013/04/21/we-made-coca-cola-transparent-and-colorless-it-tastes-like/) se dieron a la tarea de ordenar uno de estos filtros mágicos, y probarlo no sólo con Coca-Cola, sino con otras dos bebidas azúcaradas que le dan diabetes a los niños gorditos, Pepsi y Dr. Pepper.
 ![image](http://sociorocketnewsen.files.wordpress.com/2013/04/we-made-coca-cola-transparent-and-colorless-it-tastes-like-rocketnews24.jpg?w=580&h=773)
-![image](http://sociorocketnewsen.files.wordpress.com/2013/04/dscn2096.jpg?w=580&h=435)
-![image](http://sociorocketnewsen.files.wordpress.com/2013/04/e382b9e382afe383aae383bce383b3e382b7e383a7e38383e38388-2013-04-21-10-06-40-am.png?w=580&h=322)
+![image](../img/dscn2096.jpg)
+![image](../img/e382b9e382afe383aae383bce383b3e382b7e383a7e38383e38388-2013-04-21-10-06-40-am.png)
 Aquí está el video del reportaje que hicieron:
 http://www.youtube.com/watch?feature=player_embedded&v=_CjgmhaBEGk
 Aquí hay otro video del Canal de Rocket News donde lo prueban con Mets Cola, y el resultado es aún peor:

@@ -5,7 +5,7 @@ author: Roberto Amador
 slug: cancion-por-el-dia-del-musico-ft-the-one-am-radio
 ---
 
-![image](http://adeektos.com/blog/wp-content/uploads/2013/11/1amradiobanner.jpg)
+![image](../img/1amradiobanner.jpg)
 
 **One AM Radio** es una banda compuesta por Hrishikesh Hirway, su estilo de música es un poco de electrónica, folk, post-rock y música ambiental. Espero les guste, dejen sus comentarios y recomendaciones en la parte de abajo. 
 

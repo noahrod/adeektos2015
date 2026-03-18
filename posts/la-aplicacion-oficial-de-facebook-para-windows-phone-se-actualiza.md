@@ -5,7 +5,7 @@ author: Noé Rodríguez
 slug: la-aplicacion-oficial-de-facebook-para-windows-phone-se-actualiza
 ---
 
-[![image](http://adeektos.com/blog/wp-content/uploads/2013/04/Facebook-para-Windows-Phone.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/04/Facebook-para-Windows-Phone.jpg)
+[![image](../img/Facebook-para-Windows-Phone.jpg)](../img/Facebook-para-Windows-Phone.jpg)
 
 Una de las aplicaciones** más decepcionantes** del Windows Phone es definitivamente la del Facebook, si eres como yo que vienes de un Android o un iPhone, esta aplicación simplemente te desespera.
 

@@ -5,7 +5,7 @@ author: Noé Rodríguez
 slug: el-papa-francisco-te-perdona-tus-pecados-via-twitter
 ---
 
-![image: PAPA FRANCISCO](http://adeektos.com/blog/wp-content/uploads/2013/07/o-PAPA-FRANCISCO-facebook.jpg)
+![image: PAPA FRANCISCO](../img/o-PAPA-FRANCISCO-facebook.jpg)
 
 Como parte del gran esfuerzo para utilizar las redes sociales para conectar los católicos de todo el mundo, el Papa empezara a perdonar tus pecados vía Twitter.
 

@@ -5,13 +5,13 @@ author: Roberto Amador
 slug: adeekguia-de-supervivencia-corona-capital-2013
 ---
 
-![image](http://adeektos.com/blog/wp-content/uploads/2013/10/banner.png)
+![image](../img/banner.png)
 
 Al parecer la destrucción corpórea vuelve este año. Después de el terrible dolor de pie que tuvimos el año pasado hemos decido hacer una guía de supervivencia para los nuevos y viejos compañeros de combate.
 
 **Clima**
 Este es el posible clima para los dos días del CC.
-![image](http://adeektos.com/blog/wp-content/uploads/2013/10/sabado.png)
+![image](../img/sabado.png)
 ![image](http://adeektos.com/blog/wp-content/uploads/2013/10/domingo.png)
 
 **Transporte**

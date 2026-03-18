@@ -5,7 +5,7 @@ author: Roberto Amador
 slug: musica-para-inicio-de-semana-ft-knox-hamilton
 ---
 
-![image](http://adeektos.com/blog/wp-content/uploads/2014/02/khbanner.jpg)
+![image](../img/khbanner.jpg)
 
 **Knox Hamilton** es un conjunto de rock indie neo-soul formado por *Boots Copeland , Brad Pierce, Cobo Copeland y Drew Buffington*.
 Espero les guste, dejen sus comentarios o recomendaciones en la parte de abajo.

@@ -5,7 +5,7 @@ author: Roberto Amador
 slug: cancion-para-inicio-de-semana
 ---
 
-![image](http://adeektos.com/blog/wp-content/uploads/2013/07/police-academy-6-banner.jpg)
+![image](../img/police-academy-6-banner.jpg)
 
 Hoy les dejo **Crushin' *feat. Cherub* ** de **Police Academy 6 **,espero les guste.
 

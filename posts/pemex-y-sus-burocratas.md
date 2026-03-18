@@ -11,7 +11,7 @@ Esperamos no herir herir susceptibilidades ya que es también un homenaje el es
 "Con las manos en la masa..."
 ![image](http://adeektos.com/blog/wp-content/uploads/2013/08/479862_10201683527036856_252385223_n.jpg)
 "Más a la derecha, abajito, abajito... ahí!"
-![image](http://adeektos.com/blog/wp-content/uploads/2013/08/544674_10201683513916528_1155451299_n.jpg)
+![image](../img/544674_10201683513916528_1155451299_n.jpg)
 "Pastel de cumple"
 ![image](http://adeektos.com/blog/wp-content/uploads/2013/08/998201_10201683521876727_50874019_n.jpg)
 "El libro vaquero"
@@ -19,11 +19,11 @@ Esperamos no herir herir susceptibilidades ya que es también un homenaje el es
 "Todo en oferta amiga"
 ![image](http://adeektos.com/blog/wp-content/uploads/2013/08/536881_10201683523916778_1436864934_n.jpg)
 "Una manita de gato... o garrita de tigre?"
-![image](http://adeektos.com/blog/wp-content/uploads/2013/08/1003331_10201683524916803_912520247_n.jpg)
+![image](../img/1003331_10201683524916803_912520247_n.jpg)
 "¡AQUI ESTAMOS TRABAJANDO DURO!... "
 ![image](http://adeektos.com/blog/wp-content/uploads/2013/08/999178_10201683521596720_731168690_n.jpg)
 "El mirrey y su lobuki"
-![image](http://adeektos.com/blog/wp-content/uploads/2013/08/970428_10201683521796725_181565929_n.jpg)
+![image](../img/970428_10201683521796725_181565929_n.jpg)
 "Ya quisiera el Chicharito esas cabeceadas"
 ![image](http://adeektos.com/blog/wp-content/uploads/2013/08/1012031_10201683527396865_798135629_n.jpg)
 

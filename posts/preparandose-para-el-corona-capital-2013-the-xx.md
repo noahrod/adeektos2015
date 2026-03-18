@@ -5,7 +5,7 @@ author: Roberto Amador
 slug: preparandose-para-el-corona-capital-2013-the-xx
 ---
 
-![image](http://adeektos.com/blog/wp-content/uploads/2013/09/The+xx+png.png)
+![image](../img/The_xx_png.png)
 
 Bueno no creo que The XX necesite introducción. Si la memoria no me falla vinieron el año pasado por las mismas fechas y lo que más me sorprendió es que suenan igual en el disco y en vivo. Hoy los dejo con dos de mis canciones favoritas.
 

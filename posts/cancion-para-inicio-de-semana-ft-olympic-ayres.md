@@ -5,7 +5,7 @@ author: Roberto Amador
 slug: cancion-para-inicio-de-semana-ft-olympic-ayres
 ---
 
-![image](http://adeektos.com/blog/wp-content/uploads/2013/11/olympicbanner2.jpg)
+![image](../img/olympicbanner2.jpg)
 Hoy los dejo con **Olympic Ayres**, son bastante buenos y tocan un conjunto de electropop, synthpop, indie pop y dance. Esta bueno para pasar una tarde a gusto pero dejen sus comentarios o sugerencia abajo para saber que opinan. Los dejo con la canción con la que los encontré y dos de sus canciones con vídeos oficiales.
 
 https://www.youtube.com/watch?v=EwqKxjX4TAM

@@ -6,7 +6,7 @@ slug: liga-mx-apertura-2013-1x1-parte-9-toluca-pumas-y-veracruz
 ---
 
 Novena y última entrega el análisis previo al torneo mexicano que comienza en unas horas.
-![image](http://adeektos.com/blog/wp-content/uploads/2013/07/Dep_Toluca_fc_logo.png)
+![image](../img/Dep_Toluca_fc_logo.png)
 **Toluca**
 
 Altas: DT Saturnino Cardozo, Paulo da Silva, Richard Ortíz, Aaron Galindo, Pablo Velázquez.

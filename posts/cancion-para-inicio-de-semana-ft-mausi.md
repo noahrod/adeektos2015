@@ -5,7 +5,7 @@ author: Roberto Amador
 slug: cancion-para-inicio-de-semana-ft-mausi
 ---
 
-![image](http://adeektos.com/blog/wp-content/uploads/2014/01/mausibanner-1024x286.jpg)
+![image](../img/mausibanner-1024x286.jpg)
 
 **M A U S I** es una banda anglo-italiana de música pop de Inglaterra. El grupo esta compuesto por *Daisy Finetto (vocales), Thomas Finetto (vocales), Benji Huntrods (percusiones) y Ben Brown (guitarra)*. Espero les guste, dejen sus comentarios o recomendaciones en la parte de abajo. 
 

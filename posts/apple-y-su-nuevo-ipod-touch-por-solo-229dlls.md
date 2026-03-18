@@ -5,7 +5,7 @@ author: Noé Rodríguez
 slug: apple-y-su-nuevo-ipod-touch-por-solo-229dlls
 ---
 
-![image: nipod](http://adeektos.com/blog/wp-content/uploads/2013/05/nipod.png)
+![image: nipod](../img/nipod.png)
 
 Los amigos de la casa de la manzana hoy lanzaron al mercado una variante de los iPod Touch sólo con una diferencia, **sin cámara trasera**.
 

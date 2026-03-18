@@ -9,7 +9,7 @@ Mucha gente nos ha preguntado sobre cuáles serán los actos en vivo que el equi
 
 **Sábado**: Quadron, Robert Delong, I0 ECHO, Palma Violets, Chris Lake, The Dandy Warhols, Imagine Dragons, Travis, The XX, Phoenix, M.I.A. y Blondie
 
-![image: ruta-adeektos-sabado](http://adeektos.com/blog/wp-content/uploads/2013/10/ruta-adeektos-sabado.png)
+![image: ruta-adeektos-sabado](../img/ruta-adeektos-sabado.png)
 
 **Domingo**: Portugal The Man, Capital Cities, Jimmy Eat World, Stereophonics, FUN, Arctic Monkeys y Queens of the Stone Age.
 

@@ -21,7 +21,7 @@ Aquí te dejamos una lista de los 10 mejores de este año:
 
 	- [Twitter](http://blog.twitter.com/2013/03/annncng-twttr.html) elimina las vocales en sus cuentas gratuitas y cobrará $5 dólares para poder usarlas en los tweets.
  
-[![image: 95E](http://adeektos.com/blog/wp-content/uploads/2013/04/95E.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/04/95E.jpg)
+[![image: 95E](../img/95E.jpg)](../img/95E.jpg)
 
 	- El sitio Kayak agrega una opción para buscar parejas mientras viajas.
 
@@ -33,7 +33,7 @@ Aquí te dejamos una lista de los 10 mejores de este año:
 
 	- El sitio The Pirate Bay cambia su nombre a The Freedom Bay. 
 
-[![image: 366c234bfa5726141a073503a598780920caf9a0](http://adeektos.com/blog/wp-content/uploads/2013/04/366c234bfa5726141a073503a598780920caf9a0.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/04/366c234bfa5726141a073503a598780920caf9a0.jpg)
+[![image: 366c234bfa5726141a073503a598780920caf9a0](../img/366c234bfa5726141a073503a598780920caf9a0.jpg)](../img/366c234bfa5726141a073503a598780920caf9a0.jpg)
 
 	- El [innovador microondas](http://conversations.nokia.com/2013/04/01/nokia-turns-up-the-heat-with-its-first-microwave/) que presenta Nokia.
 

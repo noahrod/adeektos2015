@@ -5,7 +5,7 @@ author: Noé Rodríguez
 slug: leissiel-participa-para-llevarte-un-disco
 ---
 
-![image: leissiel_7](http://adeektos.com/blog/wp-content/uploads/2014/02/leissiel_7-1024x448.jpg)
+![image: leissiel_7](../img/leissiel_7-1024x448.jpg)
 
 **Leissiel** nace en el sur de la Comunidad Valenciana, casi frontera con Murcia, en Bigastro (Alicante). Antes conocidos como "Elastic Juice", cuando cantaban en inglés y con la que actuaron junto a bandas como Sidonie, La habitación Roja y Fangoria llegan a Adeektos con **su EP "Flores secas"**.
 

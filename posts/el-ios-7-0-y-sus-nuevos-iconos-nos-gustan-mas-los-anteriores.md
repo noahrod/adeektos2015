@@ -5,7 +5,7 @@ author: Noé Rodríguez
 slug: el-ios-7-0-y-sus-nuevos-iconos-nos-gustan-mas-los-anteriores
 ---
 
-![image: Neue_vs_Old2](http://adeektos.com/blog/wp-content/uploads/2013/07/Neue_vs_Old2.png)
+![image: Neue_vs_Old2](../img/Neue_vs_Old2.png)
 
 Cambiar el diseño de un producto que tanta gente usa en su vida diaria es un tema muy serio y muy complicado. El diseño gráfico en cada producto de la casa de las manzanas siempre ha sido impecable. Eso no deja atrás que el cambio no es bienvenido por muchos, de ahí que tanta gente se sacara mucho de onda con el re-diseño de los iconos del iPhone. ¿A ti te gustan? ¿Soy sólo yo el que cree que intentan parecerse a Windows Phone 8?
 

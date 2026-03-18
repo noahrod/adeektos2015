@@ -13,7 +13,7 @@ Es por eso que para empezar este año creemos que es importante que demos un vis
 
 1. CHVRCHES
 
-[![image: chvrchesbanner](http://adeektos.com/blog/wp-content/uploads/2014/01/chvrchesbanner.jpg)](http://adeektos.com/blog/cancion-para-fin-de-semana-ft-chvrches/)
+[![image: chvrchesbanner](../img/chvrchesbanner.jpg)](http://adeektos.com/blog/cancion-para-fin-de-semana-ft-chvrches/)
 
 A ver para empezar vamos en orden cronológico y uno de los primeros grupos que recomendamos el año pasado fue [Chvrches](http://adeektos.com/blog/cancion-para-fin-de-semana-ft-chvrches/). A principios del año pasado Chvrches era un grupo que ya estaba sonando en el 2013 con toda la actitud y una cantante muy guapa. También recuerdo que el vídeo oficial de *The Mother We Share* estaba bloqueado para casi todos los países por lo que tuve que poner una copia de Youtube la cual todavía sigue en el post original.
 

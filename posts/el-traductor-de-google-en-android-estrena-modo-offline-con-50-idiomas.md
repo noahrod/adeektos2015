@@ -5,7 +5,7 @@ author: Noé Rodríguez
 slug: el-traductor-de-google-en-android-estrena-modo-offline-con-50-idiomas
 ---
 
-[![image](http://adeektos.com/blog/wp-content/uploads/2013/03/translate-offlinelanguages1-1024x603.png)](http://adeektos.com/blog/wp-content/uploads/2013/03/translate-offlinelanguages1.png)
+[![image](../img/translate-offlinelanguages1-1024x603.png)](http://adeektos.com/blog/wp-content/uploads/2013/03/translate-offlinelanguages1.png)
 
 Google Translate es una poderosísima herramienta para cuando vamos de viaje o cuando necesitamos urgentemente el significado de una nueva (o muchas veces vieja) palabra al realizar nuestras tareas cotidianas. El problema es que algunas veces no tenemos conexión a Internet, sobre todo cuando estas de visita en algún lugar donde no tienes roaming o donde sale increíblemente caro.
 

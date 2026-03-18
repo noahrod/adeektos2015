@@ -5,7 +5,7 @@ author: Noé Rodríguez
 slug: los-klaxons-estan-de-vuelta-con-there-is-no-other-time
 ---
 
-![image: klaxons_2014](http://adeektos.com/blog/wp-content/uploads/2014/02/klaxons_2014.jpg)
+![image: klaxons_2014](../img/klaxons_2014.jpg)
 
 Aguas que son los** Klaxons con "K"**, si llegaste aquí creyendo que eran los que son con "C" quizás la música que recomendamos aquí no es para ti.
 

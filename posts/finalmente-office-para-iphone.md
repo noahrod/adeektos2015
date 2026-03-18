@@ -5,7 +5,7 @@ author: Noé Rodríguez
 slug: finalmente-office-para-iphone
 ---
 
-![image: OfficeIOS](http://adeektos.com/blog/wp-content/uploads/2013/06/OfficeIOS.jpg)
+![image: OfficeIOS](../img/OfficeIOS.jpg)
 
 Así es como Microsoft les regala a muchos un "happy dance" el día de hoy. Después de muchos rumores de que Office para iOS era cosa del olvido, hoy apareció en la Apple Store la aplicación de Office para iPhone, con soporte para los tres grandes de la casa de las ventanas: **PowerPoint, Excel y Word**. 
 

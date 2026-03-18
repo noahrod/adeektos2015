@@ -5,7 +5,7 @@ author: Noé Rodríguez
 slug: escala-el-monte-fuji-desde-la-comodidad-de-tu-casa
 ---
 
-![image](http://adeektos.com/blog/wp-content/uploads/2013/07/Monte_fuji-1024x768-692391.jpeg)
+![image](../img/Monte_fuji-1024x768-692391.jpeg)
 
 ¿Te gustaría escalar hasta la **cima de la montaña mas grande de Japón** si tener que moverte de tu ordenador? Google lo hace posible con las nuevas imágenes de **Google Street View** del **Monte Fuji**, donde podrás ir subiendo poco a poco como si estuvieras ahí presente.
 

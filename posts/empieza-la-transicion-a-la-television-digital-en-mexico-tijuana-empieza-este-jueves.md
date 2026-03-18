@@ -5,7 +5,7 @@ author: Noé Rodríguez
 slug: empieza-la-transicion-a-la-television-digital-en-mexico-tijuana-empieza-este-jueves
 ---
 
-![image: tv-analogica](http://adeektos.com/blog/wp-content/uploads/2013/07/tv-analogica.jpg)
+![image: tv-analogica](../img/tv-analogica.jpg)
 
 Después de hacer la primera prueba el 31 de mayo pasado las señales de televisión analógicas de Tijuana pasarán a la historia este jueves.
 

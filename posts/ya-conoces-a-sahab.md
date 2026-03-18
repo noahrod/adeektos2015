@@ -5,7 +5,7 @@ author: Noé Rodríguez
 slug: ya-conoces-a-sahab
 ---
 
-![image: Sahab](http://adeektos.com/blog/wp-content/uploads/2013/11/Sahab.jpg)
+![image: Sahab](../img/Sahab.jpg)
 
 Muy a pesar de que **Fresno** es singularmente conocida por ser la ciudad con más borrachos en Estados Unidos ([America's Top 25 Drunkest Cities](http://www.youtube.com/watch?v=NJ5G5shkDxU)), es la ciudad donde vive Sahab.
 

@@ -5,7 +5,7 @@ author: Noé Rodríguez
 slug: stand-up-comedy-en-mexico-manchita-y-su-non-serviam
 ---
 
-![image: 946290_410493555736337_929370596_n](http://adeektos.com/blog/wp-content/uploads/2013/07/946290_410493555736337_929370596_n1.png)
+![image: 946290_410493555736337_929370596_n](../img/946290_410493555736337_929370596_n1.png)
 
 Si eres fan de este tipo de comedia, estarás encantado de saber que [Manchita](https://twitter.com/manchita) finalmente presentará un show completo de una hora en el** teatro hipódromo condesa** el **14 de agosto de 2013**. 
 

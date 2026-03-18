@@ -5,7 +5,7 @@ author: Noé Rodríguez
 slug: 10-cuentas-de-twitter-para-seguir-las-noticias-en-corea-del-norte
 ---
 
-[![image](http://adeektos.com/blog/wp-content/uploads/2013/03/ncorea.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/03/ncorea.jpg)
+[![image](../img/ncorea.jpg)](../img/ncorea.jpg)
 
 Las cosas se están poniendo difíciles en Corea del Norte, la situación bélica con Corea del Sur y Estados Unidos cada vez se siente más real.
 

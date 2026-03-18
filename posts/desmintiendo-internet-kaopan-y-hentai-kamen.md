@@ -9,17 +9,17 @@ slug: desmintiendo-internet-kaopan-y-hentai-kamen
 
 Las fotografías que se muestran a continuación forman parte de un libro llamado Kaopan, el cual se compone de un trabajo que hace de cierta forma una sátira o alusión al fetichismo que se tiene con las chicas jóvenes y la ropa interior, al mismo tiempo que, alude al estreno en abril de la película de Hentai Kamen, un súper héroe que utiliza unas pantaletas como máscara, que tiene su origen en el manga del mismo nombre, y que es también una parodia.
 
-[![image](http://adeektos.com/blog/wp-content/uploads/2013/03/ku-xlarge1.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/03/ku-xlarge1.jpg)
+[![image](../img/ku-xlarge1.jpg)](../img/ku-xlarge1.jpg)
 
-[![image](http://adeektos.com/blog/wp-content/uploads/2013/03/ku-xlarge-16.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/03/ku-xlarge-16.jpg)
+[![image](../img/ku-xlarge-16.jpg)](../img/ku-xlarge-16.jpg)
 
-[![image](http://adeektos.com/blog/wp-content/uploads/2013/03/ku-xlarge-21.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/03/ku-xlarge-21.jpg)
+[![image](../img/ku-xlarge-21.jpg)](../img/ku-xlarge-21.jpg)
 
-[![image](http://adeektos.com/blog/wp-content/uploads/2013/03/ku-xlarge-31.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/03/ku-xlarge-31.jpg)
+[![image](../img/ku-xlarge-31.jpg)](../img/ku-xlarge-31.jpg)
 
-[![image](http://adeektos.com/blog/wp-content/uploads/2013/03/ku-xlarge-41.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/03/ku-xlarge-41.jpg)
+[![image](../img/ku-xlarge-41.jpg)](../img/ku-xlarge-41.jpg)
 
-[![image](http://adeektos.com/blog/wp-content/uploads/2013/03/ku-xlarge-51.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/03/ku-xlarge-51.jpg)
+[![image](../img/ku-xlarge-51.jpg)](../img/ku-xlarge-51.jpg)
 
 Aquí está el trailer de la película de Hentai Kamen, para que entiendan de qué estoy hablando:
 

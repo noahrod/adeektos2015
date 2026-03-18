@@ -13,19 +13,19 @@ Sin embargo, los chavos siempre serán chavos. En México, Japón y en cualquier
 
  
 **Naruto**
-[![image](http://adeektos.com/blog/wp-content/uploads/2014/02/naruto.jpg)](http://adeektos.com/blog/wp-content/uploads/2014/02/naruto.jpg)
-[![image](http://adeektos.com/blog/wp-content/uploads/2014/02/naruto2.jpg)](http://adeektos.com/blog/wp-content/uploads/2014/02/naruto2.jpg)
+[![image](../img/naruto.jpg)](../img/naruto.jpg)
+[![image](../img/naruto2.jpg)](../img/naruto2.jpg)
 **Spiderman**
-**[![image](http://adeektos.com/blog/wp-content/uploads/2014/02/spiderman.jpg)](http://adeektos.com/blog/wp-content/uploads/2014/02/spiderman.jpg)**
+**[![image](../img/spiderman.jpg)](../img/spiderman.jpg)**
 **Dragon Ball Z**
 [![image](http://adeektos.com/blog/wp-content/uploads/2014/02/dragonball.jpg)](http://adeektos.com/blog/wp-content/uploads/2014/02/dragonball.jpg)
 **One Piece**
-[![image](http://adeektos.com/blog/wp-content/uploads/2014/02/onepiece2.jpg)](http://adeektos.com/blog/wp-content/uploads/2014/02/onepiece2.jpg)
-[![image](http://adeektos.com/blog/wp-content/uploads/2014/02/onepiece.jpg)](http://adeektos.com/blog/wp-content/uploads/2014/02/onepiece.jpg)
+[![image](../img/onepiece2.jpg)](../img/onepiece2.jpg)
+[![image](../img/onepiece.jpg)](../img/onepiece.jpg)
 **Fairy Tail**
 [![image](http://adeektos.com/blog/wp-content/uploads/2014/02/fairytale.jpg)](http://adeektos.com/blog/wp-content/uploads/2014/02/fairytale.jpg)
 **Neon Genesis Evangelion**
-[![image](http://adeektos.com/blog/wp-content/uploads/2014/02/eva.jpg)](http://adeektos.com/blog/wp-content/uploads/2014/02/eva.jpg)
+[![image](../img/eva.jpg)](../img/eva.jpg)
 **Attack on Titan**
 [![image](http://adeektos.com/blog/wp-content/uploads/2014/02/attackontitan.jpg)](http://adeektos.com/blog/wp-content/uploads/2014/02/attackontitan.jpg)
 **Dr. Slump**
