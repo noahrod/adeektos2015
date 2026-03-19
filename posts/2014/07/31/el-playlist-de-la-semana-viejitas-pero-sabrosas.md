@@ -3,6 +3,7 @@ title: "El playlist de la semana. Viejitas pero sabrosas"
 date: 2014-07-31
 author: Alan Luna
 slug: el-playlist-de-la-semana-viejitas-pero-sabrosas
+categories: [Fotografía, Metal]
 ---
 
 Salve salve amigos!

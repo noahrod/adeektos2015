@@ -3,6 +3,7 @@ title: "Nueva música para inicio de semana ft. Panic is Perfect"
 date: 2014-12-02
 author: Roberto Amador
 slug: nueva-musica-ft-panic-is-perfect
+categories: [Música, China, Indie]
 ---
 
 # Panic is Perfect

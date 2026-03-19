@@ -3,6 +3,7 @@ title: "Preparándose para el Corona Capital 2013: Blondie"
 date: 2013-09-17
 author: Roberto Amador
 slug: preparandose-para-el-corona-capital-2013-blondie
+categories: [Música, Apple, NFL]
 ---
 
 ![image](../../../../img/blondie.jpg)

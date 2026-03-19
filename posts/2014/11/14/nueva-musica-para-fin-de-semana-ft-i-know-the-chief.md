@@ -3,6 +3,7 @@ title: "Nueva música para fin de semana ft. I Know The Chief"
 date: 2014-11-14
 author: Roberto Amador
 slug: nueva-musica-para-fin-de-semana-ft-i-know-the-chief
+categories: [Música, Deportes, NFL, Indie]
 ---
 
 # I Know The Chief

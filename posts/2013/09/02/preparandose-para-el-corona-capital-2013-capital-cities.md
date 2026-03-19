@@ -3,6 +3,7 @@ title: "Preparándose para el Corona Capital 2013: Capital Cities"
 date: 2013-09-02
 author: Noé Rodríguez
 slug: preparandose-para-el-corona-capital-2013-capital-cities
+categories: [Música, Indie]
 ---
 
 ![image: 473864](../../../../img/473864.jpg)

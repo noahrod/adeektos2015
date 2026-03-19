@@ -3,6 +3,7 @@ title: "Quiniela Brasil 2014"
 date: 2014-06-09
 author: Alan Luna
 slug: quiniela-brasil-2014
+categories: [Apple, Fútbol, Eventos]
 ---
 
 Algo que nos une sin duda a todos los escritores de Adeektos es la programación y este post concentra dos pasiones, la del fútbol y la del desarrollo.

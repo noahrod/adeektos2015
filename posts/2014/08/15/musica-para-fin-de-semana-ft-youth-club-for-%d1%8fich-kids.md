@@ -3,6 +3,7 @@ title: "Música para fin de semana ft. Youth Club for Яich Kids"
 date: 2014-08-15
 author: Roberto Amador
 slug: musica-para-fin-de-semana-ft-youth-club-for-%d1%8fich-kids
+categories: [Música, Indie]
 ---
 
 ## Youth Club for Яich Kids

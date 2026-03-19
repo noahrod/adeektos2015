@@ -3,6 +3,7 @@ title: "Preparándose para el Corona Capital 2013: Stereophonics"
 date: 2013-10-04
 author: Roberto Amador
 slug: preparandose-para-el-corona-capital-2013-stereophonics
+categories: [Música]
 ---
 
 ![image](http://adeektos.com/blog/wp-content/uploads/2013/10/stereophonics-4dfe19e11d617.png)

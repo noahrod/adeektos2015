@@ -3,6 +3,7 @@ title: "Canción para inicio de semana ft. Emmy the Great"
 date: 2013-12-10
 author: Roberto Amador
 slug: cancion-para-inicio-de-semana-ft-emmy-the-great
+categories: [Música, iPhone]
 ---
 
 [![image](../../../../img/emmythegreatbanner.jpg)](../../../../img/emmythegreatbanner.jpg)

@@ -3,6 +3,7 @@ title: "Comerciales Japoneses: Los Simpson y C.C. Lemon"
 date: 2013-07-15
 author: Edgar Pelaez
 slug: comerciales-japoneses-los-simpsons-y-c-c-lemon
+categories: [iPhone, Japón]
 ---
 
 [![image](http://adeektos.com/blog/wp-content/uploads/2013/07/6a00d8341c4e3753ef00e54f32293b8834-800wi.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/07/6a00d8341c4e3753ef00e54f32293b8834-800wi.jpg)

@@ -3,6 +3,7 @@ title: "¿Fan de Flappy Bird y de 2048?  Te presentamos Flappy48"
 date: 2014-04-23
 author: Noé Rodríguez
 slug: te-presentamos-flappy48
+categories: [Tecnología]
 ---
 
 Llevo algunas días jugando [Flappy Bird](http://flappybird.io/) (si ya se, yo siempre a la moda) y estoy encantado con el juego. El momento que elegí para esta nueva adeekción (too much?) fue justo después de mi "rush" jugando [2048](http://gabrielecirulli.github.io/2048/). 

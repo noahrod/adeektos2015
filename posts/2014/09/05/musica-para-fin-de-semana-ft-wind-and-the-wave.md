@@ -3,6 +3,7 @@ title: "Música para fin de semana ft. Wind And The Wave"
 date: 2014-09-05
 author: Roberto Amador
 slug: musica-para-fin-de-semana-ft-wind-and-the-wave
+categories: [Música]
 ---
 
 # Wind And The Wave

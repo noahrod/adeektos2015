@@ -3,6 +3,7 @@ title: "El gurú carioca. Jornada 2"
 date: 2014-06-16
 author: Alan Luna
 slug: el-guru-carioca-jornada-2
+categories: [Estilo de vida]
 ---
 
 Salve salve amigos de adeektos!

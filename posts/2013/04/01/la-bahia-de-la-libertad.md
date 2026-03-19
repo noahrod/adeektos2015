@@ -3,6 +3,7 @@ title: "La bahía de la libertad"
 date: 2013-04-01
 author: Noé Rodríguez
 slug: la-bahia-de-la-libertad
+categories: [Microsoft, Series, Fotografía]
 ---
 
 [![image](../../../../img/366c234bfa5726141a073503a598780920caf9a0.jpg)](../../../../img/366c234bfa5726141a073503a598780920caf9a0.jpg)

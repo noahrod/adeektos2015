@@ -3,6 +3,7 @@ title: "Canción para inicio de semana ft . Rag Dolls"
 date: 2013-12-17
 author: Roberto Amador
 slug: cancion-para-inicio-de-semana-ft-rag-dolls
+categories: [Música, iPhone, Redes Sociales, Indie]
 ---
 
 ![image](http://adeektos.com/blog/wp-content/uploads/2013/12/ragdolls.jpg)

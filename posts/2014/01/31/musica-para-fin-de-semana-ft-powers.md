@@ -3,6 +3,7 @@ title: "Música para fin de semana ft. POWERS"
 date: 2014-01-31
 author: Roberto Amador
 slug: musica-para-fin-de-semana-ft-powers
+categories: [Música, iPhone, Apple]
 ---
 
 ![image: powersbanner](http://adeektos.com/blog/wp-content/uploads/2014/01/powersbanner-1024x677.jpg)

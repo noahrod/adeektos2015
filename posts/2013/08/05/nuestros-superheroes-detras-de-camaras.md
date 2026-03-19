@@ -3,6 +3,7 @@ title: "Nuestros superhéroes detrás de cámaras"
 date: 2013-08-05
 author: Alan Luna
 slug: nuestros-superheroes-detras-de-camaras
+categories: [Videojuegos, Fotografía, Comics]
 ---
 
 Alguna vez se han preguntado ¿qué hace Super Mario cuando no está trabajando para Nintendo? ¿Que hacen Spiderman, Superman, Batman y Capitán América mientras no combaten el crimen? ¿A qué se dedican los villanos de las historias cuando no están haciendo lo que mejor saben?

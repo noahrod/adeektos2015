@@ -3,6 +3,7 @@ title: " Gran diseño, poco espacio: 10 casas increíblemente pequeñas en Japó
 date: 2013-10-13
 author: Edgar Pelaez
 slug: gran-diseno-poco-espacio-10-casas-increiblemente-pequenas-en-japon-segunda-parte
+categories: [iPhone, Japón]
 ---
 
 Finalmente, es momento de continuar con nuestra muestra sobre las 10 casas que son pequeñas en espacio, pero que cuentan con un gran diseño, todas localizadas en Japón, donde gracias al concepto de *kyoushou juutaku, *las casas son diseñadas para poder aprovechar hasta los más pequeños y angostos espacios. Si quieres recordar la primera parte, aquí te dejamos el link para que veas las primeras [cinco de nuestro conteo. ](http://adeektos.com/blog/?p=1137)

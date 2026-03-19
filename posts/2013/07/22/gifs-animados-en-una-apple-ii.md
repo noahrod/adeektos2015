@@ -3,6 +3,7 @@ title: "GIFs animados en una Apple II"
 date: 2013-07-22
 author: Noé Rodríguez
 slug: gifs-animados-en-una-apple-ii
+categories: [Tecnología, Apple]
 ---
 
 ![image: vader](../../../../img/vader.gif)

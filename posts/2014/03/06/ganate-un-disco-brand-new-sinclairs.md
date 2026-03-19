@@ -3,6 +3,7 @@ title: "¡Participa para ganarte un disco! ft. Brand New Sinclairs"
 date: 2014-03-06
 author: Roberto Amador
 slug: ganate-un-disco-brand-new-sinclairs
+categories: [Música]
 ---
 
 **Brand New Sinclairs**, contundente base rítmica y guitarras crujientes, tocado con buen gusto y mucha clase, y la dulce y elegante voz de Ana Sinclair, dan forma a esta banda de *alma negra y descaro ye-yé*, como a ellos mismos les gusta definirse.

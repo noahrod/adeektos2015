@@ -3,6 +3,7 @@ title: "Canción para inicio de semana"
 date: 2013-08-19
 author: Roberto Amador
 slug: cancion-para-inicio-de-semana-5
+categories: [Música]
 ---
 
 ![image: miracles of science](http://adeektos.com/blog/wp-content/uploads/2013/08/miracles-of-science.jpg)

@@ -3,6 +3,7 @@ title: "El BlackBerry Z10 te podría poner al descubierto cuando estés viendo p
 date: 2013-04-04
 author: Noé Rodríguez
 slug: el-blackberry-z10-te-podria-poner-al-descubierto-cuando-estes-viendo-pr0n
+categories: [Smartphone]
 ---
 
 [![image](../../../../img/bbmeme.jpg)](../../../../img/bbmeme.jpg)

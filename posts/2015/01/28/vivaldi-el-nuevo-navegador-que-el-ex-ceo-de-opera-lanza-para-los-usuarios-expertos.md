@@ -3,6 +3,7 @@ title: "Vivaldi, el nuevo navegador que el ex-CEO de Opera lanza para los "usuar
 date: 2015-01-28
 author: Noé Rodríguez
 slug: vivaldi-el-nuevo-navegador-que-el-ex-ceo-de-opera-lanza-para-los-usuarios-expertos
+categories: [iPhone, Google]
 ---
 
 Tenemos ya una lista bastante extensa de navegadores de internet: Safari, Chrome, Opera, Firefox, Internet Explorer, etc.

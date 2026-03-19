@@ -3,6 +3,7 @@ title: "The Amazing Spiderman 2 - Electro teaser"
 date: 2013-07-18
 author: Alan Luna
 slug: the-amazing-spiderman-2-electro-teaser
+categories: [Cine, Electro]
 ---
 
 ![image: jamie-foxx-electro-the-amazing-spider-man-2](../../../../img/jamie-foxx-electro-the-amazing-spider-man-2.jpg)

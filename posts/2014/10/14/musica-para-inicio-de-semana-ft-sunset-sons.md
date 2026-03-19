@@ -3,6 +3,7 @@ title: "Música para inicio de semana ft. Sunset Sons"
 date: 2014-10-14
 author: Roberto Amador
 slug: musica-para-inicio-de-semana-ft-sunset-sons
+categories: [Música]
 ---
 
 # Sunset Sons

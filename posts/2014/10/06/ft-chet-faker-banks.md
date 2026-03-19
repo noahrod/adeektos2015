@@ -3,6 +3,7 @@ title: "No estoy de humor ft. Chet Faker &amp; Banks"
 date: 2014-10-06
 author: Jorge Rodriguez
 slug: ft-chet-faker-banks
+categories: [Música]
 ---
 
 Estamos en la recta final para el Corona Capital 14; por lo que es momento de guardar nuestras energías, encontrar nuestro ki interior y prepararnos mentalmente para los dos días de calor, baile y estupefacientes.

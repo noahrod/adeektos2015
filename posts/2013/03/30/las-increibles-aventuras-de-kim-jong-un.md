@@ -3,6 +3,7 @@ title: "Las Increíbles Aventuras de Kim Jong-Un"
 date: 2013-03-30
 author: Edgar Pelaez
 slug: las-increibles-aventuras-de-kim-jong-un
+categories: [Corea del Norte]
 ---
 
 [![image](http://adeektos.com/blog/wp-content/uploads/2013/03/385308795_640.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/03/385308795_640.jpg)

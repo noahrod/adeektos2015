@@ -3,6 +3,7 @@ title: "Preparándose para el Corona Capital 2013: Phoenix"
 date: 2013-09-13
 author: Roberto Amador
 slug: preparandose-para-el-corona-capital-2013-phoenix
+categories: [Música, iPhone]
 ---
 
 ![image](../../../../img/TopMusicaBlog_PhoenixLiveinSydney.jpg)

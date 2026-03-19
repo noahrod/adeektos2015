@@ -3,6 +3,7 @@ title: "Música para fin de semana ft. Seinabo Sey"
 date: 2014-09-19
 author: Roberto Amador
 slug: musica-para-fin-de-semana-ft-seinabo-sey
+categories: [Música, Electro]
 ---
 
 # Seinabo Sey

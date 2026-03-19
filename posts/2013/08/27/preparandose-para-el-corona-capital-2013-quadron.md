@@ -3,6 +3,7 @@ title: "Preparándose para el Corona Capital 2013: Quadron"
 date: 2013-08-27
 author: Roberto Amador
 slug: preparandose-para-el-corona-capital-2013-quadron
+categories: [Música, iPhone, Electro]
 ---
 
 ![image](../../../../img/quadron_cover_rgb-300x300.jpg)

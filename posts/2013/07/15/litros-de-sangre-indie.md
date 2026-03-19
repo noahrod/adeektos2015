@@ -3,6 +3,7 @@ title: "Litros de sangre "indie" (V/H/S/2)"
 date: 2013-07-15
 author: Alan Luna
 slug: litros-de-sangre-indie
+categories: [Cine, Indie]
 ---
 
 [![image](../../../../img/tumblr_morpt8vse31r19ay9o1_500-212x300.png)](http://adeektos.com/blog/wp-content/uploads/2013/07/tumblr_morpt8vse31r19ay9o1_500.png)

@@ -3,6 +3,7 @@ title: "La tarjeta de circuitos más linda que hayas visto"
 date: 2013-04-16
 author: Edgar Pelaez
 slug: la-tarjeta-de-circuitos-mas-linda-que-hayas-visto
+categories: [Japón]
 ---
 
 Para todos los fanáticos de la electrónica y que al mismo tiempo, son fans de las cosas Japonesas, o mejor conocidos como "Otakus," les tenemos grandes noticias... y es que finalmente podrán combinar sus dos aficiones. [*Akiba Blog*](http://blog.livedoor.jp/geek/archives/51375034.html) y [*Kotaku*](http://kotaku.com/5969674/your-circuit-board-cannot-be-this-cute) nos presentan una de las tarjetas de circuitos que más lindas del mercado, que te permitirán expresarte como un fan del anime o manga al mismo tiempo que trabajas en tu proyecto para tu clase de ingeniería...o en ese robot en el que estás trabajando... no me cree??? Pues échenle un vistazo a esto:

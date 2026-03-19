@@ -3,6 +3,7 @@ title: "Música para inicio de semana ft. Bear Hands"
 date: 2014-03-25
 author: Roberto Amador
 slug: musica-para-fin-de-semana-ft-bear-hands
+categories: [Música, iPhone, Redes Sociales, Indie]
 ---
 
 ### Bear Hands

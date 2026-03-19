@@ -3,6 +3,7 @@ title: "Apple empezará la producción del siguiente iPhone en este trimestre"
 date: 2013-04-02
 author: Noé Rodríguez
 slug: apple-empezara-la-produccion-del-siguiente-iphone-en-este-trimestre
+categories: [Tecnología, Smartphone, iPhone, Apple]
 ---
 
 [![image](../../../../img/IPHONE-5S-2.jpg)](../../../../img/IPHONE-5S-2.jpg)

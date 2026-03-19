@@ -3,6 +3,7 @@ title: "Canción para fin de semana ft. Crystal Fighters"
 date: 2013-11-15
 author: Roberto Amador
 slug: cancion-para-fin-de-semana-ft-crystal-fighters
+categories: [Música, iPhone, Indie, Electro]
 ---
 
 ![image](http://adeektos.com/blog/wp-content/uploads/2013/11/crystalfightersbanner.jpg)

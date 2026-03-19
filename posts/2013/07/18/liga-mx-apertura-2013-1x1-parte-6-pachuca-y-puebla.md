@@ -3,6 +3,7 @@ title: "Liga MX, Apertura 2013 1×1 – Parte 6: Pachuca y Puebla"
 date: 2013-07-18
 author: Alan Luna
 slug: liga-mx-apertura-2013-1x1-parte-6-pachuca-y-puebla
+categories: [México, Fútbol]
 ---
 
 Continuamos con el sexto capítulo del previo al Apertura 2013 en México.

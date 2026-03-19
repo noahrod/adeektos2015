@@ -3,6 +3,7 @@ title: "Música para inicio de semana ft. Cruiser"
 date: 2014-03-11
 author: Roberto Amador
 slug: musica-para-inicio-de-semana-ft-cruiser
+categories: [Música, iPhone, Redes Sociales, Indie]
 ---
 
 ## **Cruiser** es un conjunto de Pensilvania, Estados Unidos de indie/pop compuesto por *Andy States (Vocales/Guitarra), Jonathan van Dine (Batería), Josa Lazas (Guitarra) y Kyle Cook (Bajo/Vocales)*.

@@ -3,6 +3,7 @@ title: "Preparándose para el Corona Capital 2013: Arctic Monkeys"
 date: 2013-10-11
 author: Roberto Amador
 slug: preparandose-para-el-corona-capital-2013-arctic-monkeys
+categories: [Música, Indie]
 ---
 
 ![image](http://adeektos.com/blog/wp-content/uploads/2013/10/arctic-monkeys.png)

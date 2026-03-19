@@ -3,6 +3,7 @@ title: "Tame Impala de vuelta en México"
 date: 2013-07-15
 author: Noé Rodríguez
 slug: tame-impala-de-vuelta-en-mexico
+categories: [México]
 ---
 
 ![image: poster_tame_impala_large](../../../../img/poster_tame_impala_large.jpg)

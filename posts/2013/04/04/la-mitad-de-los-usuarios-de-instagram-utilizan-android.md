@@ -3,6 +3,7 @@ title: "La mitad de los usuarios de Instagram utilizan Android"
 date: 2013-04-04
 author: Noé Rodríguez
 slug: la-mitad-de-los-usuarios-de-instagram-utilizan-android
+categories: [Tecnología, Smartphone, Android, iPhone, Redes Sociales]
 ---
 
 [![image](../../../../img/instagram-android-2-1024x639.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/04/instagram-android-2.jpg)

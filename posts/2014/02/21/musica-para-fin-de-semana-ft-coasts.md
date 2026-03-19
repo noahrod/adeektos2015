@@ -3,6 +3,7 @@ title: "Música para fin de semana ft. Coasts"
 date: 2014-02-21
 author: Roberto Amador
 slug: musica-para-fin-de-semana-ft-coasts
+categories: [Música, iPhone, Indie]
 ---
 
 ![image](http://adeektos.com/blog/wp-content/uploads/2014/02/coastsbanner-300x300.jpg)

@@ -3,6 +3,7 @@ title: "Nueva música para fin de semana ft. WHITE"
 date: 2014-10-24
 author: Roberto Amador
 slug: musica-para-fin-de-semana-ft-white
+categories: [Música]
 ---
 
 # WHITE

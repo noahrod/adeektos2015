@@ -3,6 +3,7 @@ title: "BB Messenger y sus 5 millones de activaciones en 8 horas"
 date: 2013-10-22
 author: Noé Rodríguez
 slug: bb-messenger-y-sus-5-millones-de-activaciones-en-8-horas
+categories: [Tecnología, Android, iPhone, Redes Sociales]
 ---
 
 ![image: 650_1000_bbm-ios-android](http://adeektos.com/blog/wp-content/uploads/2013/10/650_1000_bbm-ios-android.png)

@@ -3,6 +3,7 @@ title: "Música para inicio de semana ft. Oh Honey"
 date: 2014-07-29
 author: Roberto Amador
 slug: musica-para-inicio-de-semana-ft-oh-honey
+categories: [Música, iPhone, Redes Sociales, Fotografía, Indie]
 ---
 
 ## Oh Honey

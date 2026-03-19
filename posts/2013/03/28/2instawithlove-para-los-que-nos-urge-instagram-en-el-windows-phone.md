@@ -3,6 +3,7 @@ title: "#2InstaWithLove para los que nos urge Instagram en el Windows Phone"
 date: 2013-03-28
 author: Noé Rodríguez
 slug: 2instawithlove-para-los-que-nos-urge-instagram-en-el-windows-phone
+categories: [Tecnología, Windows Phone, Redes Sociales, Microsoft]
 ---
 
 [![image](http://adeektos.com/blog/wp-content/uploads/2013/03/2instagramwlove.png)](http://adeektos.com/blog/wp-content/uploads/2013/03/2instagramwlove.png)

@@ -3,6 +3,7 @@ title: "Música para fin de semana ft. The Mispers"
 date: 2014-10-17
 author: Roberto Amador
 slug: musica-para-fin-de-semana-ft-mispers
+categories: [Música]
 ---
 
 # The Mispers

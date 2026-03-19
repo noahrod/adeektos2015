@@ -3,6 +3,7 @@ title: "Música para fin de semana ft. Young Rising Sons"
 date: 2014-08-21
 author: Roberto Amador
 slug: musica-para-fin-de-semana-ft-young-rising-sons
+categories: [Música]
 ---
 
 ## Young Rising Sons

@@ -3,6 +3,7 @@ title: "¡Música gratis! Mntngr y su disco debut"
 date: 2014-03-05
 author: Noé Rodríguez
 slug: musica-gratis-mntngr
+categories: [Música]
 ---
 
 ¿Amante del shoegaze y el noise? Este disco te va a gustar. Una banda difícil de encontrar, pues hasta donde tengo entendido jamás han tenido un show en vivo. Una banda formada casi en secreto, donde la mayoría desconocía de su existencia y que después de 9 meses nos traen su disco "**homónimo**" (lo mejor de todo es que lo regalan).

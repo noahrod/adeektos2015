@@ -3,6 +3,7 @@ title: "Canción para fin de semana ft. Heavy English (aka Heavy Ingles)"
 date: 2013-11-08
 author: Roberto Amador
 slug: cancion-para-fin-de-semana-ft-heavy-english
+categories: [Música, iPhone, Redes Sociales]
 ---
 
 **Heavy English** es una banda de rock alternativo formada por ex miembros de la banda *"Envy On The Coast"*. No sé porque pero me recuerdan a los Black Keys, bueno espero les guste y dejen sus comentarios o sugerencias abajo.

@@ -3,6 +3,7 @@ title: "Música para fin de semana ft. Twin Atlantic"
 date: 2014-07-25
 author: Roberto Amador
 slug: musica-para-fin-de-semana-ft-twin-atlantic
+categories: [Música, iPhone]
 ---
 
 ## Twin Atlantic

@@ -3,6 +3,7 @@ title: "¡Spotify en México gracias a Coca-Cola!"
 date: 2013-04-08
 author: Noé Rodríguez
 slug: spotify-en-mexico-gracias-a-coca-cola
+categories: [Música, México]
 ---
 
 [![image](../../../../img/Spotify-Coca-Cola.jpg)](../../../../img/Spotify-Coca-Cola.jpg)

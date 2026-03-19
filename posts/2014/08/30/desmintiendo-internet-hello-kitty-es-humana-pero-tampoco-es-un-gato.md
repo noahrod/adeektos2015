@@ -3,6 +3,7 @@ title: "Desmintiendo Internet: Hello Kitty NO es humana... pero tampoco es un ga
 date: 2014-08-30
 author: Edgar Pelaez
 slug: desmintiendo-internet-hello-kitty-es-humana-pero-tampoco-es-un-gato
+categories: [iPhone, Redes Sociales]
 ---
 
 Durante los últimos días nuestro muro de Facebook así como nuestro feed the Twitter y otras redes sociales se han plagado de notas de distintos blogs y sitios de noticios revelando que Hello Kitty no es una gata, sino una niña humana. Todo esto comenzó con un artículo escrito por Carolina A. Miranda en el [LA Times](http://www.latimes.com/entertainment/arts/miranda/la-et-cam-hello-kitty-in-los-angeles-not-a-cat-20140826-column.html#page=1) sobre una muestra de arte que celebra al famoso personaje japonés, ídolo de las masas y que llena los estuches de las niñas de primaria. Pronto, el internet se vio plagado por [notas](http://time.com/3197794/hello-kitty-not-a-cat/) diciendo que Kitty no era un gato sino humana.

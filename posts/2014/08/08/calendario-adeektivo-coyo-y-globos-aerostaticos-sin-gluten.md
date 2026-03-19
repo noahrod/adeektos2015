@@ -3,6 +3,7 @@ title: "CALENDARIO ADEEKTIVO: Coyo y Globos Aerostáticos sin Gluten"
 date: 2014-08-08
 author: Ari Torres
 slug: calendario-adeektivo-coyo-y-globos-aerostaticos-sin-gluten
+categories: [Tecnología, Eventos]
 ---
 
 Una disculpa por el retraso para el miércoles de aventura, Adeektos, pero aquí les traigo 3 eventos para ocuparnos en este fin de semana.

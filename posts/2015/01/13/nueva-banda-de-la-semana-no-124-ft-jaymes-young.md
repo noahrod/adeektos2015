@@ -3,6 +3,7 @@ title: "Nueva banda de la semana [No.124] ft. Jaymes Young"
 date: 2015-01-13
 author: Roberto Amador
 slug: nueva-banda-de-la-semana-no-124-ft-jaymes-young
+categories: [Música, México, NFL, Indie]
 ---
 
 # Jaymes Young

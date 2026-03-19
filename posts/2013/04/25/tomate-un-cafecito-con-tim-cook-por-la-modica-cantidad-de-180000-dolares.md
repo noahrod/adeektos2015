@@ -3,6 +3,7 @@ title: "Tomate un cafecito con Tim Cook por la módica cantidad de 180,000 dóla
 date: 2013-04-25
 author: Noé Rodríguez
 slug: tomate-un-cafecito-con-tim-cook-por-la-modica-cantidad-de-180000-dolares
+categories: [Tecnología, iPhone, Apple]
 ---
 
 [![image: tech_tim_cook_1-e1348841749223](../../../../img/tech_tim_cook_1-e1348841749223.jpg)](../../../../img/tech_tim_cook_1-e1348841749223.jpg)

@@ -3,6 +3,7 @@ title: "Nueva música para fin de semana ft. DOROTHY"
 date: 2014-12-05
 author: Roberto Amador
 slug: nueva-musica-ft-dorothy
+categories: [Música, iPhone, Indie]
 ---
 
 # DOROTHY

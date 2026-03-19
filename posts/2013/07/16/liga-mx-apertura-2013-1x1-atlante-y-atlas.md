@@ -3,6 +3,7 @@ title: "Liga MX, Apertura 2013 1×1 – Parte 2: Atlante y Atlas"
 date: 2013-07-16
 author: Alan Luna
 slug: liga-mx-apertura-2013-1x1-atlante-y-atlas
+categories: [Fútbol]
 ---
 
 Toca el turno de dos equipos que siguen peleando en la zona del descenso.

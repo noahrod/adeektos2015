@@ -3,6 +3,7 @@ title: "Canción para inicio de semana ft. Satellite Stories"
 date: 2013-10-14
 author: Roberto Amador
 slug: cancion-para-inicio-de-semana-ft-satellite-stories
+categories: [Música, iPhone]
 ---
 
 ![image](../../../../img/satellite.jpg)

@@ -3,6 +3,7 @@ title: "Oh! Decepción!!!! El filtro de Agua Öko no es lo que imaginábamos!"
 date: 2013-04-21
 author: Edgar Pelaez
 slug: oh-decepcion-el-filtro-de-agua-oko-no-es-lo-que-imaginabamos
+categories: [Tecnología, Fotografía]
 ---
 
 Bueno, a lo mejor muchos no saben de sobre que estamos hablando. Si no lo recuerdan, hace tiempo anda corriendo por internet un video y fotos sobre un filtro de agua, el **[Öko](http://www.okoh2o.com/whatisoko.php) **que se supone usa tecnología de la NASA para filtrar agua, y de acuerdo a su video promocional, es capaz de filtrar la Coca-Cola y dejarla transparente:

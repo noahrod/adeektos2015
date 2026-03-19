@@ -3,6 +3,7 @@ title: "Música para inicio de semana ft. Wolf Colony"
 date: 2014-02-25
 author: Roberto Amador
 slug: musica-para-inicio-de-semana-ft-wolf-colony
+categories: [Música, iPhone, Redes Sociales, Indie]
 ---
 
 ![image](http://adeektos.com/blog/wp-content/uploads/2014/02/wolfcolonybanner.png)

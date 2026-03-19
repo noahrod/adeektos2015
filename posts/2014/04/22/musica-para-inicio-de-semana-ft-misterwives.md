@@ -3,6 +3,7 @@ title: "Música para inicio de semana ft. MisterWives"
 date: 2014-04-22
 author: Roberto Amador
 slug: musica-para-inicio-de-semana-ft-misterwives
+categories: [Música, iPhone]
 ---
 
 # MisterWives es un conjunto de NYC, USA de Soul/Dance/Pop/Folk compuesto por Mandy Lee (vocales), William Hehir (bajo), Etienne Bowler (batería), Marc Campbell (guitarra) y Dr. Blum (teclado, trompeta y acordeón).

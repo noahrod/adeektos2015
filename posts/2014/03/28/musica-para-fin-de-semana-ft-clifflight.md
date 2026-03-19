@@ -3,6 +3,7 @@ title: "Música para fin de semana ft. CliffLight"
 date: 2014-03-28
 author: Roberto Amador
 slug: musica-para-fin-de-semana-ft-clifflight
+categories: [Música, iPhone, Redes Sociales, Indie]
 ---
 
 ### CliffLight

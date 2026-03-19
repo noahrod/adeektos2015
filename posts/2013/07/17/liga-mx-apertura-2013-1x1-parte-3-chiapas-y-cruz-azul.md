@@ -3,6 +3,7 @@ title: "Liga MX, Apertura 2013 1×1 – Parte 3: Chiapas y Cruz Azul"
 date: 2013-07-17
 author: Alan Luna
 slug: liga-mx-apertura-2013-1x1-parte-3-chiapas-y-cruz-azul
+categories: [iPhone, Fútbol]
 ---
 
 Seguimos con los comentarios uno a uno de los 18 equipos para el Apertura 2013. En esta ocasión toca el turno de Chiapas y Cruz Azul.

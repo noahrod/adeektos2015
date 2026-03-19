@@ -3,6 +3,7 @@ title: "Música para inicio de semana ft. Tennis"
 date: 2014-04-08
 author: Roberto Amador
 slug: musica-para-inicio-de-semana-ft-tennis
+categories: [Música, iPhone, Indie]
 ---
 
 # Tennis es un grupo de indie pop de Denver, USA formado por Alaina Moore, Patrick Riley y James Barone. Alaina y Patrick se conocieron mientras estudiaban la carrera de filosofía y decidierón empezar el grupo despúes de estar en una expedición de 7 meses en el oceano Atlántico.

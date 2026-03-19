@@ -3,6 +3,7 @@ title: "Mercado Roma y Biergarten, un mercado entre comi(di)llas"
 date: 2014-07-23
 author: Ari Torres
 slug: mercado-roma-y-biergarten-un-mercado-entre-comidillas
+categories: [iPhone, Comida]
 ---
 
 En este día de food porn, Mexiquita les trae un lugar cuyo nombre no es engañoso, es ingenioso. Tomó los básicos de un mercado y lo “hipster” de la zona para dar a luz una fusión de conceptos, el famoso Mercado Roma en Querétaro 225 Colonia Roma. Estratégicamente, lo primero que percibimos al llegar son los espacios abiertos que nos dejan ver a la gente repartida en pasillos y changarritos, sentada en banquitos, asomándose por una barra, en fin, pareciera que no hay un orden establecido. Incluso hay un puesto de flores que le da ese toque “mercadil” a un lugar que está perfectamente pensado.

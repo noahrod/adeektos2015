@@ -3,6 +3,7 @@ title: "Canción para fin de semana ft. Raglans"
 date: 2013-10-25
 author: Roberto Amador
 slug: cancion-para-fin-de-semana-ft-raglans
+categories: [Música, iPhone, Redes Sociales, Comics, Indie]
 ---
 
 ![image](http://adeektos.com/blog/wp-content/uploads/2013/10/raglans1.jpg)

@@ -3,6 +3,7 @@ title: "Canción para inicio de semana ft. Echosmith"
 date: 2013-11-04
 author: Roberto Amador
 slug: cancion-para-inicio-de-semana-ft-echosmith
+categories: [Música, Apple, Indie]
 ---
 
 ![image](http://adeektos.com/blog/wp-content/uploads/2013/11/echosmith_inlay_layers_copy.jpg)

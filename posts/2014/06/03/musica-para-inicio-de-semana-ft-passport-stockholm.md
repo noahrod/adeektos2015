@@ -3,6 +3,7 @@ title: "Música para inicio de semana ft. Passport to Stockholm"
 date: 2014-06-03
 author: Roberto Amador
 slug: musica-para-inicio-de-semana-ft-passport-stockholm
+categories: [Música, iPhone, Deportes, Indie]
 ---
 
 ## Música para inicio de semana ft. Passport to Stockholm

@@ -3,6 +3,7 @@ title: "Adeektos + YO : ¿Ya conoces YO?"
 date: 2014-08-13
 author: Noé Rodríguez
 slug: adeektos-yo-ya-conoces-yo
+categories: [Apple]
 ---
 
 **¿Qué es YO?** Para empezar es muy importante que se entienda que es "YO" en inglés y no "YO" en español. ¿Qué diablos significa YO en inglés? Bueno, según la fuente fidedigna de información número uno en Adeektos (Urban Dictionary) puede significar lo siguiente:

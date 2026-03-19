@@ -3,6 +3,7 @@ title: "Canción para inicio de semana"
 date: 2013-08-05
 author: Roberto Amador
 slug: cancion-para-inicio-de-semana-3
+categories: [Música, iPhone, Comics, Indie]
 ---
 
 ![image: Max-and-the-Moon-Out-of-My-Head](http://adeektos.com/blog/wp-content/uploads/2013/08/Max-and-the-Moon-Out-of-My-Head.png)

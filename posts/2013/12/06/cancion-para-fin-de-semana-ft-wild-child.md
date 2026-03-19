@@ -3,6 +3,7 @@ title: "Canción para fin de semana ft. Wild Child"
 date: 2013-12-06
 author: Roberto Amador
 slug: cancion-para-fin-de-semana-ft-wild-child
+categories: [Música, iPhone, Comics, Indie]
 ---
 
 ![image](../../../../img/wildchildbanner-1024x579.jpg)

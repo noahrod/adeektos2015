@@ -3,6 +3,7 @@ title: "Desmintiendo Internet: Kaopan y Hentai Kamen"
 date: 2013-03-31
 author: Edgar Pelaez
 slug: desmintiendo-internet-kaopan-y-hentai-kamen
+categories: [iPhone, Japón, Fotografía]
 ---
 
 Últimamente en la red y en distintos sitios hemos visto las fotografías de chicas japonesas utilizando pantaletas en la cara, con comentarios como "[La nueva moda de Japón](http://www.publimetro.com.mx/xfiles/calzones-en-la-cara-la-nueva-moda-japonesa/mmce!cY00yLL4tsf/)" o "[WTF Japan!](http://www.inquisitr.com/527501/latest-japanese-fashion-trend-girls-wearing-panties-on-their-faces/)" haciendo alusión a que esto es algo que uno vería todos los días en la calle. Como alguien que vive aquí en Japón, sólo me resta decirles: **no es cierto**.

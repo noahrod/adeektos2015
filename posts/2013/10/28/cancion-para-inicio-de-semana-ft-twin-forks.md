@@ -3,6 +3,7 @@ title: "Canción para inicio de semana ft. Twin Forks"
 date: 2013-10-28
 author: Roberto Amador
 slug: cancion-para-inicio-de-semana-ft-twin-forks
+categories: [Música, NFL]
 ---
 
 ![image](../../../../img/twin-forks-1024x576.jpg)

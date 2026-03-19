@@ -3,6 +3,7 @@ title: "Nueva música para inicio de semana ft. Raury"
 date: 2014-10-21
 author: Roberto Amador
 slug: nueva-musica-para-inicio-de-semana-ft-raury
+categories: [Música, iPhone]
 ---
 
 # Raury

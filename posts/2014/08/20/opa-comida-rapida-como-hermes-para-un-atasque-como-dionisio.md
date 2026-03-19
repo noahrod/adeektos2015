@@ -3,6 +3,7 @@ title: "¡OPA! Comida rápida como Hermes para un atasque como Dionisio"
 date: 2014-08-20
 author: Ari Torres
 slug: opa-comida-rapida-como-hermes-para-un-atasque-como-dionisio
+categories: [iPhone, Comida]
 ---
 
 Una de las disyuntivas eternas del hombre es tener el tiempo para viajar y no el dinero, o tener el dinero pero no el tiempo. Pero ¿Qué es aquello que nos atrae de visitar otros lugares tan lejos de dónde nacimos? Tal vez aquello que no encontramos aquí. Aquellos lenguajes, edificios, costumbres, expresiones, tradiciones, sabores y olores que hacen que cada sentido de nuestro cuerpo se maraville al descubrirlos.

@@ -3,6 +3,7 @@ title: "Viaja a través de Japón en una hora!!!"
 date: 2013-07-18
 author: Edgar Pelaez
 slug: viaja-a-traves-de-japon-en-una-hora
+categories: [Japón, México, Comida]
 ---
 
 Aquí en Adeektos sabemos que el sueño de muchos de nuestros lectores es venir y conocer la Tierra del Sol Naciente. No obstante, aunque no imposible, es una meta un poco difícil de alcanzar. Primero que nada, el costo del viaje, ya que el avión desde México hasta Japón no es nada barato, a esto hay que agregarle los costos de comidas y hospedaje, más lo que uno gasta en moverse tan sólo dentro de una ciudad... Además, para aquéllos que puedan venir, a menos que vengan a estudiar o trabajar aquí, poder recorrer todo el país es bastante complicado.

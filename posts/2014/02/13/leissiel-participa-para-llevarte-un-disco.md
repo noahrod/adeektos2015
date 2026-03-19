@@ -3,6 +3,7 @@ title: "Leissiel: ¡Participa para llevarte un disco!"
 date: 2014-02-13
 author: Noé Rodríguez
 slug: leissiel-participa-para-llevarte-un-disco
+categories: [Música, Apple]
 ---
 
 ![image: leissiel_7](../../../../img/leissiel_7-1024x448.jpg)

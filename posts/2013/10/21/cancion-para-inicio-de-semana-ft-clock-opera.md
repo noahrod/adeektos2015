@@ -3,6 +3,7 @@ title: "Canción para inicio de semana ft. Clock Opera"
 date: 2013-10-21
 author: Roberto Amador
 slug: cancion-para-inicio-de-semana-ft-clock-opera
+categories: [Música, iPhone, Indie]
 ---
 
 ![image](http://adeektos.com/blog/wp-content/uploads/2013/10/clock-opera-banner.jpg)

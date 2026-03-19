@@ -3,6 +3,7 @@ title: "¿Se aproxima una guerra? ¿Sería el fin de Corea del Norte?"
 date: 2013-03-30
 author: Karla Zepeda
 slug: se-aproxima-una-guerra-sera-el-fin-de-corea-del-norte
+categories: [Corea del Norte]
 ---
 
 [![image](http://adeektos.com/blog/wp-content/uploads/2013/03/korean-1024x653.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/03/korean.jpg)

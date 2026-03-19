@@ -3,6 +3,7 @@ title: "Música para fin de semana ft. Last Of The Light Brigade"
 date: 2014-06-13
 author: Roberto Amador
 slug: musica-para-fin-de-semana-ft-last-light-brigade
+categories: [Música, iPhone, Electro]
 ---
 
 ## Last Of The Light Brigade

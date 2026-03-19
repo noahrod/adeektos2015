@@ -3,6 +3,7 @@ title: "Nueva música para inicio de semana ft. Tahiti 80"
 date: 2014-11-18
 author: Roberto Amador
 slug: nueva-musica-para-inicio-de-semana-ft-tahiti-80
+categories: [Música, Indie]
 ---
 
 # Tahiti 80

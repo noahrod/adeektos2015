@@ -3,6 +3,7 @@ title: "Troy and Abed presentan a Childish Gambino y Shift K3Y"
 date: 2014-09-29
 author: Jorge Rodriguez
 slug: childish_gambino_shift_k3y
+categories: [Música, Estilo de vida, Electro]
 ---
 
 ¿Saben que le falta a su repertorio de música?

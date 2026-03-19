@@ -3,6 +3,7 @@ title: "Nueva banda de la semana [No.127] ft. EARLY HOURS"
 date: 2015-01-27
 author: Roberto Amador
 slug: nueva-banda-de-la-semana-no-127-ft-early-hours
+categories: [Música, Apple, NFL, Indie]
 ---
 
 # EARLY HOURS

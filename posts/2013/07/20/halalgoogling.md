@@ -3,6 +3,7 @@ title: "“Halalgoogling""
 date: 2013-07-20
 author: Karla Zepeda
 slug: halalgoogling
+categories: [iPhone, Google]
 ---
 
 ![image: halalgoogling](http://adeektos.com/blog/wp-content/uploads/2013/07/Screen-shot-2013-07-20-at-12.33.41-PM.png)

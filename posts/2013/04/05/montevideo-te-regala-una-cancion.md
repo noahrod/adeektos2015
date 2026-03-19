@@ -3,6 +3,7 @@ title: "Montevideo te regala una canción"
 date: 2013-04-05
 author: Noé Rodríguez
 slug: montevideo-te-regala-una-cancion
+categories: [Música, Tecnología, Fotografía]
 ---
 
 [![image](http://adeektos.com/blog/wp-content/uploads/2013/04/257724_223205464364762_972415_o-1024x682.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/04/257724_223205464364762_972415_o.jpg)

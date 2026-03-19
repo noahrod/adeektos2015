@@ -3,6 +3,7 @@ title: "6sec, el primer cliente no oficial de Vine para Windows Phone"
 date: 2013-07-17
 author: Noé Rodríguez
 slug: 6sec-el-primer-cliente-no-oficial-de-vine-para-windows-phone
+categories: [Tecnología, Windows Phone, Microsoft]
 ---
 
 ![image: 6sec-app-2](http://adeektos.com/blog/wp-content/uploads/2013/07/6sec-app-2.jpg)

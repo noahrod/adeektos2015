@@ -3,6 +3,7 @@ title: "Música para inicio de semana ft. Beatenberg"
 date: 2014-09-09
 author: Roberto Amador
 slug: musica-ft-beatenberg
+categories: [Música]
 ---
 
 # Beatenberg

@@ -3,6 +3,7 @@ title: "Stand up comedy en México: Manchita y su "non serviam""
 date: 2013-07-18
 author: Noé Rodríguez
 slug: stand-up-comedy-en-mexico-manchita-y-su-non-serviam
+categories: [Redes Sociales, México]
 ---
 
 ![image: 946290_410493555736337_929370596_n](../../../../img/946290_410493555736337_929370596_n1.png)

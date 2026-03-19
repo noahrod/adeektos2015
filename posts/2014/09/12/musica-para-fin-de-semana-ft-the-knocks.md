@@ -3,6 +3,7 @@ title: "Música para fin de semana ft. The Knocks"
 date: 2014-09-12
 author: Roberto Amador
 slug: musica-para-fin-de-semana-ft-the-knocks
+categories: [Música, iPhone, Apple]
 ---
 
 # The Knocks

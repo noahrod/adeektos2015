@@ -3,6 +3,7 @@ title: "Esto es realmente útil: un refrigerador portátil para sandías."
 date: 2013-04-25
 author: Edgar Pelaez
 slug: esto-es-realmente-util-un-refrigerador-portatil-para-sandias
+categories: [Japón, Comida]
 ---
 
 Bueno, bueno tal vez estoy exagerando un poco.... Todos necesitamos una buena hielera, son muy útiles para poder llevar unas cervezas a esa carne asada con los amigos, o mantener fresca la comida para ese día de campo con la chica de tus sueños en Chapultepec, justo antes de llevarla a las lanchas. Sin embargo, la compañía japonesa[ Joybond](http://joybond.co.jp/index.php) ha llevado este concepto a otro nivel al traernos a Tama-chan, un pequeño refrigerador y calentador portátil, con todo y sus rueditas para que lo lleves a todos lados contigo.

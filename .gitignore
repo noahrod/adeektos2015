@@ -4,3 +4,7 @@
 requirements.txt
 IMAGE_RECOVERY_README.md
 posts/README.md
+.venv/
+*.log
+*.sql
+category_mappings.json

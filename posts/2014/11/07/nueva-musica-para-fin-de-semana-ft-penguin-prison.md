@@ -3,6 +3,7 @@ title: "Nueva música para fin de semana ft. Penguin Prison"
 date: 2014-11-07
 author: Roberto Amador
 slug: nueva-musica-para-fin-de-semana-ft-penguin-prison
+categories: [Música, Electro]
 ---
 
 # Penguin Prison

@@ -3,6 +3,7 @@ title: "¿Qué pasa cuando Súper Mario se junta con Jackie Chan? Posiblemente e
 date: 2013-06-06
 author: Edgar Pelaez
 slug: que-pasa-cuando-super-mario-se-junta-con-jackie-chan-posiblemente-el-video-mas-epico-de-la-historia
+categories: [iPhone, Videojuegos, Estilo de vida]
 ---
 
 [![image](../../../../img/chinese-mario-title4.jpg)](../../../../img/chinese-mario-title4.jpg)

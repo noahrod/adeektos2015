@@ -3,6 +3,7 @@ title: "Samsung y su "nuevo" Galaxy S4 dorado."
 date: 2013-09-25
 author: Noé Rodríguez
 slug: samsung-y-su-nuevo-galaxy-s4-dorado
+categories: [iPhone, NFL]
 ---
 
 Hace no mucho tiempo me estaba burlando del nuevo producto de la casa de las manzanas, el **iPhone 5S dorado**.

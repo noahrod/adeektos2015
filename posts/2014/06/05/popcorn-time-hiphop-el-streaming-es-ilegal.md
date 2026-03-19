@@ -3,6 +3,7 @@ title: "Popcorn Time, HipHop: ¿El streaming es ilegal?"
 date: 2014-06-05
 author: Noé Rodríguez
 slug: popcorn-time-hiphop-el-streaming-es-ilegal
+categories: [Música, iPhone, Cine]
 ---
 
 Hace no mucho tiempo me maravillaba lo fácil que era usar [Netflix](http://netflix.com) y [Spotify](http://spotify.com). Legalmente accedes a una cantidad impresionante de entretenimiento, que además se ajusta a tu capacidad de descarga de la conexión de Internet que estés usando.  

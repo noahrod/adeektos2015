@@ -3,6 +3,7 @@ title: "Música para inicio de semana ft. Josef Salvat"
 date: 2014-09-30
 author: Roberto Amador
 slug: musica-para-inicio-de-semana-ft-josef-salvat
+categories: [Música, iPhone, Indie]
 ---
 
 # Josef Salvat

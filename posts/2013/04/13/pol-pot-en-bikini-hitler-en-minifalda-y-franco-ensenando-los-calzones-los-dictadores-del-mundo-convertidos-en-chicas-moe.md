@@ -3,6 +3,7 @@ title: "Pol Pot en Bikini, Hitler en Minifalda y Franco Enseñando los Calzones:
 date: 2013-04-13
 author: Edgar Pelaez
 slug: pol-pot-en-bikini-hitler-en-minifalda-y-franco-ensenando-los-calzones-los-dictadores-del-mundo-convertidos-en-chicas-moe
+categories: [Japón]
 ---
 
 [![image](../../../../img/102.jpg)](../../../../img/102.jpg)

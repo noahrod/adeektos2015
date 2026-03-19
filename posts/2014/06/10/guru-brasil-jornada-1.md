@@ -3,6 +3,7 @@ title: "El gurú carioca. Jornada 1"
 date: 2014-06-10
 author: Alan Luna
 slug: guru-brasil-jornada-1
+categories: [Fútbol]
 ---
 
 En Adeektos pensamos en darles herramientas suficientes que les ayuden a ganar cualquier cantidad de juegos y [quinielas](http://quinielabrasil2014.adeektos.com) que se vienen con motivo del **Mundial Brasil 2014**, por eso les presentamos los pronósticos para todos los partidos de la primera ronda en base al Soccer Power Index - SPI.

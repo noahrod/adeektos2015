@@ -3,6 +3,7 @@ title: "Robocop (2014)"
 date: 2013-09-06
 author: Noé Rodríguez
 slug: robocop-2014
+categories: [Apple, Cine]
 ---
 
 ![image: Robocop-Remake](http://adeektos.com/blog/wp-content/uploads/2013/09/Robocop-Remake.jpg)

@@ -3,6 +3,7 @@ title: "Microsoft Office disponible para Android"
 date: 2013-07-31
 author: Noé Rodríguez
 slug: microsoft-office-disponible-para-android
+categories: [Tecnología, Android, iPhone, Google, Microsoft]
 ---
 
 ![image: office-android](http://adeektos.com/blog/wp-content/uploads/2013/07/office-android.jpg)

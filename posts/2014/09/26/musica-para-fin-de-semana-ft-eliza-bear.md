@@ -3,6 +3,7 @@ title: "Música para fin de semana ft. Eliza and the Bear"
 date: 2014-09-26
 author: Roberto Amador
 slug: musica-para-fin-de-semana-ft-eliza-bear
+categories: [Música, NFL, Indie]
 ---
 
 # Eliza and the Bear

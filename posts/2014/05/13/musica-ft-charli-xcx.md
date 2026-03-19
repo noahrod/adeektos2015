@@ -3,6 +3,7 @@ title: "Música para inicio de semana ft. Charli XCX"
 date: 2014-05-13
 author: Roberto Amador
 slug: musica-ft-charli-xcx
+categories: [Música, iPhone]
 ---
 
 ## Charli XCX es una cantante y compositora británica de brit-pop que empezó a escribir canciones cuando sólo tenía 14 años.En el 2008 lanzó dos singles , *"Emelline" / "Art Bitch" y "Franchesckaar!"*. Despúes firmó con *This Is Music* y *IAMSOUND Record*s antes de lanzar tres singles más, *Stay Away, Nuclear Seasons, y You're the One*. Lanzó dos EPs a finales de 2011 y termino su álbum debut, *True Romance* en el 2013.

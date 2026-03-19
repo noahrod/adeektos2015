@@ -3,6 +3,7 @@ title: "El traductor de Google en Android estrena modo offline con 50 idiomas"
 date: 2013-03-28
 author: Noé Rodríguez
 slug: el-traductor-de-google-en-android-estrena-modo-offline-con-50-idiomas
+categories: [Android, Google]
 ---
 
 [![image](../../../../img/translate-offlinelanguages1-1024x603.png)](http://adeektos.com/blog/wp-content/uploads/2013/03/translate-offlinelanguages1.png)

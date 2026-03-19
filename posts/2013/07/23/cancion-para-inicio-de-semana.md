@@ -3,6 +3,7 @@ title: "Canción para inicio de semana"
 date: 2013-07-23
 author: Roberto Amador
 slug: cancion-para-inicio-de-semana
+categories: [Música, iPhone, Comics, Indie, Electro]
 ---
 
 ![image](../../../../img/police-academy-6-banner.jpg)

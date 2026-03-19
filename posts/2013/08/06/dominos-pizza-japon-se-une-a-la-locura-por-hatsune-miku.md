@@ -3,6 +3,7 @@ title: "Domino's Pizza Japón se une a la locura por Hatsune Miku"
 date: 2013-08-06
 author: Edgar Pelaez
 slug: dominos-pizza-japon-se-une-a-la-locura-por-hatsune-miku
+categories: [Música, Japón]
 ---
 
 [Hatsune Miku](http://en.wikipedia.org/wiki/Hatsune_Miku), la primer ídolo virtual del mundo es toda una sensación, no sólo aquí en Japón, pero en todo el mundo. Desde comerciales para [Toyota](https://www.youtube.com/watch?v=E15PE7iGT0U) (incluyendo un [Flashmob](https://www.youtube.com/watch?v=cqLBfm58R_Y) en Nueva York), [video juegos](https://www.youtube.com/watch?v=qkmdR1es3Es) y conciertos en [vivo](https://www.youtube.com/watch?v=-weR1PHrpZs), Miku junto con el resto de l@s [vocaloids](http://es.wikipedia.org/wiki/Vocaloid) se han convertido en tod un fenómeno cultural. Por eso mismo, no es sorpresa que Domino's Pizza Japón haya decidido saltar al barco de la fama de Hatsune Miku a lanzar su nueva aplicación para iphone.

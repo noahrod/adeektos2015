@@ -3,6 +3,7 @@ title: "Música para inicio de semana ft. Knox Hamilton"
 date: 2014-02-18
 author: Roberto Amador
 slug: musica-para-inicio-de-semana-ft-knox-hamilton
+categories: [Música, iPhone, Redes Sociales, Comics, Indie]
 ---
 
 ![image](../../../../img/khbanner.jpg)

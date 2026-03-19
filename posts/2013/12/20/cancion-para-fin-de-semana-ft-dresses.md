@@ -3,6 +3,7 @@ title: "Canción para fin de semana ft. Dresses"
 date: 2013-12-20
 author: Roberto Amador
 slug: cancion-para-fin-de-semana-ft-dresses
+categories: [Música, iPhone]
 ---
 
 ![image](../../../../img/dressesbanner.jpg)

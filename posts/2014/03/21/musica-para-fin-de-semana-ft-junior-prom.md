@@ -3,6 +3,7 @@ title: "Música para fin de semana ft. Junior Prom"
 date: 2014-03-21
 author: Roberto Amador
 slug: musica-para-fin-de-semana-ft-junior-prom
+categories: [Música, iPhone, Redes Sociales]
 ---
 
 ### Junior Prom

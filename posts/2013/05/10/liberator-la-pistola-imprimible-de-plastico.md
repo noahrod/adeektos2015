@@ -3,6 +3,7 @@ title: "Liberator, la pistola imprimible de plástico."
 date: 2013-05-10
 author: Noé Rodríguez
 slug: liberator-la-pistola-imprimible-de-plastico
+categories: [iPhone, México]
 ---
 
 ![image: liberator_2](../../../../img/liberator_2.jpg)

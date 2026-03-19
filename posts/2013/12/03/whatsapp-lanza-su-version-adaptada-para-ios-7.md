@@ -3,6 +3,7 @@ title: "WhatsApp lanza su versión adaptada para iOS 7"
 date: 2013-12-03
 author: Noé Rodríguez
 slug: whatsapp-lanza-su-version-adaptada-para-ios-7
+categories: [Tecnología, iPhone, Redes Sociales, Apple, México]
 ---
 
 ![image: whatsapp-logos-1024x795](../../../../img/whatsapp-logos-1024x795.jpg)

@@ -3,6 +3,7 @@ title: "Canción para fin de semana ft. St. Lucia"
 date: 2013-11-29
 author: Roberto Amador
 slug: cancion-para-fin-de-semana-ft-st-lucia
+categories: [Música, iPhone]
 ---
 
 ![image](../../../../img/stluciabanner.jpg)

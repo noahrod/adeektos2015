@@ -3,6 +3,7 @@ title: "Embrace Goldroom"
 date: 2015-01-12
 author: Jorge Rodriguez
 slug: embrace-goldroom
+categories: [Música, Eventos]
 ---
 
 Tengo que confesar que este artista es uno de mis consentidos; no porque tenga una larga carrera o un sin número de canciones que me recuerden momentos de mi pasado, si no porque cada canción que va sacando me hace sonreír y cantar en un tono agudo ridículo que hace que mis compañeros de trabajo se molesten conmigo.

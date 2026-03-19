@@ -3,6 +3,7 @@ title: "Liga MX, Apertura 2013 1×1 – Parte 4: Guadalajara y León"
 date: 2013-07-17
 author: Alan Luna
 slug: liga-mx-apertura-2013-1x1-parte-4-guadalajara-y-leon
+categories: [Fútbol]
 ---
 
 Cuarta entrega del análisis previo al Apertura 2013 acá en Adeektos.

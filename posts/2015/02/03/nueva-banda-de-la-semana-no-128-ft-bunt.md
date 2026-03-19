@@ -3,6 +3,7 @@ title: "Nueva banda de la semana [No.128] ft. BUNT."
 date: 2015-02-03
 author: Roberto Amador
 slug: nueva-banda-de-la-semana-no-128-ft-bunt
+categories: [Música, Electro]
 ---
 
 # BUNT.

@@ -3,6 +3,7 @@ title: "¡La vida desde el futuro!"
 date: 2013-05-29
 author: Noé Rodríguez
 slug: la-vida-desde-el-futuro
+categories: [Redes Sociales, Japón, Estilo de vida]
 ---
 
 ![image: lvdef](../../../../img/lvdef.png)

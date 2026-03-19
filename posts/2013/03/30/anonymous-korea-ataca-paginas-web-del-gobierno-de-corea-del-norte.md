@@ -3,6 +3,7 @@ title: ""Anonymous Korea" ataca páginas web del gobierno de Corea del Norte "
 date: 2013-03-30
 author: Noé Rodríguez
 slug: anonymous-korea-ataca-paginas-web-del-gobierno-de-corea-del-norte
+categories: [Corea del Norte]
 ---
 
 [![image](../../../../img/anonymous-korea1.jpg)](../../../../img/anonymous-korea1.jpg)

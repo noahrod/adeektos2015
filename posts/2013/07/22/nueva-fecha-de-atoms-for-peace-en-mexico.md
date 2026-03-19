@@ -3,6 +3,7 @@ title: "Nueva fecha de Atoms for Peace en México"
 date: 2013-07-22
 author: Noé Rodríguez
 slug: nueva-fecha-de-atoms-for-peace-en-mexico
+categories: [México]
 ---
 
 ![image: 531921_453197298094289_1946121621_n](http://adeektos.com/blog/wp-content/uploads/2013/07/531921_453197298094289_1946121621_n.jpg)

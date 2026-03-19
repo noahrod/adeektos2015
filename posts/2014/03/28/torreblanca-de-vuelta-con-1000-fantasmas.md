@@ -3,6 +3,7 @@ title: "Torreblanca de vuelta con "1000 Fantasmas""
 date: 2014-03-28
 author: Noé Rodríguez
 slug: torreblanca-de-vuelta-con-1000-fantasmas
+categories: [Música]
 ---
 
 No es un secreto que soy uno de los más grandes fans del grupo Torreblanca, no sólo por su buena música, si no por lo grandes que son como personas.

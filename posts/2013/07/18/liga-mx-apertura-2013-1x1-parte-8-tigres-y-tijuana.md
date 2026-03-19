@@ -3,6 +3,7 @@ title: "Liga MX, Apertura 2013 1×1 – Parte 8: Tigres y Tijuana"
 date: 2013-07-18
 author: Alan Luna
 slug: liga-mx-apertura-2013-1x1-parte-8-tigres-y-tijuana
+categories: [México, Fútbol]
 ---
 
 Penúltimo capítulo en Adeektos rumbo al Apertura 2013 donde toca hablar de dos contendientes al título.

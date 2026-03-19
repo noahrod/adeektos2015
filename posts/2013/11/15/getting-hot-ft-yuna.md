@@ -3,6 +3,7 @@ title: "Getting HOT ft. Yuna"
 date: 2013-11-15
 author: Roberto Amador
 slug: getting-hot-ft-yuna
+categories: [Música, Eventos]
 ---
 
 ![image](http://adeektos.com/blog/wp-content/uploads/2013/11/yunabanner.jpeg)

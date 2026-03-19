@@ -3,6 +3,7 @@ title: "10 cuentas de twitter para seguir las noticias en Corea del Norte"
 date: 2013-03-30
 author: Noé Rodríguez
 slug: 10-cuentas-de-twitter-para-seguir-las-noticias-en-corea-del-norte
+categories: [Redes Sociales, Corea del Norte]
 ---
 
 [![image](../../../../img/ncorea.jpg)](../../../../img/ncorea.jpg)

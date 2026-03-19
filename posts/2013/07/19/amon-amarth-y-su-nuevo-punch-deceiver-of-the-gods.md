@@ -3,6 +3,7 @@ title: "Amon Amarth y su "nuevo punch" Deceiver of the Gods"
 date: 2013-07-19
 author: Alan Luna
 slug: amon-amarth-y-su-nuevo-punch-deceiver-of-the-gods
+categories: [Música, Metal]
 ---
 
 ![image](http://adeektos.com/blog/wp-content/uploads/2013/07/amon-tour-dates-v2.jpg)

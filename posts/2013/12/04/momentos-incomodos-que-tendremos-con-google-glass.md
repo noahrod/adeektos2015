@@ -3,6 +3,7 @@ title: "Los momentos incómodos que tendremos con Google Glass"
 date: 2013-12-04
 author: Noé Rodríguez
 slug: momentos-incomodos-que-tendremos-con-google-glass
+categories: [Google, México]
 ---
 
 ![image: google-glass-model](../../../../img/google-glass-model.jpg)

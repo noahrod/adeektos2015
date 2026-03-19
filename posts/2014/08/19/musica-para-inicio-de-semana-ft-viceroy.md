@@ -3,6 +3,7 @@ title: "Música para inicio de semana ft. Viceroy"
 date: 2014-08-19
 author: Roberto Amador
 slug: musica-para-inicio-de-semana-ft-viceroy
+categories: [Música, iPhone, Deportes]
 ---
 
 ## Viceroy

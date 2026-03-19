@@ -3,6 +3,7 @@ title: "Visita la Zona Nuclear de Fukushima con Google Street View"
 date: 2013-03-28
 author: Noé Rodríguez
 slug: visita-la-zona-nuclear-de-fukushima-con-google-street-view
+categories: [Google, Japón, Fotografía]
 ---
 
 [![image](../../../../img/jnz-1024x637.png)](http://adeektos.com/blog/wp-content/uploads/2013/03/jnz.png)

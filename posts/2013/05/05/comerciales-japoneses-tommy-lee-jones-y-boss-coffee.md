@@ -3,6 +3,7 @@ title: "Comerciales Japoneses: Tommy Lee Jones y Boss Coffee."
 date: 2013-05-05
 author: Edgar Pelaez
 slug: comerciales-japoneses-tommy-lee-jones-y-boss-coffee
+categories: [iPhone, Japón]
 ---
 
 Continuando con la lista de las estrellas occidentales que han aparecido en comerciales japoneses, por excesivas cantidades de dinero, en esta ocasión he decidido mostrarles la campaña de Boss Coffee, una bebida enlatada y embotellada de la compañía Suntory, en a que aparece Tommy Lee Jones. Desde 2005, Jones se ha convertido en el vocero de este café, apareciendo en su publicidad impresa, en anuncios panorámicos y en comerciales de televisión. En estos últimos, interpreta a un extraterrestre, conocido como "Alien Jones" quién ha venido a la Tierra, adoptando una forma humana, para analizar y entender el comportamiento de los seres humanos. Con este propósito, "Alien Jones" va de trabajo en trabajo, desde mesero de un bar de karaoke, hasta gobernador, con el fin de comprender nuestra cultura. En un comercial lo muestran junto con otras celebridades locales, en una nave de regreso a su planeta, pero al final, se arrepienta y vuelve a la Tierra, debido a su amor por el café Boss.

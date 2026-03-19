@@ -3,6 +3,7 @@ title: "Mashup is da sh*t"
 date: 2014-06-27
 author: Roberto Amador
 slug: mashup-da-sht
+categories: [Música]
 ---
 
 La gente que me conoce sabe que la música electrónica no es mucho mi estilo. Y aunque existen canciones y grupos de electrónica que me gustan mucho siempre sobresale un concepto que me encanta: **El Mashup**. Para los que no saben, el Mashup es la unión de dos o más canciones de tal manera que parezcan una misma canción. Y pues ahora les traigo una pequeña muestra del mashup para que me den sus opiniones y recomendaciones. Y como extra **jueguen en los comments** para ver quien reconoce más canciones en el primer Mashup (sin trampas), como ayuda les digo que es una **combinación de 68 canciones!!!** 

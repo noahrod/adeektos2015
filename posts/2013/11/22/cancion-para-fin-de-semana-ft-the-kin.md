@@ -3,6 +3,7 @@ title: "Canción para fin de semana ft. The Kin"
 date: 2013-11-22
 author: Roberto Amador
 slug: cancion-para-fin-de-semana-ft-the-kin
+categories: [Música]
 ---
 
 ![image](http://adeektos.com/blog/wp-content/uploads/2013/11/thekinbaner.jpg)

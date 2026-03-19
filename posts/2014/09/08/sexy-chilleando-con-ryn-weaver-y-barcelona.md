@@ -3,6 +3,7 @@ title: "Sexy Chilleando con el pop de Ryn Weaver y Barcelona"
 date: 2014-09-08
 author: Jorge Rodriguez
 slug: sexy-chilleando-con-ryn-weaver-y-barcelona
+categories: [iPhone]
 ---
 
 Es lunes de nuevo, lo sé.

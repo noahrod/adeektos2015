@@ -3,6 +3,7 @@ title: "Preparándose para el Corona Capital 2013: Travis"
 date: 2013-09-09
 author: Roberto Amador
 slug: preparandose-para-el-corona-capital-2013-travis
+categories: [Música]
 ---
 
 ![image](../../../../img/Travis-band.jpg)

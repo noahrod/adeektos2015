@@ -3,6 +3,7 @@ title: "¿Te gustaría que fueran diferentes los Google Glass?"
 date: 2013-07-29
 author: Noé Rodríguez
 slug: te-gustaria-que-fueran-diferentes-los-google-glass
+categories: [Google]
 ---
 
 ![image: K2UIPd5](../../../../img/K2UIPd5.jpg)

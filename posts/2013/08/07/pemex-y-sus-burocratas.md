@@ -3,6 +3,7 @@ title: "PEMEX y sus burócratas"
 date: 2013-08-07
 author: Alan Luna
 slug: pemex-y-sus-burocratas
+categories: [Redes Sociales, Fotografía]
 ---
 
 Las fotografías que a continuación les mostramos fueron tomadas hace 20 años a través de la lente de Pedro Meyer, retratando el "duro trabajo" de los empleados de PEMEX. Aprovechando que está fresco el tema de PEMEX y las reformas que necesita, aquí les dejamos una probadita de la galería que se encuentra en su cuenta de [Facebook](https://www.facebook.com/pedro.zonezero/media_set?set=a.10201683513436516.1073741830.1440193646&type=1).

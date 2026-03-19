@@ -3,6 +3,7 @@ title: "Feliz Navidad from the bottom of adeektos heart!"
 date: 2013-12-17
 author: Noé Rodríguez
 slug: feliz-navidad-from-the-bottom-of-adeektos-heart
+categories: [Estilo de vida]
 ---
 
 ![image: Merry_Christmas](../../../../img/Merry_Christmas.jpg)

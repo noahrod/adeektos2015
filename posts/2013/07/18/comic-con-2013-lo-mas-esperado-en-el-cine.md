@@ -3,6 +3,7 @@ title: "Comic Con 2013. Lo más esperado en el cine"
 date: 2013-07-18
 author: Alan Luna
 slug: comic-con-2013-lo-mas-esperado-en-el-cine
+categories: [Cine, Estilo de vida, Comics]
 ---
 
 ![image](../../../../img/comic-con11.jpg)

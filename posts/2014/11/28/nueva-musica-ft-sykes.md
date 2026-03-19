@@ -3,6 +3,7 @@ title: "Nueva música para fin de semana ft. SYKES"
 date: 2014-11-28
 author: Roberto Amador
 slug: nueva-musica-ft-sykes
+categories: [Música, iPhone]
 ---
 
 # SYKES

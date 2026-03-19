@@ -3,6 +3,7 @@ title: "Música para fin de semana ft. Barely Blind"
 date: 2014-02-07
 author: Roberto Amador
 slug: musica-para-fin-de-semana-ft-barely-blind
+categories: [Música, iPhone]
 ---
 
 ![image](http://adeektos.com/blog/wp-content/uploads/2014/02/bbmini.jpg)

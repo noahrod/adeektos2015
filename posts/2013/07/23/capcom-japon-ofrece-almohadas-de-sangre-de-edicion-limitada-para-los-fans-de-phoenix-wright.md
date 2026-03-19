@@ -3,6 +3,7 @@ title: "Capcom Japón ofrece "almohadas de sangre" de edición limitada para los
 date: 2013-07-23
 author: Edgar Pelaez
 slug: capcom-japon-ofrece-almohadas-de-sangre-de-edicion-limitada-para-los-fans-de-phoenix-wright
+categories: [Japón, Videojuegos]
 ---
 
 [![image](../../../../img/Ace-Attorney-5-Logo.jpg)](../../../../img/Ace-Attorney-5-Logo.jpg)

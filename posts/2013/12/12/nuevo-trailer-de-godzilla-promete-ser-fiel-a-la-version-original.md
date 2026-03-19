@@ -3,6 +3,7 @@ title: "Nuevo Trailer de Godzilla!!!! Promete ser fiel a la versión original."
 date: 2013-12-12
 author: Edgar Pelaez
 slug: nuevo-trailer-de-godzilla-promete-ser-fiel-a-la-version-original
+categories: [Japón, Cine, Estilo de vida]
 ---
 
 Pues no podríamos estar má emocionados aquí en las oficinas de Japón de Adeektos con esta noticia. Finalmente, el tan esperado trailer de la nueva película de Godzilla, que será estrenada en Mayo de 2014 en todo el mundo (excepto Japón), fue presentado en YouTube y los fans de todo el mundo han mojado su ropa interior de la emoción.

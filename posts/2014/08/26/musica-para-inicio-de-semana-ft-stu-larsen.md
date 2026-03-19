@@ -3,6 +3,7 @@ title: "Música para inicio de semana ft. Stu Larsen"
 date: 2014-08-26
 author: Roberto Amador
 slug: musica-para-inicio-de-semana-ft-stu-larsen
+categories: [Música, iPhone, Apple]
 ---
 
 ## Stu Larsen

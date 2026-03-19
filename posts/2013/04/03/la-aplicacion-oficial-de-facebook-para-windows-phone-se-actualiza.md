@@ -3,6 +3,7 @@ title: "La aplicación oficial de Facebook para Windows Phone se actualiza"
 date: 2013-04-03
 author: Noé Rodríguez
 slug: la-aplicacion-oficial-de-facebook-para-windows-phone-se-actualiza
+categories: [Tecnología, Android, iPhone, Windows Phone, Redes Sociales, Microsoft]
 ---
 
 [![image](../../../../img/Facebook-para-Windows-Phone.jpg)](../../../../img/Facebook-para-Windows-Phone.jpg)

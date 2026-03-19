@@ -3,6 +3,7 @@ title: "Empezando el año con Kygo"
 date: 2015-01-05
 author: Jorge Rodriguez
 slug: kygo
+categories: [Música, Electro]
 ---
 
 ¿Nos extrañaron? ¿Acaso se acuerdan de nosotros?

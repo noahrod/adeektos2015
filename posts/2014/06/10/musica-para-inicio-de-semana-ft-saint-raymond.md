@@ -3,6 +3,7 @@ title: "Música para inicio de semana ft. Saint Raymond"
 date: 2014-06-10
 author: Roberto Amador
 slug: musica-para-inicio-de-semana-ft-saint-raymond
+categories: [Música, iPhone, Indie]
 ---
 
 ## Saint Raymond

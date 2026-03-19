@@ -3,6 +3,7 @@ title: "Adeekguía de supervivencia: Corona Capital 2013"
 date: 2013-10-08
 author: Roberto Amador
 slug: adeekguia-de-supervivencia-corona-capital-2013
+categories: [Música, iPhone, Deportes]
 ---
 
 ![image](../../../../img/banner.png)

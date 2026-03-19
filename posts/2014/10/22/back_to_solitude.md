@@ -3,6 +3,7 @@ title: "Corto de la semana "Back to Solitude""
 date: 2014-10-22
 author: Jorge Rodriguez
 slug: back_to_solitude
+categories: [Música, Cine]
 ---
 
 A partir de este miércoles empezaré a compartir con ustedes otra pasión personal que tengo a partir de la música, el cine y la producción audiovisual en general.

@@ -3,6 +3,7 @@ title: "Soineya: Pagar por dormir con una chica"
 date: 2013-04-07
 author: Edgar Pelaez
 slug: soineya-pagar-por-dormir-con-una-chica
+categories: [Japón]
 ---
 
 Esta noticia es algo vieja, pero bien vale la pena mencionarla para todos los Adeektos. El año pasado abrió en Tokio, Japón, en  el distrito de Akihabara (la zona para los geeks, amantes de los videjuegos y el manga o "otakus") un negocio en donde los clientes pagan por dormir a lado de una muchacha...si leyeron bien, solamente dormir, nada más. Sé que muchos de ustedes se quedarán perplejos, pero insisto, no hay nada más, simplemente dormir...sin tocar a la chica, o bueno, tal vez puedas interactuar con ella, todo depende de cuánto estés dispuesto a pagar. La idea podría sonar algo loca o que este negocio estaba destinado a fracasar, pero en realidad, resultó en ser todo un éxito, y las ganancias fueron tales que al poco tiempo fueron capaces de abrir un nuevo local en Shinjuku, una de las zonas más concurridas de la ciudad.

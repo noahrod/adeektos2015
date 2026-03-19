@@ -3,6 +3,7 @@ title: "Bands We Like: Brazilian indie music"
 date: 2014-06-12
 author: Noé Rodríguez
 slug: bands-like-brazilian-indie-music
+categories: [Música, Cine, NFL, Indie]
 ---
 
 Este post va dedicado a las bandas brasileñas que aquí en Adeektos escuchamos con frecuencia. Obviamente todo va de la mano con la fiebre que se siente en los HQ's de **Adeektos Ltd** por el mundial que empieza en muy pocas horas.

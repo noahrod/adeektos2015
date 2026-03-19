@@ -3,6 +3,7 @@ title: "Canción por el día del músico ft. The One AM Radio"
 date: 2013-11-22
 author: Roberto Amador
 slug: cancion-por-el-dia-del-musico-ft-the-one-am-radio
+categories: [Música, iPhone, Redes Sociales]
 ---
 
 ![image](../../../../img/1amradiobanner.jpg)

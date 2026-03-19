@@ -3,6 +3,7 @@ title: "Si los superhéroes usaran Instagram..."
 date: 2013-07-29
 author: Noé Rodríguez
 slug: si-los-superheroes-usaran-instagram
+categories: [iPhone, Redes Sociales, Comida, Fotografía, Comics]
 ---
 
 ![image: 5929291815_355c69b42b](http://adeektos.com/blog/wp-content/uploads/2013/07/5929291815_355c69b42b.jpg)

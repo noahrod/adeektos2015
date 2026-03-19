@@ -3,6 +3,7 @@ title: "Música para inicio de semana ft. Young Empires"
 date: 2014-01-21
 author: Roberto Amador
 slug: musica-para-inicio-de-semana-ft-young-empires
+categories: [Música, iPhone]
 ---
 
 ![image](http://adeektos.com/blog/wp-content/uploads/2014/01/youngbanner.jpg)

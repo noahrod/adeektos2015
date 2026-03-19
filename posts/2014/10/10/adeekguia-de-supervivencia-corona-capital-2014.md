@@ -3,6 +3,7 @@ title: "Adeekguía de supervivencia: Corona Capital 2014"
 date: 2014-10-10
 author: Roberto Amador
 slug: adeekguia-de-supervivencia-corona-capital-2014
+categories: [Música, iPhone]
 ---
 
 Al parecer la destrucción corpórea vuelve este año ahora con pulseras. Después de el terrible dolor de pie que tuvimos el año pasado hemos decido hacer una guía de supervivencia para los nuevos y viejos compañeros de combate.

@@ -3,6 +3,7 @@ title: "Motomaker, la mejor opción para hacerte de un celular único."
 date: 2013-12-03
 author: Noé Rodríguez
 slug: motomaker-la-mejor-opcion-para-hacerte-de-un-celular-unico
+categories: [Smartphone, Google]
 ---
 
 ![image: motox](http://adeektos.com/blog/wp-content/uploads/2013/12/motox.png)

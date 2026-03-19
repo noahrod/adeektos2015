@@ -3,6 +3,7 @@ title: "Nueva música para inicio de semana ft. Son Little"
 date: 2014-11-25
 author: Roberto Amador
 slug: nueva-musica-ft-son-little
+categories: [Música]
 ---
 
 # Son Little

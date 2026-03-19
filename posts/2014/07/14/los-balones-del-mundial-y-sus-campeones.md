@@ -3,6 +3,7 @@ title: "Los balones del mundial y sus campeones"
 date: 2014-07-14
 author: Alan Luna
 slug: los-balones-del-mundial-y-sus-campeones
+categories: [México, Fútbol]
 ---
 
 El mundial ha terminado, **Alemania** se coronó rey del fútbol en **Brasil 2014** en una emocionante final contra Argentina y en manera de clausura les dejamos una colección de los balones mundialistas y sus respectivos campeones desde 1970.

@@ -3,6 +3,7 @@ title: "Finalmente, Office para iPhone"
 date: 2013-06-14
 author: Noé Rodríguez
 slug: finalmente-office-para-iphone
+categories: [Tecnología, iPhone, Apple, Microsoft]
 ---
 
 ![image: OfficeIOS](../../../../img/OfficeIOS.jpg)

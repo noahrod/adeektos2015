@@ -3,6 +3,7 @@ title: "Los Klaxons están de vuelta con "There Is No Other Time""
 date: 2014-02-06
 author: Noé Rodríguez
 slug: los-klaxons-estan-de-vuelta-con-there-is-no-other-time
+categories: [Música]
 ---
 
 ![image: klaxons_2014](../../../../img/klaxons_2014.jpg)

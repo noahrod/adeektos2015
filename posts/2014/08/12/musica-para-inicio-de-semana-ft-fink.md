@@ -3,6 +3,7 @@ title: "Música para inicio de semana ft. Fink"
 date: 2014-08-12
 author: Roberto Amador
 slug: musica-para-inicio-de-semana-ft-fink
+categories: [Música, iPhone]
 ---
 
 ## Fink

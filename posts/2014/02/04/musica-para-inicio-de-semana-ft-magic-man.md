@@ -3,6 +3,7 @@ title: "Música para inicio de semana ft. Magic Man"
 date: 2014-02-04
 author: Roberto Amador
 slug: musica-para-inicio-de-semana-ft-magic-man
+categories: [Música, iPhone, Redes Sociales]
 ---
 
 ![image](http://adeektos.com/blog/wp-content/uploads/2014/02/magicmanbanner.jpg)

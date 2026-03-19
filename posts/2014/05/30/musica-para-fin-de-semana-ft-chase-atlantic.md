@@ -3,6 +3,7 @@ title: "Música para fin de semana ft. Chase Atlantic"
 date: 2014-05-30
 author: Roberto Amador
 slug: musica-para-fin-de-semana-ft-chase-atlantic
+categories: [Música, iPhone]
 ---
 
 ## Chase Atlantic

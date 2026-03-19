@@ -3,6 +3,7 @@ title: "Liga MX, Apertura 2013 1×1 – Parte 5: Monterrey y Morelia"
 date: 2013-07-17
 author: Alan Luna
 slug: liga-mx-apertura-2013-1x1-parte-5-guadalajara-y-leon
+categories: [México, Fútbol]
 ---
 
 Quinta entrega del análisis previo al próximo torneo de liga en México acá por Adeektos.

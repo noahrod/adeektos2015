@@ -3,6 +3,7 @@ title: "Música para fin de semana ft. Bad Suns"
 date: 2014-01-24
 author: Roberto Amador
 slug: musica-para-fin-de-semana-ft-bad-suns
+categories: [Música, iPhone]
 ---
 
 ![image](http://adeektos.com/blog/wp-content/uploads/2014/01/badsunsssbanner.jpg)

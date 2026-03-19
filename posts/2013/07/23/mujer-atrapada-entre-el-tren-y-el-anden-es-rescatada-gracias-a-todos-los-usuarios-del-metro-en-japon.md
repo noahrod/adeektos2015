@@ -3,6 +3,7 @@ title: "Mujer atrapada entre el tren y el anden es rescatada gracias a todos los
 date: 2013-07-23
 author: Edgar Pelaez
 slug: mujer-atrapada-entre-el-tren-y-el-anden-es-rescatada-gracias-a-todos-los-usuarios-del-metro-en-japon
+categories: [iPhone, Japón]
 ---
 
 [![image](../../../../img/teamworktop.jpg)](../../../../img/teamworktop.jpg)

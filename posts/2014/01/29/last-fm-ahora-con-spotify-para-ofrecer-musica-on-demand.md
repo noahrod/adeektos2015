@@ -3,6 +3,7 @@ title: "Last.fm ahora con Spotify para ofrecer música on demand"
 date: 2014-01-29
 author: Noé Rodríguez
 slug: last-fm-ahora-con-spotify-para-ofrecer-musica-on-demand
+categories: [Música, iPhone]
 ---
 
 ![image: last.fm_](../../../../img/last.fm_.jpg)

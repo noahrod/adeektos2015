@@ -3,6 +3,7 @@ title: "Canción para inicio de semana"
 date: 2013-07-29
 author: Roberto Amador
 slug: cancion-para-inicio-de-semana-2
+categories: [Música]
 ---
 
 ![image: smallpools](../../../../img/smallpools1.jpg)

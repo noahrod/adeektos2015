@@ -3,6 +3,7 @@ title: "El gurú carioca. Jornada 3"
 date: 2014-06-22
 author: Alan Luna
 slug: el-guru-carioca-jornada-3
+categories: [México]
 ---
 
 Salve salve amigos de adeektos!

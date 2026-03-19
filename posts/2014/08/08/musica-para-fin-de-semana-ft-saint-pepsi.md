@@ -3,6 +3,7 @@ title: "Música para fin de semana ft. Saint Pepsi"
 date: 2014-08-08
 author: Roberto Amador
 slug: musica-para-fin-de-semana-ft-saint-pepsi
+categories: [Música, iPhone]
 ---
 
 ## Saint Pepsi

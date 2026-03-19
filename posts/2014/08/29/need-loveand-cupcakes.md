@@ -3,6 +3,7 @@ title: "All you need is love…and CUPCAKES!!"
 date: 2014-08-29
 author: Ari Torres
 slug: need-loveand-cupcakes
+categories: [Música, Comida]
 ---
 
 Este post está dedicado a aquellas personas que, como yo, viven un triángulo amoroso eterno: La música, la originalidad y la comida. De una vez les advierto, si ustedes son Beatlemaniacos de sweet tooth, probablemente también di en el clavo y los haga propensos a la diabetes.

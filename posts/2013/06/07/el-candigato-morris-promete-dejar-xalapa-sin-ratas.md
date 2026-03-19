@@ -3,6 +3,7 @@ title: "El "Candigato" Morris promete dejar Xalapa sin ratas."
 date: 2013-06-07
 author: Edgar Pelaez
 slug: el-candigato-morris-promete-dejar-xalapa-sin-ratas
+categories: [Redes Sociales]
 ---
 
 [![image](http://adeektos.com/blog/wp-content/uploads/2013/06/Morris.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/06/Morris.jpg)

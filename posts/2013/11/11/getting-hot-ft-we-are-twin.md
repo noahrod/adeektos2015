@@ -3,6 +3,7 @@ title: "Getting HOT ft. WE ARE TWIN"
 date: 2013-11-11
 author: Roberto Amador
 slug: getting-hot-ft-we-are-twin
+categories: [Música, iPhone, Redes Sociales, Indie]
 ---
 
 ![image](../../../../img/webanner.png)

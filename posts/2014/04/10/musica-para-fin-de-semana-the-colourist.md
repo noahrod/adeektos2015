@@ -3,6 +3,7 @@ title: "Música para fin de semana ft. The Colourist"
 date: 2014-04-10
 author: Roberto Amador
 slug: musica-para-fin-de-semana-the-colourist
+categories: [Música, Cine]
 ---
 
 ## The Colourist

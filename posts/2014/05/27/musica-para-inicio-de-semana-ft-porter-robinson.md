@@ -3,6 +3,7 @@ title: "Música para inicio de semana ft. Porter Robinson"
 date: 2014-05-27
 author: Roberto Amador
 slug: musica-para-inicio-de-semana-ft-porter-robinson
+categories: [Música, iPhone, Electro]
 ---
 
 ## Porter Robinson

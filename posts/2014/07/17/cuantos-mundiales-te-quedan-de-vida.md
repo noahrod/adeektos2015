@@ -3,6 +3,7 @@ title: "¿Cuántos mundiales te quedan de vida?"
 date: 2014-07-17
 author: Alan Luna
 slug: cuantos-mundiales-te-quedan-de-vida
+categories: [iPhone, Fútbol, Estilo de vida]
 ---
 
 Para todos aquellos que miden su vida en partidos de fútbol, ¿saben cuántos mundiales de vida les quedan? Pues ya está aquí la herramienta para averiguarlo.

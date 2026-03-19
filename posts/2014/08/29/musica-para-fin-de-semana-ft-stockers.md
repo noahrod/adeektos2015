@@ -3,6 +3,7 @@ title: "Música para fin de semana ft. STOCKERS!"
 date: 2014-08-29
 author: Roberto Amador
 slug: musica-para-fin-de-semana-ft-stockers
+categories: [Música, Indie]
 ---
 
 ## STOCKERS!

@@ -3,6 +3,7 @@ title: "Windows 8.1 permitirá acceder directamente al escritorio al iniciar ses
 date: 2013-04-15
 author: Noé Rodríguez
 slug: windows-8-1-permitira-acceder-directamente-al-escritorio-al-iniciar-sesion
+categories: [Smartphone, iPhone, Microsoft]
 ---
 
 [![image: metro-modern-ui-style](../../../../img/metro-modern-ui-style.jpg)](../../../../img/metro-modern-ui-style.jpg)

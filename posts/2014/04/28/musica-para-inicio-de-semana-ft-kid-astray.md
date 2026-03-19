@@ -3,6 +3,7 @@ title: "Música para inicio de semana ft. Kid Astray "
 date: 2014-04-28
 author: Roberto Amador
 slug: musica-para-inicio-de-semana-ft-kid-astray
+categories: [Música, Indie]
 ---
 
 ## Kid Astray

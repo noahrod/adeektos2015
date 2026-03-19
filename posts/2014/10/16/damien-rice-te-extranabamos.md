@@ -3,6 +3,7 @@ title: "Damien Rice, te extrañábamos"
 date: 2014-10-16
 author: Noé Rodríguez
 slug: damien-rice-te-extranabamos
+categories: [Música, Estilo de vida]
 ---
 
 Después de tantos años de haber llorado y gritado junto a las melodías de su disco "9" (hace ya 8 años), Damien Rice decide regresar a nuestras vidas.

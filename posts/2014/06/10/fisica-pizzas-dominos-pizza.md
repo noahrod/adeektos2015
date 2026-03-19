@@ -3,6 +3,7 @@ title: "Física + Pizzas = ¿Domino's pizza?"
 date: 2014-06-10
 author: Noé Rodríguez
 slug: fisica-pizzas-dominos-pizza
+categories: [Comida]
 ---
 
 Sabemos que el fuerte de las pizzas Domino's no es su comida, uno **los consume** muchas veces **por el tiempo** (30 minutos o es gratis) **y**/o otras por **lo fácil** que es pedir una pizza desde su página de Internet. 

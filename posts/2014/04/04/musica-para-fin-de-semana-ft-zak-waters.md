@@ -3,6 +3,7 @@ title: "Música para fin de semana ft. Zak Waters"
 date: 2014-04-04
 author: Roberto Amador
 slug: musica-para-fin-de-semana-ft-zak-waters
+categories: [Música, iPhone, Redes Sociales]
 ---
 
 # Zak Waters es un artista de los Angeles California, USA que toca una mezcla interesante de pop y electrónico bastante entretenida. 

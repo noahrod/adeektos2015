@@ -3,6 +3,7 @@ title: "Canción para inicio de semana ft. Olympic Ayres"
 date: 2013-11-11
 author: Roberto Amador
 slug: cancion-para-inicio-de-semana-ft-olympic-ayres
+categories: [Música, iPhone, Indie, Electro]
 ---
 
 ![image](../../../../img/olympicbanner2.jpg)

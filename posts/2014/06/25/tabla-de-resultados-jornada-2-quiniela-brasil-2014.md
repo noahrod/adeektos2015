@@ -3,6 +3,7 @@ title: "Tabla de resultados - Jornada 2 Quiniela Brasil 2014"
 date: 2014-06-25
 author: Alan Luna
 slug: tabla-de-resultados-jornada-2-quiniela-brasil-2014
+categories: [Redes Sociales]
 ---
 
 Salve salve galera!

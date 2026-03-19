@@ -3,6 +3,7 @@ title: "Adeektos Radio"
 date: 2014-07-24
 author: Noé Rodríguez
 slug: adeektos-radio
+categories: [Música]
 ---
 
 ¿Fan de la música de **Adeektos**?

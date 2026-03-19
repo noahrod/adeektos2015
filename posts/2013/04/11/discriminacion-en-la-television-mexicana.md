@@ -3,6 +3,7 @@ title: "Discriminación en la televisión mexicana"
 date: 2013-04-11
 author: Karla Zepeda
 slug: discriminacion-en-la-television-mexicana
+categories: [México]
 ---
 
 [![image](../../../../img/porcelana-crema-aclaradora-y-quita-manchas-dia-y-noche-daa_MLM-O-3217211942_102012.jpg)](../../../../img/porcelana-crema-aclaradora-y-quita-manchas-dia-y-noche-daa_MLM-O-3217211942_102012.jpg)

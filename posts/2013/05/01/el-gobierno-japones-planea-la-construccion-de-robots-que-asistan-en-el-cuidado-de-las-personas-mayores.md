@@ -3,6 +3,7 @@ title: "El gobierno japonés planea la construcción de robots que asistan en el
 date: 2013-05-01
 author: Edgar Pelaez
 slug: el-gobierno-japones-planea-la-construccion-de-robots-que-asistan-en-el-cuidado-de-las-personas-mayores
+categories: [Japón, Cine, Comida]
 ---
 
 ![image](http://sociorocketnewsen.files.wordpress.com/2013/05/robot-and-frank.jpg?w=595&h=360)

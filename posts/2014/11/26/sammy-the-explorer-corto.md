@@ -3,6 +3,7 @@ title: "Sammy the Explorer - Corto de la Semana"
 date: 2014-11-26
 author: Jorge Rodriguez
 slug: sammy-the-explorer-corto
+categories: [iPhone]
 ---
 
 De antemano quiero decirles que Sammy the Explorer realmente es un comercial hecho cortometraje, pero es uno de los mejores que he visto.

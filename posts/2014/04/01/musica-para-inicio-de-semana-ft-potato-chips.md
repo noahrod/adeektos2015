@@ -3,6 +3,7 @@ title: "Música para inicio de semana ft. Potato Chips"
 date: 2014-04-01
 author: Roberto Amador
 slug: musica-para-inicio-de-semana-ft-potato-chips
+categories: [Música, iPhone]
 ---
 
 # Potato Chips 

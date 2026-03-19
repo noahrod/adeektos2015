@@ -3,6 +3,7 @@ title: "Napoleon Dynamite y las peores traducciones de títulos de películas al
 date: 2013-08-08
 author: Edgar Pelaez
 slug: napoleo-dynamite-y-las-peores-traducciones-de-titulos-de-peliculas-al-japones
+categories: [Japón, México, Cine]
 ---
 
 Para todos aquéllos que vivimos fuera de Estados Unidos, es bastante normal que los títulos de las películas, al ser adaptados para el mercado local, cambien a cosas que no tienen nada que ver con la trama, o por ejemplo, que echen a perder totalmente la trama de las películas. Por ejemplo el clásico del terror[ *Child's Play *](http://www.imdb.com/title/tt0094862/)fue presentado en México como[ *Chuck*](http://es.wikipedia.org/wiki/Chucky#Chucky.2C_el_Mu.C3.B1eco_Diab.C3.B3lico_.281988.29)*[y: el Muñeco Diabólico](http://es.wikipedia.org/wiki/Chucky#Chucky.2C_el_Mu.C3.B1eco_Diab.C3.B3lico_.281988.29), *con lo que inmediatamente se revelaba la trama, o qué tal *[Pulp Fiction](http://www.imdb.com/title/tt0110912/),* que en nuestro país fue titulada como *[Tiempos Violentos](http://es.wikipedia.org/wiki/Pulp_Fiction).* Japón también goza de sus malas traducciones, entre las cuales figura la famosísima comedia estadounidense [*Napoleon Dynamite*](http://www.imdb.com/title/tt0374900/), que en Japón es conocida como *バス男　*(Bus Otoko) o *"El Chico del  Autobús"*

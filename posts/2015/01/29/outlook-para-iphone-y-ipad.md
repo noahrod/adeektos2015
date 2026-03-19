@@ -3,6 +3,7 @@ title: "Outlook para iPhone y iPad"
 date: 2015-01-29
 author: Noé Rodríguez
 slug: outlook-para-iphone-y-ipad
+categories: [Tecnología, iPhone, Windows Phone, Apple, Microsoft]
 ---
 
 Alguna vez alguno de mis lectores me comentaba que siempre tengo tendencia a escribir temas acerca de las cosas que uso. Y es cierto, ¿por qué escribir de algo que no conozco o experimento? (Saludos JeipsCG)

@@ -3,6 +3,7 @@ title: "6 Google Doodles que nunca salieron a la luz."
 date: 2014-03-20
 author: Noé Rodríguez
 slug: 6-google-doodles-que-fueron-rechazados
+categories: [iPhone, Google, Series]
 ---
 
 De vez en cuando, Google rediseña su logotipo por todo un día para rendir tributo a una persona o un momento en la historia. El día de hoy está el que representa el primer día de la primavera.

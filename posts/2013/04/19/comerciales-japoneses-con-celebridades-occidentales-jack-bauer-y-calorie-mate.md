@@ -3,6 +3,7 @@ title: "Comerciales Japoneses con Celebridades Occidentales: Jack Bauer y Calori
 date: 2013-04-19
 author: Edgar Pelaez
 slug: comerciales-japoneses-con-celebridades-occidentales-jack-bauer-y-calorie-mate
+categories: [Japón, Cine]
 ---
 
 Saludos desde Tokyo a todos los Adeektos que nos leen!!!!

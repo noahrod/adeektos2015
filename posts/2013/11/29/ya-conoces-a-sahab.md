@@ -3,6 +3,7 @@ title: "¿Ya conoces a Sahab?"
 date: 2013-11-29
 author: Noé Rodríguez
 slug: ya-conoces-a-sahab
+categories: [Música, Smartphone]
 ---
 
 ![image: Sahab](../../../../img/Sahab.jpg)

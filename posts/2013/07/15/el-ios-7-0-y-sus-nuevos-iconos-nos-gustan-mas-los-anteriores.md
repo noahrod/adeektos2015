@@ -3,6 +3,7 @@ title: "El iOS 7.0 y sus nuevos iconos, ¿nos gustan más los anteriores?"
 date: 2013-07-15
 author: Noé Rodríguez
 slug: el-ios-7-0-y-sus-nuevos-iconos-nos-gustan-mas-los-anteriores
+categories: [iPhone, Windows Phone, Microsoft, Estilo de vida]
 ---
 
 ![image: Neue_vs_Old2](../../../../img/Neue_vs_Old2.png)

@@ -3,6 +3,7 @@ title: "Música para fin de semana ft. Alphabetics"
 date: 2014-06-06
 author: Roberto Amador
 slug: musica-para-fin-de-semana-ft-alphabetics
+categories: [Música, iPhone, Indie]
 ---
 
 ## Alphabetics

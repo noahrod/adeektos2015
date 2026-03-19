@@ -3,6 +3,7 @@ title: "Preparándose para el Corona Capital 2013: Portugal. The Man"
 date: 2013-09-25
 author: Roberto Amador
 slug: preparandose-para-el-corona-capital-2013-portugal-the-man
+categories: [Música, Apple]
 ---
 
 ![image](http://adeektos.com/blog/wp-content/uploads/2013/09/tKLLx-1024x640.jpg)

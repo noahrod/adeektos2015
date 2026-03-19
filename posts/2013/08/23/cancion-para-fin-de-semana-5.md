@@ -3,6 +3,7 @@ title: "Canción para fin de semana"
 date: 2013-08-23
 author: Roberto Amador
 slug: cancion-para-fin-de-semana-5
+categories: [Música, iPhone]
 ---
 
 ![image: abandonkansas](../../../../img/abandonkansas.jpg)

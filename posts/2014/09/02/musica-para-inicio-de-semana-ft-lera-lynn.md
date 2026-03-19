@@ -3,6 +3,7 @@ title: "Música para inicio de semana ft. Lera Lynn"
 date: 2014-09-02
 author: Roberto Amador
 slug: musica-para-inicio-de-semana-ft-lera-lynn
+categories: [Música]
 ---
 
 # Lera Lynn

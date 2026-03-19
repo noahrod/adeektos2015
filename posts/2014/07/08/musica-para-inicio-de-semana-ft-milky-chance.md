@@ -3,6 +3,7 @@ title: "Música para inicio de semana ft. Milky Chance"
 date: 2014-07-08
 author: Roberto Amador
 slug: musica-para-inicio-de-semana-ft-milky-chance
+categories: [Música, iPhone, NFL, Electro]
 ---
 
 ## Milky Chance

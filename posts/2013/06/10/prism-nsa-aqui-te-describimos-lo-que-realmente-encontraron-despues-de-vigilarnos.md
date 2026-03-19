@@ -3,6 +3,7 @@ title: "¿PRISM? ¿NSA? Aquí te describimos lo que realmente encontraron despu�
 date: 2013-06-10
 author: Noé Rodríguez
 slug: prism-nsa-aqui-te-describimos-lo-que-realmente-encontraron-despues-de-vigilarnos
+categories: [Tecnología, iPhone, Redes Sociales, Google, Apple, Microsoft, Fotografía]
 ---
 
 ¿Qué es **PRISM**? Bueno pues para empezar todo es un supuesto; se supone que varias de las compañías más grandes de Internet están permitiéndole a la NSA (National Security Agency) acceso directo a toda la información que generas o consumes de sus distintos servicios.  PRISM es el nombre del programa que usa la NSA para acceder a tus emails, documentos, fotografías y demás información que confíes en empresas como **Google, Facebook, Microsoft, Yahoo, PalTalk, AOL, Skype y Apple.**

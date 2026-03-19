@@ -3,6 +3,7 @@ title: "Nuevo "trailer" de la película de Steve Jobs en exclusiva por Instagram
 date: 2013-07-15
 author: Noé Rodríguez
 slug: nuevo-trailer-de-la-pelicula-de-steve-jobs-en-exclusiva-por-instagram
+categories: [Redes Sociales, Cine, Indie]
 ---
 
 ![image: ashton-kutcher-as-steve-jobs](http://adeektos.com/blog/wp-content/uploads/2013/07/ashton-kutcher-as-steve-jobs.jpg)

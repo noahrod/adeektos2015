@@ -3,6 +3,7 @@ title: "México y la Olimpíada Internacional de Matemática: Tres de plata y tr
 date: 2013-08-01
 author: Noé Rodríguez
 slug: mexico-y-la-olimpiada-internacional-de-matematica-tres-de-plata-y-tres-de-bronce
+categories: [iPhone, México]
 ---
 
 ![image: 20130729_09_39_OlimpiadaMateMex_Ntmx](http://adeektos.com/blog/wp-content/uploads/2013/08/20130729_09_39_OlimpiadaMateMex_Ntmx.jpg)

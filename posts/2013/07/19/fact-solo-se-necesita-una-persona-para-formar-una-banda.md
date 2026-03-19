@@ -3,6 +3,7 @@ title: "Fact: Sólo se necesita una persona para formar una banda."
 date: 2013-07-19
 author: Noé Rodríguez
 slug: fact-solo-se-necesita-una-persona-para-formar-una-banda
+categories: [Música]
 ---
 
 ![image: marek](http://adeektos.com/blog/wp-content/uploads/2013/07/marek.png)

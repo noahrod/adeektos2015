@@ -3,6 +3,7 @@ title: "Moscú: Paga tu boleto del metro, con sentadillas."
 date: 2013-11-13
 author: Noé Rodríguez
 slug: moscu-paga-tu-boleto-del-metro-con-sentadillas
+categories: [iPhone]
 ---
 
 ![image: moscu](http://adeektos.com/blog/wp-content/uploads/2013/11/moscu.png)

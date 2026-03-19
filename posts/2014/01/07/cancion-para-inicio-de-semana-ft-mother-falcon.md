@@ -3,6 +3,7 @@ title: "Canción para inicio de semana ft. Mother Falcon"
 date: 2014-01-07
 author: Roberto Amador
 slug: cancion-para-inicio-de-semana-ft-mother-falcon
+categories: [Música, Indie]
 ---
 
 ![image](../../../../img/motherbanner.png)

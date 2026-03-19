@@ -3,6 +3,7 @@ title: "Yowayowa Camera Woman: la fotografía flotante de Natsumi Hayashi"
 date: 2013-04-05
 author: Edgar Pelaez
 slug: yowayowa-camera-woman-la-fotografia-flotante-de-natsumi-hayashi
+categories: [Smartphone, Japón, Estilo de vida, Fotografía]
 ---
 
 Natsumi Hayashi es una fotógrafa japonesa que, de acuerdo a su página, vive en Tokyo con dos gatos. Le gusta tomar fotos de sus gatos y autoretratos en donde se encuentra levitando. Si, leyeron bien, levitanto. Al parecer, el proyecto de ésta artista consiste en presentar fotografías en las que realiza actividades cotidianas, como viajar en el metro, aspirar la casa o llamar por teléfono, pero con la particularidad de que se encuentra levitando; pero antes de que los amantes de los animales, especialmente los gatos digan algo, no se preocupen, ella afirma que sus fotos de gatos son sin levitación.

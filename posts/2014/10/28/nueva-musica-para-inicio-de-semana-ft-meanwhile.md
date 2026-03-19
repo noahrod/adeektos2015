@@ -3,6 +3,7 @@ title: "Nueva música para inicio de semana ft. Meanwhile"
 date: 2014-10-28
 author: Roberto Amador
 slug: nueva-musica-para-inicio-de-semana-ft-meanwhile
+categories: [Música, Apple]
 ---
 
 # Meanwhile

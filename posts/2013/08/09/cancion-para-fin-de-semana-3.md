@@ -3,6 +3,7 @@ title: "Canción para fin de semana"
 date: 2013-08-09
 author: Roberto Amador
 slug: cancion-para-fin-de-semana-3
+categories: [Música, iPhone]
 ---
 
 ![image: nonono](http://adeektos.com/blog/wp-content/uploads/2013/08/nonono.jpg)

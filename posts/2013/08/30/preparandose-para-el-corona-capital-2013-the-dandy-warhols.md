@@ -3,6 +3,7 @@ title: "Preparándose para el Corona Capital 2013: The Dandy Warhols"
 date: 2013-08-30
 author: Roberto Amador
 slug: preparandose-para-el-corona-capital-2013-the-dandy-warhols
+categories: [Música, NFL]
 ---
 
 ![image: dandy_warhols](http://adeektos.com/blog/wp-content/uploads/2013/08/dandy_warhols.jpg)

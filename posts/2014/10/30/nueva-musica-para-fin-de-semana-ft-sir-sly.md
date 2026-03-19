@@ -3,6 +3,7 @@ title: "Nueva música para fin de semana ft. Sir Sly"
 date: 2014-10-30
 author: Roberto Amador
 slug: nueva-musica-para-fin-de-semana-ft-sir-sly
+categories: [Música, Apple, Indie]
 ---
 
 # Sir Sly

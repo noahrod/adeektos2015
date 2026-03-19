@@ -3,6 +3,7 @@ title: "¡Nos vamos al mundial !"
 date: 2014-06-06
 author: Alan Luna
 slug: nos-vamos-al-mundial
+categories: [Eventos]
 ---
 
 Estamos ya a 5 días del inicio del mundial Brasil 2014 y en las oficinas de Adeektos el ambiente está que arde. Estamos tan contentos y entusiasmados que queremos compartir con ustedes la noticia que **nos vamos al mundial**!

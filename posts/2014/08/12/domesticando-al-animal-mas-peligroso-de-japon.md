@@ -3,6 +3,7 @@ title: "Domesticando al animal más peligroso de Japón"
 date: 2014-08-12
 author: Edgar Pelaez
 slug: domesticando-al-animal-mas-peligroso-de-japon
+categories: [Japón, Eventos]
 ---
 
 El verano en Japón, es una temporada calurosa que trae consigo festivales, yukatas y fuegos artificiales; pero también, implica la visita de una pequeña pesadilla viviente. El famoso Avispón Gigante Japonés, conocido como ōsuzumebachi regresa de su hibernación, trayendo el horror para todas las personas que viven en las zonas rurales de Japón. Esta amenaza de 5 cm de langitud y 7.5 cm de envergadura alar (según wikipedia) es el avispón más grande del mundo. Para que tengas una idea de su tomaño, normalmente se dice que es del tamaño del pulgar de un humano adulto. El  ōsuzumebachi posee un aguijón de 6.25 mm y su picadura es increíblemente dolorosa. Se estima que alrededor de 40 personas mueren cada año por ataques de este avispón, convirtiéndolo en la creatura más mortífera del Archipiélago Nipón.

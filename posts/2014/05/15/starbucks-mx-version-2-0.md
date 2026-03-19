@@ -3,6 +3,7 @@ title: "Starbucks MX : Estrenando versión 2.0"
 date: 2014-05-15
 author: Noé Rodríguez
 slug: starbucks-mx-version-2-0
+categories: [Tecnología, Redes Sociales]
 ---
 
 ¿Ya conoces la aplicación Starbucks MX? en caso de no saber de qué hablo te recomiendo revisar este [post](http://adeektos.com/blog/starbucks-mx-actualizada/).

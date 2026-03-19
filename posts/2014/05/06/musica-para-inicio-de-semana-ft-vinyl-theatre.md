@@ -3,6 +3,7 @@ title: "Música para inicio de semana ft. Vinyl Theatre"
 date: 2014-05-06
 author: Roberto Amador
 slug: musica-para-inicio-de-semana-ft-vinyl-theatre
+categories: [Música, iPhone, Redes Sociales, Comics, Indie]
 ---
 
 ## Vinyl Theatrees un conjunto de Wisconsin, USA de rock indie electrónico formado por Chris, Keegan, Josh y Nick.

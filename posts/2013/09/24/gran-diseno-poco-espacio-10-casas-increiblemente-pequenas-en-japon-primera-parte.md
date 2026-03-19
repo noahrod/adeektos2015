@@ -3,6 +3,7 @@ title: "Gran diseño, poco espacio: 10 casas increíblemente pequeñas en Japón
 date: 2013-09-24
 author: Edgar Pelaez
 slug: gran-diseno-poco-espacio-10-casas-increiblemente-pequenas-en-japon-primera-parte
+categories: [Japón]
 ---
 
 Es un hecho muy conocido en el resto del mundo que las habitaciones japonesas, en general, no son muy grandes. Esta situación varía mucho de donde vivas, ya que en algunas zonas rurales se puede tener un poco más espacio que en las zonas urbanas para poder construir. Gran parte del problema es la situación de la tierra en Japón, ya que alrededor del 70% del territorio japonés no es apto para la construcción, debido a la gran cantidad de bosques y áreas montañosas en el país. Esto ha provocado que los japoneses que aspiran al sueño de poseer una casa propia, deban pagar cantidades exorbitantes de dinero. Sin embargo, otras personas han optado por aprovechar mejor sus recursos, utilizando el concepto de *kyoushou juutaku*, a través del cual, ya sea por el bien del medio ambiente o por necesidad económica, las casas son diseñadas para hacer uso de los más pequeños y angostos espacios, haciendo uso del terreno que de otra forma, sería absorbido por otras propiedades más grandes o que antes era considerado inútil para la construcción. Así que, aquí en Adeektos hemos decidido mostrarles las casas que más nos han impactado con su diseño:

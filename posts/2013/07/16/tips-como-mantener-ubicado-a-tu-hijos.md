@@ -3,6 +3,7 @@ title: "Tip: ¿Cómo mantener ubicado a tu hijo(a)(s)?"
 date: 2013-07-16
 author: Noé Rodríguez
 slug: tips-como-mantener-ubicado-a-tu-hijos
+categories: [Smartphone, Series]
 ---
 
 ![image: 2108134526_d35c3a8285_b](http://adeektos.com/blog/wp-content/uploads/2013/07/2108134526_d35c3a8285_b.jpg)

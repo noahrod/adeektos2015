@@ -3,6 +3,7 @@ title: "Canción para fin de semana"
 date: 2013-08-16
 author: Roberto Amador
 slug: cancion-para-fin-de-semana-4
+categories: [Música, iPhone, Indie]
 ---
 
 ![image](http://adeektos.com/blog/wp-content/uploads/2013/08/saldecember.jpg)

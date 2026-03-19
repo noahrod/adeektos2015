@@ -3,6 +3,7 @@ title: "Aviones no tripulados a bajo costo fabricados en China podrían equipar 
 date: 2013-04-03
 author: Noé Rodríguez
 slug: aviones-no-tripulados-a-bajo-costo-fabricados-en-china-podrian-equipar-a-los-enemigos-de-estados-unidos
+categories: [Tecnología, iPhone, China]
 ---
 
 [![image](http://adeektos.com/blog/wp-content/uploads/2013/04/wing-loong-china-drone-auv.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/04/wing-loong-china-drone-auv.jpg)

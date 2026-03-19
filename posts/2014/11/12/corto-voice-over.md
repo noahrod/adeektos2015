@@ -3,6 +3,7 @@ title: "Corto de la semana - Voice Over"
 date: 2014-11-12
 author: Jorge Rodriguez
 slug: corto-voice-over
+categories: [Cine]
 ---
 
 **Voice Over**

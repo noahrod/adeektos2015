@@ -3,6 +3,7 @@ title: "BBM llegará a iOS y Android el 27 de junio (Según T-Mobile)"
 date: 2013-06-06
 author: Noé Rodríguez
 slug: bbm-llegara-a-ios-y-android-el-27-de-junio-segun-t-mobile
+categories: [Android, iPhone]
 ---
 
 ![image: blackberry-messenger-para-android-iphone-460x280](http://adeektos.com/blog/wp-content/uploads/2013/06/blackberry-messenger-para-android-iphone-460x280.jpg)

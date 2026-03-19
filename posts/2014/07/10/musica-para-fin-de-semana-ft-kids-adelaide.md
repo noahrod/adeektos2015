@@ -3,6 +3,7 @@ title: "Música para fin de semana ft. Kids of Adelaide"
 date: 2014-07-10
 author: Roberto Amador
 slug: musica-para-fin-de-semana-ft-kids-adelaide
+categories: [Música, iPhone, Redes Sociales]
 ---
 
 ## Kids of Adelaide

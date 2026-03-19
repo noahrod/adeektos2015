@@ -3,6 +3,7 @@ title: "Música para inicio de semana ft. Pacific Air"
 date: 2014-01-28
 author: Roberto Amador
 slug: musica-para-inicio-de-semana-ft-pacific-air
+categories: [Música, iPhone, Indie]
 ---
 
 ![image](http://adeektos.com/blog/wp-content/uploads/2014/01/pabanner.png)

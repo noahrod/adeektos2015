@@ -3,6 +3,7 @@ title: "Empieza la transición a la televisión digital en México, Tijuana lo h
 date: 2013-07-17
 author: Noé Rodríguez
 slug: empieza-la-transicion-a-la-television-digital-en-mexico-tijuana-empieza-este-jueves
+categories: [México]
 ---
 
 ![image: tv-analogica](../../../../img/tv-analogica.jpg)

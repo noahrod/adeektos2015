@@ -3,6 +3,7 @@ title: "Lunes de mover las piernas con Golden Coast"
 date: 2014-11-10
 author: Jorge Rodriguez
 slug: golden-coast
+categories: [Música]
 ---
 
 Según la comunidad médica un ser humano debe caminar en promedio mínimo 10,000 pasos al día, lo que equivale más o menos a nueve kilómetros o una hora y veinte minutos de caminar. Como quiero que todos estén saludables para que me sigan leyendo hoy les dejo música para mover las piernas y bajar sus garnachas que comen diario.

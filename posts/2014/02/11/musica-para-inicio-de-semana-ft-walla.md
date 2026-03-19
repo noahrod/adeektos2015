@@ -3,6 +3,7 @@ title: "Música para inicio de semana ft. WALLA"
 date: 2014-02-11
 author: Roberto Amador
 slug: musica-para-inicio-de-semana-ft-walla
+categories: [Música, iPhone, Indie]
 ---
 
 ![image](http://adeektos.com/blog/wp-content/uploads/2014/02/walla1-300x231.jpg)

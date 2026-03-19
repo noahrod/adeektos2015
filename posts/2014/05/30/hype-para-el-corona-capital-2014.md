@@ -3,6 +3,7 @@ title: "Hype para el Corona Capital 2014"
 date: 2014-05-30
 author: Roberto Amador
 slug: hype-para-el-corona-capital-2014
+categories: [Música]
 ---
 
 Hoy anunciarón la cartelera para el CC14 (Corona Capital 2014).

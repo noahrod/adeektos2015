@@ -3,6 +3,7 @@ title: "Música para inicio de semana ft. Mapei"
 date: 2014-07-01
 author: Roberto Amador
 slug: musica-para-inicio-de-semana-ft-mapei
+categories: [Música, iPhone, Redes Sociales, Comics]
 ---
 
 ## Mapei

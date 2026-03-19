@@ -3,6 +3,7 @@ title: "De las mejores tamalerías de México"
 date: 2015-01-30
 author: Alix Zetina
 slug: las-mejores-tamalerias-de-mexico
+categories: [iPhone, México]
 ---
 
 ¡Te salió el muñeco en la Rosca de Reyes! Te toca invitar los tamales pero, **¿no sabes en dónde comprarlos?** Aquí te doy una gran ayuda con unas deliciosas opciones y sobre todo, baratas, que te pueden ayudar en el D.F.

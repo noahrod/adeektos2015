@@ -3,6 +3,7 @@ title: "¿Te imaginas una ley que prohíba el sexo oral? En Estados Unidos la qu
 date: 2013-07-19
 author: Noé Rodríguez
 slug: te-imaginas-una-ley-que-prohiba-el-sexo-oral-en-estados-unidos-la-quieren-hacer
+categories: [Cine]
 ---
 
 ![image: 130214_POL_KenCuccinelli.jpg.CROP.rectangle3-large](http://adeektos.com/blog/wp-content/uploads/2013/07/130214_POL_KenCuccinelli.jpg.CROP_.rectangle3-large.jpg)

@@ -3,6 +3,7 @@ title: "Liga MX, Apertura 2013 1×1 – Parte 9: Toluca, Pumas y Veracruz"
 date: 2013-07-19
 author: Alan Luna
 slug: liga-mx-apertura-2013-1x1-parte-9-toluca-pumas-y-veracruz
+categories: [México, Fútbol]
 ---
 
 Novena y última entrega el análisis previo al torneo mexicano que comienza en unas horas.

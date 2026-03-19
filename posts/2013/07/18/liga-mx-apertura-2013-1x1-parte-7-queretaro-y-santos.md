@@ -3,6 +3,7 @@ title: "Liga MX, Apertura 2013 1×1 – Parte 7: Querétaro y Santos"
 date: 2013-07-18
 author: Alan Luna
 slug: liga-mx-apertura-2013-1x1-parte-7-queretaro-y-santos
+categories: [Fútbol]
 ---
 
 Capítulo 7 en Adeektos de éste análisis 1 a 1 de los equipos de primera división antes del comienzo del nuevo torneo de liga.

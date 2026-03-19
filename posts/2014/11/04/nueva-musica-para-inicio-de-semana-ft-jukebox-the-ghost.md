@@ -3,6 +3,7 @@ title: "Nueva música para inicio de semana ft. Jukebox The Ghost"
 date: 2014-11-04
 author: Roberto Amador
 slug: nueva-musica-para-inicio-de-semana-ft-jukebox-the-ghost
+categories: [Música, iPhone, Comics]
 ---
 
 # Jukebox The Ghost

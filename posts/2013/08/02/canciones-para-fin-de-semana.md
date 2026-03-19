@@ -3,6 +3,7 @@ title: "Canciones para fin de semana"
 date: 2013-08-02
 author: Roberto Amador
 slug: canciones-para-fin-de-semana
+categories: [Música]
 ---
 
 ![image](http://adeektos.com/blog/wp-content/uploads/2013/08/alt-j.jpg)

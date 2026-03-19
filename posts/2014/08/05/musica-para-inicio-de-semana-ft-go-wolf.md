@@ -3,6 +3,7 @@ title: "Música para inicio de semana ft. GO WOLF"
 date: 2014-08-05
 author: Roberto Amador
 slug: musica-para-inicio-de-semana-ft-go-wolf
+categories: [Música, iPhone, Redes Sociales]
 ---
 
 ## GO WOLF

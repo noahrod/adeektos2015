@@ -3,6 +3,7 @@ title: "Fractales, fractales, fractales"
 date: 2014-07-14
 author: Hrvoje Jaime Matosic
 slug: fractales-fractales-fractales
+categories: [Series]
 ---
 
 **Serie 1, Post 1/3**

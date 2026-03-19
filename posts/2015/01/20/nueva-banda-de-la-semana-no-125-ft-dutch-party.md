@@ -3,6 +3,7 @@ title: "Nueva banda de la semana [No.125] ft. Dutch Party"
 date: 2015-01-20
 author: Roberto Amador
 slug: nueva-banda-de-la-semana-no-125-ft-dutch-party
+categories: [Música, NFL]
 ---
 
 # Dutch Party

@@ -3,6 +3,7 @@ title: "Preparándose para el Corona Capital 2013: The XX"
 date: 2013-09-06
 author: Roberto Amador
 slug: preparandose-para-el-corona-capital-2013-the-xx
+categories: [Música]
 ---
 
 ![image](../../../../img/The_xx_png.png)

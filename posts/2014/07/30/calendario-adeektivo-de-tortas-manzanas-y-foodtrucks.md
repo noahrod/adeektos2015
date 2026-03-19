@@ -3,6 +3,7 @@ title: "Calendario Adeektivo: De Tortas, Manzanas y Foodtrucks"
 date: 2014-07-30
 author: Ari Torres
 slug: calendario-adeektivo-de-tortas-manzanas-y-foodtrucks
+categories: [México, Comida, Estilo de vida, Eventos]
 ---
 
 Ya llegó el miércoles de aventura para los detractores de la rutina, los aventureros citadinos y los exploradores de la jungla de asfalto. En esta edición de Mexiquita, les compartimos algunos eventos para hacer de su fin de semana algo memorable y disfrutar de un México más cultural.

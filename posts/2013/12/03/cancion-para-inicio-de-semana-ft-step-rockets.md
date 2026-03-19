@@ -3,6 +3,7 @@ title: "Canción para inicio de semana ft. Step Rockets"
 date: 2013-12-03
 author: Roberto Amador
 slug: cancion-para-inicio-de-semana-ft-step-rockets
+categories: [Música, iPhone, Indie]
 ---
 
 ![image](http://adeektos.com/blog/wp-content/uploads/2013/11/steprocketsbanner-2.jpg)

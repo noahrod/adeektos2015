@@ -3,6 +3,7 @@ title: "JUEVES ANTOJADEEKTO: TRIPLEMENTE ORIENTAL"
 date: 2014-10-23
 author: Ari Torres
 slug: jueves-antojadeekto-triplemente-oriental
+categories: [iPhone, China, Comida]
 ---
 
 No sé ustedes, pero yo últimamente he observado un boom en los buffets chinos por toda la ciudad. Tengo que aceptarlo, hay veces que me da desconfianza al pensar de dónde vendrán esos precios tan económicos por las cantidades industriales de comida que puede uno llegar a ingerir (miau), pero por otro lado, algo tiene esa brillantez grasienta, ese capeado húmedo y esos olores agridulces de su comida que me despiertan el apetito culposo, tengo que aceptarlo. Aunque tal vez es cuestión de antojos ¿no? Lo cierto es, la fama que tienen los chinos en cuanto a ingredientes, uso de fauna doméstica y limpieza, muchas veces nos aleja de estos lugares.

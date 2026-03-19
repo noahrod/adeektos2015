@@ -3,6 +3,7 @@ title: "Canción para fin de semana ft. Chvrches"
 date: 2014-01-10
 author: Roberto Amador
 slug: cancion-para-fin-de-semana-ft-chvrches
+categories: [Música]
 ---
 
 ![image](../../../../img/chvrchesbanner.jpg)

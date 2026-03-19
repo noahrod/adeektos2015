@@ -3,6 +3,7 @@ title: "Gnome 3.8, el entorno de escritorio que todas las distribuciones deberí
 date: 2013-03-28
 author: Noé Rodríguez
 slug: gnome-3-8-el-entorno-de-escritorio-que-todas-las-distribuciones-deberian-de-tener
+categories: [Tecnología]
 ---
 
 Según los chicos de Gnome, acaban de publicar la mejor versión en su historia, versión que ya está disponible y viene cargada de novedades.

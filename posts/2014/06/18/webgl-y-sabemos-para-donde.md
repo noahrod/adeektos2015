@@ -3,6 +3,7 @@ title: "WebGL y no sabemos para donde"
 date: 2014-06-18
 author: Hrvoje Jaime Matosic
 slug: webgl-y-sabemos-para-donde
+categories: [iPhone]
 ---
 
 Hace algunos meses se dieron a conocer algunas de la capacidades de WebGL aunque todavía no tiene soporte completo en todos los exploradores. Obviamente está para Chrome y Firefox pero ¿qué pasa con Internet Explorer? que sigue y seguirá cubriendo el porcentaje más alto de uso entre los usuarios.

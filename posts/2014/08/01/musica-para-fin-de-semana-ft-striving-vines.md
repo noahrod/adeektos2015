@@ -3,6 +3,7 @@ title: "Música para fin de semana ft. Striving Vines"
 date: 2014-08-01
 author: Roberto Amador
 slug: musica-para-fin-de-semana-ft-striving-vines
+categories: [Música, iPhone, Redes Sociales, Indie]
 ---
 
 ## Striving Vines

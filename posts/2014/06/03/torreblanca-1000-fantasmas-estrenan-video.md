@@ -3,6 +3,7 @@ title: "Torreblanca y sus 1000 fantasmas estrenan vídeo.  "
 date: 2014-06-03
 author: Noé Rodríguez
 slug: torreblanca-1000-fantasmas-estrenan-video
+categories: [Música]
 ---
 
 Después de lo impacientes que nos tenían los amigos de Torreblanca con sus tweets recordándonos el hecho de que ya casi podríamos disfrutar el vídeo de su canción "1000 Fantasmas", el día de hoy en punto de las 12:00pm lo pudimos ver y sonreír.

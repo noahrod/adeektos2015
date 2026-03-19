@@ -3,6 +3,7 @@ title: "Música de Troye Sivan post Corona Capitalipsis"
 date: 2014-10-13
 author: Jorge Rodriguez
 slug: musica-de-troye-sivan
+categories: [Música, Eventos]
 ---
 
 Es lunes y pensé que no sobreviviría. Estaba seguro que el día de hoy tendría una gripe terrible y mis rodillas se romperían a la mitad cuanto tratara de levantarme a las 5 de la mañana para ir a trabajar; pero sobrevivimos al Corona Capital más caótico que ha habido.

@@ -3,6 +3,7 @@ title: "Canción para inicio de semana ft. The Jezabels"
 date: 2013-11-26
 author: Roberto Amador
 slug: cancion-para-inicio-de-semana-ft-the-jezabels
+categories: [Música, Indie]
 ---
 
 [![image: jezabelsbanner](http://adeektos.com/blog/wp-content/uploads/2013/11/jezabelsbanner.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/11/jezabelsbanner.jpg)

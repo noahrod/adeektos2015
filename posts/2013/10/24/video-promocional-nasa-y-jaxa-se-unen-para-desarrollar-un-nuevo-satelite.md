@@ -3,6 +3,7 @@ title: "Video Promocional: NASA y JAXA se unen para desarrollar un nuevo satéli
 date: 2013-10-24
 author: Edgar Pelaez
 slug: video-promocional-nasa-y-jaxa-se-unen-para-desarrollar-un-nuevo-satelite
+categories: [iPhone]
 ---
 
 En el último año, el trabajo de mucha gente muy especial, como el Comandante Chris Hadfield, se logrado recuperar un poco del interés en la investigación espacial, principalmente debido al uso de los nuevos medios como el internet, que han hecho posible hacer más accesible la experiencia del trabajo realizado en las agencias internacionales dedicadas a este tipo de investigación:

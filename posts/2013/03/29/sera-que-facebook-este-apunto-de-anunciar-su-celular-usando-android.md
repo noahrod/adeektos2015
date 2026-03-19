@@ -3,6 +3,7 @@ title: "¿Será que Facebook este apunto de anunciar su celular? "
 date: 2013-03-29
 author: Noé Rodríguez
 slug: sera-que-facebook-este-apunto-de-anunciar-su-celular-usando-android
+categories: [Tecnología, Smartphone, Android, Redes Sociales, Eventos]
 ---
 
 [![image](../../../../img/Facebook-New-Home-on-Android.jpg)](../../../../img/Facebook-New-Home-on-Android.jpg)

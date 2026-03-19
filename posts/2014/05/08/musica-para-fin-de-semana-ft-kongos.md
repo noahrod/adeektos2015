@@ -3,6 +3,7 @@ title: "Música para fin de semana ft. Kongos"
 date: 2014-05-08
 author: Roberto Amador
 slug: musica-para-fin-de-semana-ft-kongos
+categories: [Música, iPhone]
 ---
 
 ## Kongos es una banda de rock alternativo sudafricana formada por cuatro hermanos Johnny, Jesse, Dylan y Daniel Kongos. Pasaron su infancia en la ciudad de Londres y en Sudáfrica. Compusieron, grabaron y mezclaron su álbum debut en Phoenix, Arizona. Los cuatro hombres son hijos de John Kongos.

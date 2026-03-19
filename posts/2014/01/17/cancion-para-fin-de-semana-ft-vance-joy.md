@@ -3,6 +3,7 @@ title: "Canción para fin de semana ft. Vance Joy"
 date: 2014-01-17
 author: Roberto Amador
 slug: cancion-para-fin-de-semana-ft-vance-joy
+categories: [Música, iPhone]
 ---
 
 ![image: vaynejoybanner](http://adeektos.com/blog/wp-content/uploads/2014/01/vaynejoybanner.jpg)

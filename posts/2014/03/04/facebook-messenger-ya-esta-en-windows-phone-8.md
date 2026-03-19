@@ -3,6 +3,7 @@ title: "Facebook Messenger ya está en Windows Phone 8"
 date: 2014-03-04
 author: Noé Rodríguez
 slug: facebook-messenger-ya-esta-en-windows-phone-8
+categories: [Tecnología, Android, iPhone, Windows Phone, Redes Sociales, Microsoft, Fotografía]
 ---
 
 Facebook Messenger finalmente aparece para todos los usuarios de Windows Phone, tal cual lo anunciaron en el **Mobile World Congress**. Ahora podrás (como los usuarios de Android y iPhone) revisar tus mensajes de Facebook sin necesidad de abrir la aplicación de oficial de Facebook o Internet Explorer.

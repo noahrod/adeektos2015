@@ -3,6 +3,7 @@ title: "Nueva música para inicio de semana ft. Urban Cone"
 date: 2014-11-11
 author: Roberto Amador
 slug: nueva-musica-para-inicio-de-semana-ft-urban-cone
+categories: [Música, Indie, Electro]
 ---
 
 # Urban Cone

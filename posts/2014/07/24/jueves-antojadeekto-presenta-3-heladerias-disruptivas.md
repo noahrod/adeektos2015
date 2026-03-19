@@ -3,6 +3,7 @@ title: "JUEVES ANTOJADEEKTO PRESENTA: 3 Heladerías disruptivas"
 date: 2014-07-24
 author: Ari Torres
 slug: jueves-antojadeekto-presenta-3-heladerias-disruptivas
+categories: [iPhone]
 ---
 
 Bienvenidos queridos melómanos a los jueves en los que la sección de Mexiquita los hará *adeektos* a sus recomendaciones.

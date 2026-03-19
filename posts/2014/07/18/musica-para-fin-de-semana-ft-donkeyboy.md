@@ -3,6 +3,7 @@ title: "Música para fin de semana ft. Donkeyboy"
 date: 2014-07-18
 author: Roberto Amador
 slug: musica-para-fin-de-semana-ft-donkeyboy
+categories: [Música, iPhone, Redes Sociales]
 ---
 
 ## Donkeyboy

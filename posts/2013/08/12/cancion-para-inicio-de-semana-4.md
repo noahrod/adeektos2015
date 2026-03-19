@@ -3,6 +3,7 @@ title: "Canción para inicio de semana"
 date: 2013-08-12
 author: Roberto Amador
 slug: cancion-para-inicio-de-semana-4
+categories: [Música, Estilo de vida]
 ---
 
 ![image: Absofacto_Header2](../../../../img/Absofacto_Header2.jpg)

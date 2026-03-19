@@ -3,6 +3,7 @@ title: "Música para fin de semana ft. SAINT MOTEL"
 date: 2014-05-16
 author: Roberto Amador
 slug: musica-para-fin-de-semana-ft-saint-motel
+categories: [Música, iPhone, Indie]
 ---
 
 ## SAINT MOTEL

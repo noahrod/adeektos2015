@@ -3,6 +3,7 @@ title: "Fractales 2/3"
 date: 2014-07-21
 author: Hrvoje Jaime Matosic
 slug: fractales-23
+categories: [Apple]
 ---
 
 Citando al post anterior sobre fractales: *En el siguiente post, veremos algunos ejemplos hechos en casa de fractales Julia, la explicación breve de cómo se hicieron y luego veremos un pequeño tutorial paso a paso para doblar un Julia con imágenes incluidas.*

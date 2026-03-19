@@ -3,6 +3,7 @@ title: "Arte en los pizarrones de las escuelas de Japón: Desde Dragon Ball hast
 date: 2014-02-18
 author: Edgar Pelaez
 slug: arte-en-los-pizarrones-de-las-escuelas-de-japon-desde-dragon-ball-hasta-jesus
+categories: [Japón, Estilo de vida]
 ---
 
 Las escuelas japonesas tienen una fama de ser muy estrictas, especialmente durante la preparatoria. Es en ésta época en que los estudiantes de todo el país se prepara para el período del *juken*, es decir, los exámenes de admisión para las universidades. Esta situación hace que muchos jóvenes deban acudir no sólo a sus clases normales, sino además, tomar clases extras de regularización para estar preparados para este momento. Si a esto le sumamos las actividades extracurriculares, conocidas como clubes o círculos, en las que prácticamente todos los alumnos participan, podemos concluir que tienen muy poco tiempo libre.

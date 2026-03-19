@@ -3,6 +3,7 @@ title: "10 mapas que no nos enseñaron en la escuela"
 date: 2013-08-05
 author: Alan Luna
 slug: 10-mapas-que-no-nos-ensenaron-en-la-escuela
+categories: [Deportes]
 ---
 
 Con el motivo de que el regreso a clases se encuentra a la vuelta de la esquina (si no es que muchos ya entraron) aquí en Adeektos les dejamos 10 mapas que no nos enseñaron en la escuela. Disfrútenlos y compartan su opinión!

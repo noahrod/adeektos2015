@@ -3,6 +3,7 @@ title: "¿Te imaginas despertar por el sensual aroma del tocino?"
 date: 2014-03-06
 author: Noé Rodríguez
 slug: despertar-por-el-aroma-del-tocino
+categories: [Tecnología, iPhone]
 ---
 
 Existen un montón de accesorios hoy en día para el iPhone, pero ninguno como el que propone Oscar Mayer. Esta empresa de embutidos hará los sueños de los amantes del bacon realidad, **despertar por el sonido y aroma del tocino**.

@@ -3,6 +3,7 @@ title: "Calendario Adeektivo: De cinéfilos y bazares"
 date: 2014-08-13
 author: Ari Torres
 slug: calendario-adeektivo-de-cinefilos-y-bazares
+categories: [Cine, Estilo de vida]
 ---
 
 Aunque no lo crean, una manera muy sencilla de conocer la cultura de un país, es a través de su cine.  Ahora bien, independientemente del género fílmico que favorezcamos, siempre cae muy bien una empapada cinéfila de otros países; ya sea para criticar, alabar, bostezar, llorar o emocionarnos.

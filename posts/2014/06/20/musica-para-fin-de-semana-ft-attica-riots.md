@@ -3,6 +3,7 @@ title: "Música para fin de semana ft. Attica Riots"
 date: 2014-06-20
 author: Roberto Amador
 slug: musica-para-fin-de-semana-ft-attica-riots
+categories: [Música, iPhone, Redes Sociales]
 ---
 
 ## Attica Riots

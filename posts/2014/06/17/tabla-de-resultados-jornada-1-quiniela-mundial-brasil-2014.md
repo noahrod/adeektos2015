@@ -3,6 +3,7 @@ title: "Tabla de resultados - Jornada 1 Quiniela Mundial Brasil 2014"
 date: 2014-06-17
 author: Alan Luna
 slug: tabla-de-resultados-jornada-1-quiniela-mundial-brasil-2014
+categories: [Tecnología, iPhone, Redes Sociales, Microsoft]
 ---
 
 Salve salve galera!

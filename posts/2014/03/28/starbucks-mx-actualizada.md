@@ -3,6 +3,7 @@ title: "Starbucks MX : ¡Actualizada! "
 date: 2014-03-28
 author: Noé Rodríguez
 slug: starbucks-mx-actualizada
+categories: [Tecnología, Windows Phone, Redes Sociales, Microsoft, Estilo de vida]
 ---
 
 ¿Fan del **"café"** de Starbucks? ¿Eres de esos que tienen la tarjeta de **Starbucks Rewards**? ¿Tienes un Windows Phone? Entonces está aplicación te va a encantar.

@@ -3,6 +3,7 @@ title: "Kele s parece nueva música"
 date: 2014-10-27
 author: Jorge Rodriguez
 slug: kele-nueva-musica
+categories: [Música]
 ---
 
 Efectivamente, por segunda semana seguida tengo el peor título para presentar a un artista.

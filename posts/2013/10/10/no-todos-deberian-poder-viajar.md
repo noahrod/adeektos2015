@@ -3,6 +3,7 @@ title: "No todos deberían poder viajar"
 date: 2013-10-10
 author: Noé Rodríguez
 slug: no-todos-deberian-poder-viajar
+categories: [Estilo de vida]
 ---
 
 ![image: jim-carrey-00-660x330](../../../../img/jim-carrey-00-660x330.jpg)

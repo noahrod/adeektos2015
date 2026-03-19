@@ -3,6 +3,7 @@ title: "Música para inicio de semana ft. Chela"
 date: 2014-05-20
 author: Roberto Amador
 slug: musica-para-inicio-de-semana-ft-chela
+categories: [Música, iPhone, Redes Sociales, Comics]
 ---
 
 ## Chela

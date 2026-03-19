@@ -3,6 +3,7 @@ title: "¡Feliz Viaje!"
 date: 2013-04-13
 author: Noé Rodríguez
 slug: feliz-viaje
+categories: [Comida]
 ---
 
 ¡Hola Mari!

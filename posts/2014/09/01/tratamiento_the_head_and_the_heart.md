@@ -3,6 +3,7 @@ title: "Tratamiento contra la lluvia con The Head and The Heart"
 date: 2014-09-01
 author: Jorge Rodriguez
 slug: tratamiento_the_head_and_the_heart
+categories: [Estilo de vida]
 ---
 
 Si son como yo, entonces piensan que la estúpida lluvia de la ciudad arruina nuestras vidas. Y para todos los que piensen lo contrario, primero déjenme defender mi punto.

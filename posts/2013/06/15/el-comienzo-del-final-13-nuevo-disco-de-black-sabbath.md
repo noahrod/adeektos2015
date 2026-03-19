@@ -3,6 +3,7 @@ title: "El comienzo del final: "13" nuevo disco de Black Sabbath "
 date: 2013-06-15
 author: Luis Antonio Arias Romo
 slug: el-comienzo-del-final-13-nuevo-disco-de-black-sabbath
+categories: [Metal]
 ---
 
 ![image: Black-Sabbath](../../../../img/Black-Sabbath.jpg)

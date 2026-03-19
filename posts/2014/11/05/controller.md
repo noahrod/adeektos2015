@@ -3,6 +3,7 @@ title: "Corto de la semana - Controller"
 date: 2014-11-05
 author: Jorge Rodriguez
 slug: controller
+categories: [Música]
 ---
 
 Esta semana les dejo uno de mis cortometrajes favoritos del director Saman Kesh, **Controller**.

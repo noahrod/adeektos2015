@@ -3,6 +3,7 @@ title: "Apple y su "nuevo" iPod Touch por sólo $229dlls"
 date: 2013-05-30
 author: Noé Rodríguez
 slug: apple-y-su-nuevo-ipod-touch-por-solo-229dlls
+categories: [Tecnología, Apple, Fotografía]
 ---
 
 ![image: nipod](../../../../img/nipod.png)

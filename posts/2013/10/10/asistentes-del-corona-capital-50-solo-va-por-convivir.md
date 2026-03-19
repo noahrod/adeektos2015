@@ -3,6 +3,7 @@ title: "Asistentes del Corona-Capital, 50% sólo va por convivir"
 date: 2013-10-10
 author: Noé Rodríguez
 slug: asistentes-del-corona-capital-50-solo-va-por-convivir
+categories: [Música, Comics]
 ---
 
 ![image: busted-logo](../../../../img/busted-logo.jpg)

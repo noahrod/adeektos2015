@@ -3,6 +3,7 @@ title: "Lichen, abre los ojos a tu alrededor"
 date: 2014-10-29
 author: Jorge Rodriguez
 slug: lichen
+categories: [Estilo de vida]
 ---
 
 Si hay algo que caracterice al ser humano en esta época es la desconexión que este llega a tener con sus alrededores. Estamos tan concentrados en nosotros mismos que se nos olvida voltear a ver un mundo lleno de posibilidades.

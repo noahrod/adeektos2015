@@ -3,6 +3,7 @@ title: "Música para inicio de semana ft. Wild Party"
 date: 2014-10-07
 author: Roberto Amador
 slug: musica-para-inicio-de-semana-ft-wild-party
+categories: [Música]
 ---
 
 # Wild Party

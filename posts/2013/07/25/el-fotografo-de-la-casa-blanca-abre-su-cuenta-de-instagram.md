@@ -3,6 +3,7 @@ title: "El fotógrafo de la casa blanca abre su cuenta de Instagram"
 date: 2013-07-25
 author: Noé Rodríguez
 slug: el-fotografo-de-la-casa-blanca-abre-su-cuenta-de-instagram
+categories: [Redes Sociales, Fotografía]
 ---
 
 ![image: 6513f3fcf54411e2890322000a9e48f1_7](../../../../img/6513f3fcf54411e2890322000a9e48f1_7.jpg)

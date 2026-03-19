@@ -3,6 +3,7 @@ title: "Música para inicio de semana ft. Calling All Cars"
 date: 2014-07-15
 author: Roberto Amador
 slug: musica-para-inicio-de-semana-ft-calling-cars
+categories: [Música, iPhone, Redes Sociales]
 ---
 
 ## Calling All Cars

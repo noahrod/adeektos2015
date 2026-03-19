@@ -3,6 +3,7 @@ title: "MSN Messenger, ya es historia"
 date: 2013-04-08
 author: Noé Rodríguez
 slug: msn-messenger-ya-es-historia
+categories: [Redes Sociales, Microsoft]
 ---
 
 [![image](../../../../img/msn-skype.jpg)](../../../../img/msn-skype.jpg)

@@ -3,6 +3,7 @@ title: "Nueva banda de la semana [No.123] ft. Elle King"
 date: 2015-01-09
 author: Roberto Amador
 slug: nueva-banda-de-la-semana-no-123-ft-elle-king
+categories: [Música]
 ---
 
 # Elle King

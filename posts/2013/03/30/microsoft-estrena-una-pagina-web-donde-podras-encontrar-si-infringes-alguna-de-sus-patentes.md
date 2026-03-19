@@ -3,6 +3,7 @@ title: "Microsoft estrena una página web donde podrás encontrar si infringes a
 date: 2013-03-30
 author: Noé Rodríguez
 slug: microsoft-estrena-una-pagina-web-donde-podras-encontrar-si-infringes-alguna-de-sus-patentes
+categories: [Tecnología, Google, Microsoft]
 ---
 
 [![image](../../../../img/mspatent.png)](../../../../img/mspatent.png)

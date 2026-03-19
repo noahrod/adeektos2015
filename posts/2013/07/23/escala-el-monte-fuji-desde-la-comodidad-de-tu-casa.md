@@ -3,6 +3,7 @@ title: "Escala el Monte Fuji desde la comodidad de tu casa."
 date: 2013-07-23
 author: Noé Rodríguez
 slug: escala-el-monte-fuji-desde-la-comodidad-de-tu-casa
+categories: [Google, Japón]
 ---
 
 ![image](../../../../img/Monte_fuji-1024x768-692391.jpeg)

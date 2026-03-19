@@ -3,6 +3,7 @@ title: "19 de Octubre: Kashmir regresa a México "
 date: 2013-05-30
 author: Noé Rodríguez
 slug: 19-de-octubre-kashmir-regresa-a-mexico
+categories: [Música, iPhone, México]
 ---
 
 ![image: kashmirgdl](../../../../img/kashmirgdl.jpg)

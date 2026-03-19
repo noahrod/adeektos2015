@@ -3,6 +3,7 @@ title: "Estudiantes Japonesas Imitan Ataques al estilo Dragon Ball o Street Figh
 date: 2013-03-30
 author: Edgar Pelaez
 slug: estudiantes-japonesas-imitan-ataques-al-estilo-dragon-ball-o-street-fighter
+categories: [Japón, Cine, Fotografía]
 ---
 
 Al parecer, una nueva tendencia entre las chicas que estudian la preparatoria aquí en Japón ha sido tomarse fotografías imitando escenas del manga o video juegos, simulando ataques al más puro estilo de Dragon Ball o de Street Fighter. Tal vez el inicio de esta moda se deba a que pronto se estrenará la nueva película de Dragon Ball: Battle of the Gods, que será la primera aparición de Gokú en la pantalla grande después de 17 años... pero sinceramente, yo creo que no tiene nada que ver, es simplemente por pura diversión.

@@ -3,6 +3,7 @@ title: "Usuarios de smartphones revisan Facebook 14 veces al día"
 date: 2013-03-27
 author: Noé Rodríguez
 slug: bienvenido
+categories: [Smartphone, iPhone, Redes Sociales, Apple, Comics]
 ---
 
 [![image](http://adeektos.com/blog/wp-content/uploads/2013/02/IMG_8719-1024x771.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/02/IMG_8719.jpg)

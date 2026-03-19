@@ -3,6 +3,7 @@ title: "Música para fin de semana ft. Sondre Lerche"
 date: 2014-07-04
 author: Roberto Amador
 slug: musica-para-fin-de-semana-ft-sondre-lerche
+categories: [Música, iPhone]
 ---
 
 ## Sondre Lerche

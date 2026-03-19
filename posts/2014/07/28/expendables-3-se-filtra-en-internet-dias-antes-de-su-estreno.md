@@ -3,6 +3,7 @@ title: ""The Expendables 3" se filtra en Internet días antes de su estreno."
 date: 2014-07-28
 author: Noé Rodríguez
 slug: expendables-3-se-filtra-en-internet-dias-antes-de-su-estreno
+categories: [Cine]
 ---
 
 A mucha gente no le gustan las películas palomeras de acción, a mí sí me gustan y mucho. Sobre todo me gustó la idea de que mezclaran a todos los "héroes" de acción de cuando era chiquito en una sola película. Desafortunadamente los creadores se emocionaron de más y decidieron hacer secuelas de la película de “The expendables”, lamentable decisión. 

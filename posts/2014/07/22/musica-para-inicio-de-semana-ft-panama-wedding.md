@@ -3,6 +3,7 @@ title: "Música para inicio de semana ft. Panama Wedding"
 date: 2014-07-22
 author: Roberto Amador
 slug: musica-para-inicio-de-semana-ft-panama-wedding
+categories: [Música, iPhone, Redes Sociales, Indie]
 ---
 
 ## Panama Wedding

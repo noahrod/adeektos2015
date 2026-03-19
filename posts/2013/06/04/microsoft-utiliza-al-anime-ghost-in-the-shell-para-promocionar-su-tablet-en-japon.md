@@ -3,6 +3,7 @@ title: "Microsoft utiliza al anime Ghost in the Shell para promocionar su tablet
 date: 2013-06-04
 author: Edgar Pelaez
 slug: microsoft-utiliza-al-anime-ghost-in-the-shell-para-promocionar-su-tablet-en-japon
+categories: [Microsoft, Japón]
 ---
 
 En un movimiento que busca beneficiar a ambos, Microsoft junto con los creadores de nuevo anime *[Ghost in the Shell Arise](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15096) *han lanzado dos comerciales, de 15 y 30 segundos de duración y un corto de animado de 3 min, en los que figura la tableta de Microsoft *Surface. *El slogan del comercial dice *"[Ghost in the Shell.](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=910) Una historia más sobre un principio. El artefacto más fuerte (camarada) me vuelve más fuerte."*

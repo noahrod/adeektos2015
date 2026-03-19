@@ -3,6 +3,7 @@ title: "Música para fin de semana ft. Join The Riot"
 date: 2014-05-22
 author: Roberto Amador
 slug: musica-para-fin-de-semana-ft-join-the-riot
+categories: [Música, iPhone, Redes Sociales, Indie]
 ---
 
 ## Join The Riot

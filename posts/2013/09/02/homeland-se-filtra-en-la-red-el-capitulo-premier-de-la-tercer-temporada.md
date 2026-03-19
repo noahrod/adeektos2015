@@ -3,6 +3,7 @@ title: "Homeland: Se filtra en la red el capítulo "premier" de la tercera tempo
 date: 2013-09-02
 author: Noé Rodríguez
 slug: homeland-se-filtra-en-la-red-el-capitulo-premier-de-la-tercer-temporada
+categories: [iPhone]
 ---
 
 ![image: homeland](../../../../img/homeland.jpg)

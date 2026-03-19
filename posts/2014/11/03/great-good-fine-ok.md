@@ -3,6 +3,7 @@ title: "Música de Great Good Fine Ok aha yeah right mmmhmm"
 date: 2014-11-03
 author: Jorge Rodriguez
 slug: great-good-fine-ok
+categories: [Música, Estilo de vida]
 ---
 
 Me gusta el nombre de este grupo "Great Good Fine Ok" porque me recuerda a muchas situaciones en las que puede ser utilizado en una frase.

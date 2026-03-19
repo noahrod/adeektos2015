@@ -3,6 +3,7 @@ title: "Un rapidín con Dirty South"
 date: 2014-11-24
 author: Jorge Rodriguez
 slug: dirty-south
+categories: [Música, Electro]
 ---
 
 Por fin regresé de mis vacaciones para traerles música y me encantaría hablar de muchas tonterías como siempre, pero como todo buen godínez se me acumuló el trabajo y no tengo tiempo de escribir mucho para ustedes.

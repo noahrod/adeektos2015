@@ -3,6 +3,7 @@ title: "Factores X del Super Bowl XLIX"
 date: 2015-02-01
 author: Rogelio Loredo
 slug: factores-x-del-super-bowl-xlix
+categories: [NFL]
 ---
 
 Estamos a unas cuantas horas de presenciar el espectáculo deportivo más grande de todo el año: el Super Bowl XLIX. Mientras que los Seahawks de Seattle, entrenados por Pete Carroll, buscan ser el primer equipo en conseguir el título en años consecutivos desde los Patriotas del 2003 y 2004, mientras que los pupilos de Bill Belichick quieren volver a consagrarse como el mejor equipo de la liga después de nueve años y dos intentos fallidos.

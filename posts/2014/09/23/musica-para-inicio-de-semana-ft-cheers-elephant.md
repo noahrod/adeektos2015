@@ -3,6 +3,7 @@ title: "Música para inicio de semana ft. Cheers Elephant"
 date: 2014-09-23
 author: Roberto Amador
 slug: musica-para-inicio-de-semana-ft-cheers-elephant
+categories: [Música, Indie]
 ---
 
 # Cheers Elephant

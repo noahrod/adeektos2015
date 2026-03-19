@@ -3,6 +3,7 @@ title: "Liga MX, Apertura 2013 1x1 - Parte 1"
 date: 2013-07-15
 author: Alan Luna
 slug: liga-mx-apertura-2013-1x1-parte-1
+categories: [Fútbol, NFL]
 ---
 
 [![image](http://adeektos.com/blog/wp-content/uploads/2013/07/liga-mx-300x187.jpg)](http://adeektos.com/blog/wp-content/uploads/2013/07/liga-mx.jpg)

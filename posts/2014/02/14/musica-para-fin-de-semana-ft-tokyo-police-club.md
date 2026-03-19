@@ -3,6 +3,7 @@ title: "Música para fin de semana ft. Tokyo Police Club"
 date: 2014-02-14
 author: Roberto Amador
 slug: musica-para-fin-de-semana-ft-tokyo-police-club
+categories: [Música, iPhone, Japón, Indie]
 ---
 
 ![image](http://adeektos.com/blog/wp-content/uploads/2014/02/tpcbanner-1024x518.jpg)

@@ -3,6 +3,7 @@ title: "Combichrist regresa a México"
 date: 2013-08-02
 author: Alan Luna
 slug: combichrist-regresa-a-mexico
+categories: [Música, Tecnología, México]
 ---
 
 ![image](http://adeektos.com/blog/wp-content/uploads/2013/08/combichrist_03_by_kobaru-d3blwyc.jpg)

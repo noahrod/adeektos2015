@@ -3,6 +3,7 @@ title: "Canción para el fin de semana"
 date: 2013-07-19
 author: Roberto Amador
 slug: cancion-para-fin-de-semana
+categories: [Música, iPhone, Indie]
 ---
 
 ![image](http://adeektos.com/blog/wp-content/uploads/2013/07/brookewaggoner-feature.jpg)

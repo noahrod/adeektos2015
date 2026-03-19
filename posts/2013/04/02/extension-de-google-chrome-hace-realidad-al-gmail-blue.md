@@ -3,6 +3,7 @@ title: "Extensión de Google Chrome hace realidad al “Gmail Blue”"
 date: 2013-04-02
 author: Noé Rodríguez
 slug: extension-de-google-chrome-hace-realidad-al-gmail-blue
+categories: [Google]
 ---
 
 [![image](../../../../img/gmail-blue.png)](../../../../img/gmail-blue.png)

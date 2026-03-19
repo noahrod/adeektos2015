@@ -3,6 +3,7 @@ title: "Música para inicio de semana ft. NIGHTBOX"
 date: 2014-06-24
 author: Roberto Amador
 slug: musica-para-inicio-de-semana-ft-nightbox
+categories: [Música, iPhone, Indie, Electro]
 ---
 
 ## NIGHTBOX

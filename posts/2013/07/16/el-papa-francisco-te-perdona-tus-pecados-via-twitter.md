@@ -3,6 +3,7 @@ title: "El Papa Francisco te perdona tus pecados vía Twitter."
 date: 2013-07-16
 author: Noé Rodríguez
 slug: el-papa-francisco-te-perdona-tus-pecados-via-twitter
+categories: [Redes Sociales]
 ---
 
 ![image: PAPA FRANCISCO](../../../../img/o-PAPA-FRANCISCO-facebook.jpg)

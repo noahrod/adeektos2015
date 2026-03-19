@@ -3,6 +3,7 @@ title: "Música para inicio de semana ft. DWNTWN"
 date: 2014-06-17
 author: Roberto Amador
 slug: musica-para-inicio-de-semana-ft-dwntwn
+categories: [Música, iPhone, Indie, Electro]
 ---
 
 ## DWNTWN

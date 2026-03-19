@@ -3,6 +3,7 @@ title: "Música para fin de semana ft. Last Dinosaurs"
 date: 2014-02-28
 author: Roberto Amador
 slug: musica-para-fin-de-semana-ft-last-dinosaurs
+categories: [Música, Japón, Indie]
 ---
 
 ![image](http://adeektos.com/blog/wp-content/uploads/2014/02/ldbanner-300x300.jpg)

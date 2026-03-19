@@ -3,6 +3,7 @@ title: "Nueva música para fin de semana ft. Sinclair"
 date: 2014-11-21
 author: Roberto Amador
 slug: nueva-musica-para-fin-de-semana-ft-sinclair
+categories: [Música]
 ---
 
 # Sinclair

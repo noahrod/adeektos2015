@@ -3,6 +3,7 @@ title: "AlunaGeorge porque se llaman Aluna y George"
 date: 2015-01-26
 author: Jorge Rodriguez
 slug: alunageorge
+categories: [Indie]
 ---
 
 No sé como no habíamos escrito sobre **AlunaGeorge** pero el día de hoy remediamos ese error.

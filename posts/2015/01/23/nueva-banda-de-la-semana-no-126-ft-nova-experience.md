@@ -3,6 +3,7 @@ title: "Nueva banda de la semana [No.126] ft. Nova and the Experience"
 date: 2015-01-23
 author: Roberto Amador
 slug: nueva-banda-de-la-semana-no-126-ft-nova-experience
+categories: [Música, iPhone, Indie]
 ---
 
 # Nova and the Experience

@@ -3,6 +3,7 @@ title: "Música para fin de semana ft. HOLYCHILD"
 date: 2014-04-24
 author: Roberto Amador
 slug: musica-para-fin-de-semana-ft-holychild
+categories: [Música, iPhone, Redes Sociales]
 ---
 
 ## HOLYCHILD

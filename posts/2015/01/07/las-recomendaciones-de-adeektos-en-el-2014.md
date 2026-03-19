@@ -3,6 +3,7 @@ title: "Las recomendaciones de Adeektos en el 2014"
 date: 2015-01-07
 author: Roberto Amador
 slug: las-recomendaciones-de-adeektos-en-el-2014
+categories: [Música]
 ---
 
 Bueno Adeekters se nos ha ido un uño más pero para nosotros este nos deja muy satisfechos. Muchos de ustedes pelaron nuestros posts o por lo menos fingieron hacerlo, fue el primer año de música nueva sin interrupción de mi parte, Noé pago casi a tiempo el servidor cada mes y [Ari "La Mexiquita" Torres](http://adeektos.com/blog/category/mexiquita/) y [Jorge Rodriguez](http://adeektos.com/blog/author/jorelr7/) se unieron al grupo de escritores de Adeektos.

@@ -3,6 +3,7 @@ title: "Canción para fin de semana ft. Max Frost"
 date: 2013-12-13
 author: Roberto Amador
 slug: cancion-para-fin-de-semana-ft-max-frost
+categories: [Música, iPhone, NFL]
 ---
 
 ![image](../../../../img/maxfrostbanner-1024x576.jpg)
